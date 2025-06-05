@@ -1,17 +1,50 @@
-# anki-connect
-using it for making cards via API
-https://git.sr.ht/~foosoft/anki-connect
+# Chinese Learning with Anki
 
-Use `pwsh` as the command line option
+A PowerShell module for creating Anki decks from Chinese songs using anki-connect API.
 
-# level 1
-1-2 characters long, and build up to 3-4 based on ones we have already learn from 1-2
+## Quick Start
 
-# level 2
-build 5+ from previous things built up
+```powershell
+# Import the module
+Import-Module ./AnkiDeckFromSongs
 
+# Create Electronic Girl deck
+New-AnkiDeck -SongName "electronic-girl"
 
-## to add new words:
+# Create deck with audio regeneration
+New-AnkiDeck -SongName "electronic-girl" -RegenerateAudio
+
+# List available songs
+ls decks/
+```
+
+## Requirements
+
+- Anki with anki-connect add-on: https://git.sr.ht/~foosoft/anki-connect
+- PowerShell (`pwsh` command)
+
+## Learning Structure
+
+### Level 1
+1-2 characters long, building up to 3-4 characters based on previously learned components
+
+### Level 2
+Build 5+ character phrases from Level 1 components
+
+## Project Structure
+
+```
+decks/
+├── electronic-girl/          # Electronic Girl by Chinese Football
+│   ├── *.json               # Lesson configuration files
+│   ├── *.txt                # Lyrics files
+│   └── audio/               # Generated TTS audio files
+└── my-little-apple/          # Future: My Little Apple by Chopstick Brothers
+```
+
+## Adding New Words
+
+To add new vocabulary to lesson files:
 ```json
   "front": "[sound:new_word.mp3]",  // or just "新词" for reading
   "back": "新词 (xīn cí)<br><br>new word<br><br><i>Context...</i>",
