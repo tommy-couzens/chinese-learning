@@ -1,0 +1,213 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v3::Level 1 - Building Blocks::Reading",
+    "description": "Character-first cards building from characters to compounds to key phrases",
+    "level": 1,
+    "type": "reading",
+    "cardFormat": "Character → Audio + Meaning"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "The 'suddenly' pattern (忽X忽Y)",
+      "description": "Core pattern word and building the most important phrase",
+      "cards": [
+        {
+          "front": "忽",
+          "back": "[sound:hu1.mp3]<br><br>(hū) suddenly, abruptly<br><br><i>Key pattern word in: 忽近忽远, 忽隐忽现...</i>",
+          "tags": ["character", "adverb", "pattern-word"],
+          "audioFile": "hu1.mp3",
+          "chineseText": "忽"
+        },
+        {
+          "front": "近",
+          "back": "[sound:jin4.mp3]<br><br>(jìn) near, close<br><br><i>Opposite of 远. Used in: 忽近忽远</i>",
+          "tags": ["character", "adjective", "spatial"],
+          "audioFile": "jin4.mp3",
+          "chineseText": "近"
+        },
+        {
+          "front": "远",
+          "back": "[sound:yuan3.mp3]<br><br>(yuǎn) far, distant<br><br><i>Opposite of 近. Used in: 忽近忽远</i>",
+          "tags": ["character", "adjective", "spatial"],
+          "audioFile": "yuan3.mp3",
+          "chineseText": "远"
+        },
+        {
+          "front": "忽近忽远",
+          "back": "[sound:hu_jin_hu_yuan.mp3]<br><br>(hū jìn hū yuǎn) suddenly near, suddenly far<br><br><i>Pattern: 忽X忽Y = suddenly X, suddenly Y</i>",
+          "tags": ["phrase", "pattern", "spatial", "key-lyric"],
+          "audioFile": "hu_jin_hu_yuan.mp3",
+          "chineseText": "忽近忽远"
+        }
+      ]
+    },
+    {
+      "groupName": "More 忽X忽Y patterns",
+      "description": "Reinforcing the pattern with additional examples",
+      "cards": [
+        {
+          "front": "忽隐忽现",
+          "back": "[sound:hu_yin_hu_xian.mp3]<br><br>(hū yǐn hū xiàn) suddenly gone, suddenly there<br><br><i>Same pattern as 忽近忽远</i>",
+          "tags": ["phrase", "pattern", "visibility"],
+          "audioFile": "hu_yin_hu_xian.mp3",
+          "chineseText": "忽隐忽现"
+        },
+        {
+          "front": "忽明忽暗",
+          "back": "[sound:hu_ming_hu_an.mp3]<br><br>(hū míng hū àn) suddenly bright, suddenly dark<br><br><i>Same pattern as 忽近忽远</i>",
+          "tags": ["phrase", "pattern", "lighting"],
+          "audioFile": "hu_ming_hu_an.mp3",
+          "chineseText": "忽明忽暗"
+        },
+        {
+          "front": "忽快忽慢",
+          "back": "[sound:hu_kuai_hu_man.mp3]<br><br>(hū kuài hū màn) suddenly fast, suddenly slow<br><br><i>Same pattern as 忽近忽远</i>",
+          "tags": ["phrase", "pattern", "speed"],
+          "audioFile": "hu_kuai_hu_man.mp3",
+          "chineseText": "忽快忽慢"
+        }
+      ]
+    },
+    {
+      "groupName": "Continuous action - building 不停",
+      "description": "Understanding negation + action = continuous action",
+      "cards": [
+        {
+          "front": "不",
+          "back": "[sound:bu4.mp3]<br><br>(bù) not, no<br><br><i>Negation word - used in 不停 (non-stop)</i>",
+          "tags": ["character", "negation"],
+          "audioFile": "bu4.mp3",
+          "chineseText": "不"
+        },
+        {
+          "front": "停",
+          "back": "[sound:ting2.mp3]<br><br>(tíng) stop, halt<br><br><i>Used in 不停 (non-stop)</i>",
+          "tags": ["character", "verb"],
+          "audioFile": "ting2.mp3",
+          "chineseText": "停"
+        },
+        {
+          "front": "不停",
+          "back": "[sound:bu_ting.mp3]<br><br>(bù tíng) non-stop, continuously<br><br><i>不 + 停 = not + stop = non-stop</i>",
+          "tags": ["word", "adverb", "continuous"],
+          "audioFile": "bu_ting.mp3",
+          "chineseText": "不停"
+        }
+      ]
+    },
+    {
+      "groupName": "Spinning action - building 旋转",
+      "description": "Two characters that both mean turning/spinning",
+      "cards": [
+        {
+          "front": "旋",
+          "back": "[sound:xuan2.mp3]<br><br>(xuán) revolve, spin<br><br><i>Used in 旋转 (spinning, rotating)</i>",
+          "tags": ["character", "verb", "movement"],
+          "audioFile": "xuan2.mp3",
+          "chineseText": "旋"
+        },
+        {
+          "front": "转",
+          "back": "[sound:zhuan3.mp3]<br><br>(zhuǎn) turn, rotate<br><br><i>Used in 旋转 (spinning, rotating)</i>",
+          "tags": ["character", "verb", "movement"],
+          "audioFile": "zhuan3.mp3",
+          "chineseText": "转"
+        },
+        {
+          "front": "旋转",
+          "back": "[sound:xuan_zhuan.mp3]<br><br>(xuán zhuǎn) spin, rotate<br><br><i>旋 + 转 = both mean turning/spinning</i>",
+          "tags": ["word", "verb", "movement"],
+          "audioFile": "xuan_zhuan.mp3",
+          "chineseText": "旋转"
+        }
+      ]
+    },
+    {
+      "groupName": "Core building characters",
+      "description": "Essential characters that appear throughout the song",
+      "cards": [
+        {
+          "front": "她",
+          "back": "[sound:ta1.mp3]<br><br>(tā) she, her<br><br><i>Main character in the song</i>",
+          "tags": ["character", "pronoun"],
+          "audioFile": "ta1.mp3",
+          "chineseText": "她"
+        },
+        {
+          "front": "的",
+          "back": "[sound:de.mp3]<br><br>(de) possessive/descriptive particle<br><br><i>Links words together</i>",
+          "tags": ["character", "particle"],
+          "audioFile": "de.mp3",
+          "chineseText": "的"
+        }
+      ]
+    },
+    {
+      "groupName": "Stage and location words",
+      "description": "Simple location vocabulary",
+      "cards": [
+        {
+          "front": "舞台",
+          "back": "[sound:wu_tai.mp3]<br><br>(wǔ tái) stage<br><br><i>舞 (dance) + 台 (platform)</i>",
+          "tags": ["word", "noun", "location"],
+          "audioFile": "wu_tai.mp3",
+          "chineseText": "舞台"
+        },
+        {
+          "front": "节拍",
+          "back": "[sound:jie_pai.mp3]<br><br>(jié pāi) beat, rhythm<br><br><i>节 (rhythm) + 拍 (beat)</i>",
+          "tags": ["word", "noun", "music"],
+          "audioFile": "jie_pai.mp3",
+          "chineseText": "节拍"
+        }
+      ]
+    },
+    {
+      "groupName": "Time and movement concepts",
+      "description": "Additional time and movement vocabulary from the song",
+      "cards": [
+        {
+          "front": "夜",
+          "back": "[sound:ye4.mp3]<br><br>(yè) night<br><br><i>Used in: 在夜里 (in the night)</i>",
+          "tags": ["character", "noun", "time"],
+          "audioFile": "ye4.mp3",
+          "chineseText": "夜"
+        },
+        {
+          "front": "里",
+          "back": "[sound:li3.mp3]<br><br>(lǐ) inside, within<br><br><i>Used in: 在夜里 (in the night)</i>",
+          "tags": ["character", "preposition", "location"],
+          "audioFile": "li3.mp3",
+          "chineseText": "里"
+        },
+        {
+          "front": "在夜里",
+          "back": "[sound:zai_ye_li.mp3]<br><br>(zài yè lǐ) in the night<br><br><i>在 + 夜 + 里 = in + night + inside</i>",
+          "tags": ["phrase", "time", "key-lyric"],
+          "audioFile": "zai_ye_li.mp3",
+          "chineseText": "在夜里"
+        }
+      ]
+    },
+    {
+      "groupName": "Light-related words",
+      "description": "Vocabulary related to light",
+      "cards": [
+        {
+          "front": "光",
+          "back": "[sound:guang1.mp3]<br><br>(guāng) light<br><br><i>Used in: 闪烁的光 (twinkling light)</i>",
+          "tags": ["character", "noun", "light"],
+          "audioFile": "guang1.mp3",
+          "chineseText": "光"
+        },
+        {
+          "front": "闪烁",
+          "back": "[sound:shan_shuo.mp3]<br><br>(shǎn shuò) flash, twinkle<br><br><i>Used in: 闪烁的光 (twinkling light)</i>",
+          "tags": ["word", "verb", "light"],
+          "audioFile": "shan_shuo.mp3", 
+          "chineseText": "闪烁"
+        }
+      ]
+    }
+  ]
+}

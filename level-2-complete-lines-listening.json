@@ -1,0 +1,120 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v3::Level 2 - Complete Lines::Listening",
+    "description": "Complete lyric lines and sentences from the song",
+    "level": 2,
+    "type": "listening",
+    "cardFormat": "Audio → Complete Line + Translation"
+  },
+  "lyricLines": [
+    {
+      "groupName": "Main theme lines",
+      "description": "Core song lines combining Level 1 concepts",
+      "cards": [
+        {
+          "front": "[sound:ta_bu_ting_de_xuan_zhuan_wu_xiu_zhi_de_jie_pai.mp3]",
+          "back": "她不停的旋转无休止的节拍<br><br>(tā bù tíng de xuán zhuǎn wú xiū zhǐ de jié pāi)<br><br>She keeps on spinning to the endless beat<br><br><i>Complete lyric line combining key concepts from Level 1</i>",
+          "tags": ["complete-line", "main-theme"],
+          "audioFile": "ta_bu_ting_de_xuan_zhuan_wu_xiu_zhi_de_jie_pai.mp3",
+          "chineseText": "她不停的旋转无休止的节拍",
+          "translation": "She keeps on spinning to the endless beat"
+        },
+        {
+          "front": "[sound:ta_bu_ting_de_xuan_zhuan_zai_kong_dang_de_wu_tai.mp3]",
+          "back": "她不停的旋转在空荡的舞台<br><br>(tā bù tíng de xuán zhuǎn zài kōng dàng de wǔ tái)<br><br>She keeps on spinning on the empty stage<br><br><i>Complete lyric line about the stage setting</i>",
+          "tags": ["complete-line", "stage-setting"],
+          "audioFile": "ta_bu_ting_de_xuan_zhuan_zai_kong_dang_de_wu_tai.mp3",
+          "chineseText": "她不停的旋转在空荡的舞台",
+          "translation": "She keeps on spinning on the empty stage"
+        },
+        {
+          "front": "[sound:hu_jin_hu_yuan_hu_yin_hu_xian.mp3]",
+          "back": "忽近忽远忽隐忽现<br><br>(hū jìn hū yuǎn hū yǐn hū xiàn)<br><br>Suddenly near, suddenly far, suddenly gone, suddenly there<br><br><i>Combining two 忽X忽Y patterns from Level 1</i>",
+          "tags": ["complete-line", "pattern-combination"],
+          "audioFile": "hu_jin_hu_yuan_hu_yin_hu_xian.mp3",
+          "chineseText": "忽近忽远忽隐忽现",
+          "translation": "Suddenly near, suddenly far, suddenly gone, suddenly there"
+        }
+      ]
+    },
+    {
+      "groupName": "Character description lines",
+      "description": "Lines describing the electronic girl's characteristics",
+      "cards": [
+        {
+          "front": "[sound:ta_shuo_ta_shi_tou_ming_de.mp3]",
+          "back": "她说她是透明的<br><br>(tā shuō tā shì tòu míng de)<br><br>She says she is transparent<br><br><i>Character description from the song</i>",
+          "tags": ["complete-line", "character-trait"],
+          "audioFile": "ta_shuo_ta_shi_tou_ming_de.mp3",
+          "chineseText": "她说她是透明的",
+          "translation": "She says she is transparent"
+        },
+        {
+          "front": "[sound:ta_shuo_ta_kuai_xi_mie_le.mp3]",
+          "back": "她说她快熄灭了<br><br>(tā shuō tā kuài xī miè le)<br><br>She says she's about to burn out<br><br><i>Emotional expression from the song</i>",
+          "tags": ["complete-line", "emotion"],
+          "audioFile": "ta_shuo_ta_kuai_xi_mie_le.mp3",
+          "chineseText": "她说她快熄灭了",
+          "translation": "She says she's about to burn out"
+        },
+        {
+          "front": "[sound:ta_shuo_ta_shi_dian_dong_de.mp3]",
+          "back": "她说她是电动的<br><br>(tā shuō tā shì diàn dòng de)<br><br>She says she is electronic/electric<br><br><i>Title concept - electronic girl</i>",
+          "tags": ["complete-line", "electronic-theme"],
+          "audioFile": "ta_shuo_ta_shi_dian_dong_de.mp3",
+          "chineseText": "她说她是电动的",
+          "translation": "She says she is electronic/electric"
+        },
+        {
+          "front": "[sound:ta_shi_yi_ge_dian_dong_nu_hai.mp3]",
+          "back": "她是一个电动女孩<br><br>(tā shì yī gè diàn dòng nǚ hái)<br><br>She is an electronic girl<br><br><i>Title line - defining the character</i>",
+          "tags": ["complete-line", "title-line"],
+          "audioFile": "ta_shi_yi_ge_dian_dong_nu_hai.mp3",
+          "chineseText": "她是一个电动女孩",
+          "translation": "She is an electronic girl"
+        }
+      ]
+    },
+    {
+      "groupName": "Atmospheric lines",
+      "description": "Lines describing the setting and mood",
+      "cards": [
+        {
+          "front": "[sound:zai_ye_li_shan_shuo_de_guang.mp3]",
+          "back": "在夜里闪烁的光<br><br>(zài yè lǐ shǎn shuò de guāng)<br><br>The light flickering in the night<br><br><i>Atmospheric description from the song</i>",
+          "tags": ["complete-line", "atmosphere"],
+          "audioFile": "zai_ye_li_shan_shuo_de_guang.mp3",
+          "chineseText": "在夜里闪烁的光",
+          "translation": "The light flickering in the night"
+        }
+      ]
+    },
+    {
+      "groupName": "Key phrases built from Level 1 components",
+      "description": "Complex phrases combining the building blocks learned in Level 1",
+      "cards": [
+        {
+          "front": "[sound:ta_bu_ting_de_xuan_zhuan.mp3]",
+          "back": "她不停的旋转<br><br>(tā bù tíng de xuán zhuǎn)<br><br>She keeps on spinning<br><br><i>Built from: 她 + 不停 + 的 + 旋转</i>",
+          "tags": ["key-phrase", "main-action", "6-characters"],
+          "audioFile": "ta_bu_ting_de_xuan_zhuan.mp3",
+          "chineseText": "她不停的旋转"
+        },
+        {
+          "front": "[sound:wu_xiu_zhi_de_jie_pai.mp3]",
+          "back": "无休止的节拍<br><br>(wú xiū zhǐ de jié pāi)<br><br>endless rhythm/beat<br><br><i>Built from: 无休止 + 的 + 节拍</i>",
+          "tags": ["key-phrase", "rhythm", "6-characters"],
+          "audioFile": "wu_xiu_zhi_de_jie_pai.mp3",
+          "chineseText": "无休止的节拍"
+        },
+        {
+          "front": "[sound:zai_kong_dang_de_wu_tai.mp3]",
+          "back": "在空荡的舞台<br><br>(zài kōng dàng de wǔ tái)<br><br>on the empty stage<br><br><i>Built from: 在 + 空荡 + 的 + 舞台</i>",
+          "tags": ["key-phrase", "location", "6-characters"],
+          "audioFile": "zai_kong_dang_de_wu_tai.mp3",
+          "chineseText": "在空荡的舞台"
+        }
+      ]
+    }
+  ]
+}
