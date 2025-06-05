@@ -1,0 +1,118 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - My Little Apple v1::Level 1 - Building Blocks::Listening",
+    "description": "Audio-first cards building from characters to compounds to key phrases from 'My Little Apple'",
+    "level": 1,
+    "type": "listening",
+    "cardFormat": "Audio → Character + Meaning"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Core pronouns and relationship words",
+      "description": "Essential personal pronouns from the song",
+      "cards": [
+        {
+          "front": "[sound:wo3.mp3]",
+          "back": "我 (wǒ)<br><br>I, me<br><br><i>First person pronoun - the singer</i>",
+          "tags": ["character", "pronoun"],
+          "audioFile": "wo3.mp3",
+          "chineseText": "我"
+        },
+        {
+          "front": "[sound:ni3.mp3]",
+          "back": "你 (nǐ)<br><br>you<br><br><i>Second person pronoun - the beloved</i>",
+          "tags": ["character", "pronoun"],
+          "audioFile": "ni3.mp3",
+          "chineseText": "你"
+        }
+      ]
+    },
+    {
+      "groupName": "The key metaphor - little apple",
+      "description": "Building the central metaphor of the song",
+      "cards": [
+        {
+          "front": "[sound:xiao3.mp3]",
+          "back": "小 (xiǎo)<br><br>small, little<br><br><i>Used in: 小苹果 (little apple)</i>",
+          "tags": ["character", "adjective", "size"],
+          "audioFile": "xiao3.mp3",
+          "chineseText": "小"
+        },
+        {
+          "front": "[sound:xiao_pingguo.mp3]",
+          "back": "小苹果 (xiǎo píngguǒ)<br><br>little apple<br><br><i>The central metaphor - term of endearment</i>",
+          "tags": ["phrase", "metaphor", "title"],
+          "audioFile": "xiao_pingguo.mp3",
+          "chineseText": "小苹果"
+        }
+      ]
+    },
+    {
+      "groupName": "Key phrase - 'You are my little apple'",
+      "description": "The most important phrase from the chorus",
+      "cards": [
+        {
+          "front": "[sound:ni_shi_wo_de_xiao_pingguo.mp3]",
+          "back": "你是我的小苹果 (nǐ shì wǒ de xiǎo píngguǒ)<br><br>You are my little apple<br><br><i>The signature line of the song</i>",
+          "tags": ["key-phrase", "chorus", "love-declaration"],
+          "audioFile": "ni_shi_wo_de_xiao_pingguo.mp3",
+          "chineseText": "你是我的小苹果"
+        }
+      ]
+    },
+    {
+      "groupName": "Time and giving concepts",
+      "description": "Important concepts about time and giving/loving",
+      "cards": [
+        {
+          "front": "[sound:mei3.mp3]",
+          "back": "每 (měi)<br><br>every, each<br><br><i>Used in: 每天 (every day)</i>",
+          "tags": ["character", "determiner", "time"],
+          "audioFile": "mei3.mp3",
+          "chineseText": "每"
+        },
+        {
+          "front": "[sound:tian1.mp3]",
+          "back": "天 (tiān)<br><br>day, sky<br><br><i>Used in: 每天 (every day)</i>",
+          "tags": ["character", "noun", "time"],
+          "audioFile": "tian1.mp3",
+          "chineseText": "天"
+        },
+        {
+          "front": "[sound:mei_tian.mp3]",
+          "back": "每天 (měi tiān)<br><br>every day<br><br><i>每 + 天 = every + day</i>",
+          "tags": ["word", "time", "frequency"],
+          "audioFile": "mei_tian.mp3",
+          "chineseText": "每天"
+        }
+      ]
+    },
+    {
+      "groupName": "Love and giving - core actions",
+      "description": "Key verbs expressing love and giving",
+      "cards": [
+        {
+          "front": "[sound:ai4.mp3]",
+          "back": "爱 (ài)<br><br>love<br><br><i>The central emotion of the song</i>",
+          "tags": ["character", "verb", "emotion"],
+          "audioFile": "ai4.mp3",
+          "chineseText": "爱"
+        },
+        {
+          "front": "[sound:song4.mp3]",
+          "back": "送 (sòng)<br><br>give, send, deliver<br><br><i>Used in: 送给你 (give to you)</i>",
+          "tags": ["character", "verb", "action"],
+          "audioFile": "song4.mp3",
+          "chineseText": "送"
+        },
+        {
+          "front": "[sound:song_gei_ni.mp3]",
+          "back": "送给你 (sòng gěi nǐ)<br><br>give to you<br><br><i>送 + 给 + 你 = send + to + you</i>",
+          "tags": ["phrase", "action", "giving"],
+          "audioFile": "song_gei_ni.mp3",
+          "chineseText": "送给你"
+        }
+      ]
+    }
+  ]
+}
