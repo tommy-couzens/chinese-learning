@@ -1,0 +1,377 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - My Little Apple v1::Level 2 - Complete Lines::Reading",
+    "description": "Complete lyric lines and sentences from 'My Little Apple' song - reading practice",
+    "level": 2,
+    "type": "reading",
+    "cardFormat": "Complete Line → Audio + Translation"
+  },
+  "lyricLines": [
+    {
+      "groupName": "Opening verse - planting metaphor",
+      "description": "The opening agricultural metaphor about love growing like fruit",
+      "cards": [
+        {
+          "front": "我种下一颗种子",
+          "back": "[sound:wo_zhong_xia_yi_ke_zhong_zi.mp3]<br><br>(wǒ zhǒngxià yīkē zhǒngzi)<br><br>I planted a seed<br><br><i>Complete opening line using Level 1 concepts: 我 + 种下 + 一颗 + 种子</i>",
+          "tags": ["complete-line", "opening", "agriculture"],
+          "audioFile": "wo_zhong_xia_yi_ke_zhong_zi.mp3",
+          "chineseText": "我种下一颗种子",
+          "translation": "I planted a seed"
+        },
+        {
+          "front": "终于长出了果实",
+          "back": "[sound:zhong_yu_zhang_chu_le_guo_shi.mp3]<br><br>(zhōngyú zhǎngchū le guǒshí)<br><br>finally bore fruit<br><br><i>Result of planting: 终于 + 长出 + 了 + 果实</i>",
+          "tags": ["complete-line", "result", "agriculture"],
+          "audioFile": "zhong_yu_zhang_chu_le_guo_shi.mp3",
+          "chineseText": "终于长出了果实",
+          "translation": "finally bore fruit"
+        },
+        {
+          "front": "今天是个伟大日子",
+          "back": "[sound:jin_tian_shi_ge_wei_da_ri_zi.mp3]<br><br>(jīntiān shì gè wěidà rìzi)<br><br>Today is a great day<br><br><i>Celebrating the result: 今天 + 是 + 个 + 伟大 + 日子</i>",
+          "tags": ["complete-line", "celebration", "time"],
+          "audioFile": "jin_tian_shi_ge_wei_da_ri_zi.mp3",
+          "chineseText": "今天是个伟大日子",
+          "translation": "Today is a great day"
+        }
+      ]
+    },
+    {
+      "groupName": "Celestial gifts - romantic promises",
+      "description": "Grand romantic gestures involving celestial objects",
+      "cards": [
+        {
+          "front": "摘下星星送给你",
+          "back": "[sound:zhai_xia_xing_xing_song_gei_ni.mp3]<br><br>(zhāixià xīngxīng sòng gěi nǐ)<br><br>I give the stars to you<br><br><i>Romantic promise: 摘下 + 星星 + 送给 + 你</i>",
+          "tags": ["complete-line", "romantic", "celestial"],
+          "audioFile": "zhai_xia_xing_xing_song_gei_ni.mp3",
+          "chineseText": "摘下星星送给你",
+          "translation": "I give the stars to you"
+        },
+        {
+          "front": "拽下月亮送给你",
+          "back": "[sound:zhuai_xia_yue_liang_song_gei_ni.mp3]<br><br>(zhuāixià yuèliàng sòng gěi nǐ)<br><br>I give the moon to you<br><br><i>Romantic promise: 拽下 + 月亮 + 送给 + 你</i>",
+          "tags": ["complete-line", "romantic", "celestial"],
+          "audioFile": "zhuai_xia_yue_liang_song_gei_ni.mp3",
+          "chineseText": "拽下月亮送给你",
+          "translation": "I give the moon to you"
+        },
+        {
+          "front": "让太阳",
+          "back": "[sound:rang_tai_yang.mp3]<br><br>(ràng tàiyáng)<br><br>Let the sun<br><br><i>Phrase segment: Part of '让太阳每天为你升起'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "celestial"],
+          "audioFile": "rang_tai_yang.mp3",
+          "chineseText": "让太阳",
+          "translation": "Let the sun"
+        },
+        {
+          "front": "每天",
+          "back": "[sound:mei_tian.mp3]<br><br>(měitiān)<br><br>Everyday<br><br><i>Phrase segment: Part of '让太阳每天为你升起'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "time"],
+          "audioFile": "mei_tian.mp3",
+          "chineseText": "每天",
+          "translation": "Everyday"
+        },
+        {
+          "front": "为你升起",
+          "back": "[sound:wei_ni_sheng_qi.mp3]<br><br>(wéi nǐ shēngqǐ)<br><br>Rise for you<br><br><i>Phrase segment: Part of '让太阳每天为你升起'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "action"],
+          "audioFile": "wei_ni_sheng_qi.mp3",
+          "chineseText": "为你升起",
+          "translation": "Rise for you"
+        },
+        {
+          "front": "让太阳每天为你升起",
+          "back": "[sound:rang_tai_yang_mei_tian_wei_ni_sheng_qi.mp3]<br><br>(ràng tàiyáng měitiān wéi nǐ shēngqǐ)<br><br>Raise the sun everyday for you<br><br><i>Ultimate promise: 让 + 太阳 + 每天 + 为 + 你 + 升起</i>",
+          "tags": ["complete-line", "romantic", "celestial"],
+          "audioFile": "rang_tai_yang_mei_tian_wei_ni_sheng_qi.mp3",
+          "chineseText": "让太阳每天为你升起",
+          "translation": "Raise the sun everyday for you"
+        }
+      ]
+    },
+    {
+      "groupName": "Self-sacrifice bridge",
+      "description": "The bridge about becoming a candle and giving everything",
+      "cards": [
+        {
+          "front": "变成蜡烛燃烧自己",
+          "back": "[sound:bian_cheng_la_zhu_ran_shao_zi_ji.mp3]<br><br>(biànchéng làzhú ránshāo zìjǐ)<br><br>I'll turn into a candle and let myself burn<br><br><i>Self-sacrifice metaphor: 变成 + 蜡烛 + 燃烧 + 自己</i>",
+          "tags": ["complete-line", "sacrifice", "metaphor"],
+          "audioFile": "bian_cheng_la_zhu_ran_shao_zi_ji.mp3",
+          "chineseText": "变成蜡烛燃烧自己",
+          "translation": "I'll turn into a candle and let myself burn"
+        },
+        {
+          "front": "只为照亮你",
+          "back": "[sound:zhi_wei_zhao_liang_ni.mp3]<br><br>(zhǐ wéi zhàoliàng nǐ)<br><br>just to shine a light on you<br><br><i>Purpose of sacrifice: 只为 + 照亮 + 你</i>",
+          "tags": ["complete-line", "purpose", "light"],
+          "audioFile": "zhi_wei_zhao_liang_ni.mp3",
+          "chineseText": "只为照亮你",
+          "translation": "just to shine a light on you"
+        },
+        {
+          "front": "把我一切都献给你",
+          "back": "[sound:ba_wo_yi_qie_dou_xian_gei_ni.mp3]<br><br>(bǎ wǒ yīqiè dōu xiàn gěi nǐ)<br><br>I'll give everything I have to you<br><br><i>Total giving: 把 + 我 + 一切 + 都 + 献给 + 你</i>",
+          "tags": ["complete-line", "devotion", "sacrifice"],
+          "audioFile": "ba_wo_yi_qie_dou_xian_gei_ni.mp3",
+          "chineseText": "把我一切都献给你",
+          "translation": "I'll give everything I have to you"
+        },
+        {
+          "front": "只要你欢喜",
+          "back": "[sound:zhi_yao_ni_huan_xi.mp3]<br><br>(zhǐyào nǐ huānxǐ)<br><br>as long as you're happy<br><br><i>Condition for sacrifice: 只要 + 你 + 欢喜</i>",
+          "tags": ["complete-line", "condition", "happiness"],
+          "audioFile": "zhi_yao_ni_huan_xi.mp3",
+          "chineseText": "只要你欢喜",
+          "translation": "as long as you're happy"
+        }
+      ]
+    },
+    {
+      "groupName": "Meaning and eternity",
+      "description": "Lines about life's meaning and eternal love",
+      "cards": [
+        {
+          "front": "你让我每个明天都变得有意义",
+          "back": "[sound:ni_rang_wo_mei_ge_ming_tian_dou_bian_de_you_yi_yi.mp3]<br><br>(nǐ ràng wǒ měi ge míngtiān dōu biànde yǒu yìyì)<br><br>You give me new meaning everyday<br><br><i>Life transformation: 你 + 让 + 我 + 每个 + 明天 + 都 + 变得 + 有意义</i>",
+          "tags": ["complete-line", "meaning", "transformation"],
+          "audioFile": "ni_rang_wo_mei_ge_ming_tian_dou_bian_de_you_yi_yi.mp3",
+          "chineseText": "你让我每个明天都变得有意义",
+          "translation": "You give me new meaning everyday"
+        },
+        {
+          "front": "生命虽短爱你永远",
+          "back": "[sound:sheng_ming_sui_duan_ai_ni_yong_yuan.mp3]<br><br>(shēngmìng suī duǎn ài nǐ yǒngyuǎn)<br><br>Though life is short, I'll love you forever<br><br><i>Eternal promise: 生命 + 虽 + 短 + 爱 + 你 + 永远</i>",
+          "tags": ["complete-line", "eternity", "love"],
+          "audioFile": "sheng_ming_sui_duan_ai_ni_yong_yuan.mp3",
+          "chineseText": "生命虽短爱你永远",
+          "translation": "Though life is short, I'll love you forever"
+        },
+        {
+          "front": "不离不弃",
+          "back": "[sound:bu_li_bu_qi.mp3]<br><br>(bù lí bù qì)<br><br>never abandoning you<br><br><i>Loyalty promise: 不 + 离 + 不 + 弃</i>",
+          "tags": ["complete-line", "loyalty", "promise"],
+          "audioFile": "bu_li_bu_qi.mp3",
+          "chineseText": "不离不弃",
+          "translation": "never abandoning you"
+        },
+        {
+          "front": "你让我",
+          "back": "[sound:ni_rang_wo.mp3]<br><br>(nǐ ràng wǒ)<br><br>You make me<br><br><i>Phrase segment: Part of '你让我每个明天都变得有意义'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "action"],
+          "audioFile": "ni_rang_wo.mp3",
+          "chineseText": "你让我",
+          "translation": "You make me"
+        },
+        {
+          "front": "每个明天",
+          "back": "[sound:mei_ge_ming_tian.mp3]<br><br>(měi ge míngtiān)<br><br>every tomorrow<br><br><i>Phrase segment: Part of '你让我每个明天都变得有意义'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "time"],
+          "audioFile": "mei_ge_ming_tian.mp3",
+          "chineseText": "每个明天",
+          "translation": "every tomorrow"
+        },
+        {
+          "front": "都变得有意义",
+          "back": "[sound:dou_bian_de_you_yi_yi.mp3]<br><br>(dōu biànde yǒu yìyì)<br><br>all become meaningful<br><br><i>Phrase segment: Part of '你让我每个明天都变得有意义'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "state"],
+          "audioFile": "dou_bian_de_you_yi_yi.mp3",
+          "chineseText": "都变得有意义",
+          "translation": "all become meaningful"
+        }
+      ]
+    },
+    {
+      "groupName": "Chorus - little apple metaphor",
+      "description": "The iconic chorus comparing the beloved to a little apple",
+      "cards": [
+        {
+          "front": "你是我的小呀小苹果儿",
+          "back": "[sound:ni_shi_wo_de_xiao_ya_xiao_ping_guo_er.mp3]<br><br>(nǐ shì wǒ de xiǎo ya xiǎo píngguǒr)<br><br>You are my little apple<br><br><i>Main metaphor: 你 + 是 + 我的 + 小呀小 + 苹果儿</i>",
+          "tags": ["complete-line", "chorus", "metaphor"],
+          "audioFile": "ni_shi_wo_de_xiao_ya_xiao_ping_guo_er.mp3",
+          "chineseText": "你是我的小呀小苹果儿",
+          "translation": "You are my little apple"
+        },
+        {
+          "front": "怎么爱你都不嫌多",
+          "back": "[sound:zen_me_ai_ni_dou_bu_xian_duo.mp3]<br><br>(zěnme ài nǐ dōu bù xiánduō)<br><br>I can never love you too much<br><br><i>Unlimited love: 怎么 + 爱 + 你 + 都 + 不嫌多</i>",
+          "tags": ["complete-line", "chorus", "unlimited"],
+          "audioFile": "zen_me_ai_ni_dou_bu_xian_duo.mp3",
+          "chineseText": "怎么爱你都不嫌多",
+          "translation": "I can never love you too much"
+        },
+        {
+          "front": "红红的小脸儿温暖我的心窝",
+          "back": "[sound:hong_hong_de_xiao_lian_er_wen_nuan_wo_de_xin_wo.mp3]<br><br>(hóng hóng de xiǎoliǎnr wēnnuǎn wǒ de xīnwō)<br><br>Your red face warms my heart<br><br><i>Physical warmth: 红红的 + 小脸儿 + 温暖 + 我的 + 心窝</i>",
+          "tags": ["complete-line", "chorus", "warmth"],
+          "audioFile": "hong_hong_de_xiao_lian_er_wen_nuan_wo_de_xin_wo.mp3",
+          "chineseText": "红红的小脸儿温暖我的心窝",
+          "translation": "Your red face warms my heart"
+        },
+        {
+          "front": "点亮我生命的火 火火火火",
+          "back": "[sound:dian_liang_wo_sheng_ming_de_huo.mp3]<br><br>(diǎnliàng wǒ shēngmìng de huǒ huǒ huǒ huǒ huǒ)<br><br>lighting the fire, fire, fire, fire, fire in my life<br><br><i>Life ignition: 点亮 + 我 + 生命 + 的 + 火 火火火火</i>",
+          "tags": ["complete-line", "chorus", "fire"],
+          "audioFile": "dian_liang_wo_sheng_ming_de_huo.mp3",
+          "chineseText": "点亮我生命的火 火火火火",
+          "translation": "lighting the fire, fire, fire, fire, fire in my life"
+        }
+      ]
+    },
+    {
+      "groupName": "Cloud and spring metaphors",
+      "description": "Beautiful nature metaphors from the chorus",
+      "cards": [
+        {
+          "front": "就像天边最美的云朵",
+          "back": "[sound:jiu_xiang_tian_bian_zui_mei_de_yun_duo.mp3]<br><br>(jiùxiàng tiānbiān zuì měi de yúnduǒ)<br><br>like the most beautiful cloud in the sky<br><br><i>Beauty comparison: 就像 + 天边 + 最美的 + 云朵</i>",
+          "tags": ["complete-line", "chorus", "beauty"],
+          "audioFile": "jiu_xiang_tian_bian_zui_mei_de_yun_duo.mp3",
+          "chineseText": "就像天边最美的云朵",
+          "translation": "like the most beautiful cloud in the sky"
+        },
+        {
+          "front": "春天又来到了花开满山坡",
+          "back": "[sound:chun_tian_you_lai_dao_le_hua_kai_man_shan_po.mp3]<br><br>(chūntiān yòu láidào le huā kāimǎnshānpō)<br><br>Spring arrives again, and flowers bloom all over the mountainside<br><br><i>Spring renewal: 春天 + 又 + 来到了 + 花开满山坡</i>",
+          "tags": ["complete-line", "chorus", "spring"],
+          "audioFile": "chun_tian_you_lai_dao_le_hua_kai_man_shan_po.mp3",
+          "chineseText": "春天又来到了花开满山坡",
+          "translation": "Spring arrives again, and flowers bloom all over the mountainside"
+        },
+        {
+          "front": "种下希望就会收获",
+          "back": "[sound:zhong_xia_xi_wang_jiu_hui_shou_huo.mp3]<br><br>(zhǒngxià xīwàng jiù huì shōuhuò)<br><br>I reap the hopes that I sowed<br><br><i>Hope harvest: 种下 + 希望 + 就会 + 收获</i>",
+          "tags": ["complete-line", "chorus", "hope"],
+          "audioFile": "zhong_xia_xi_wang_jiu_hui_shou_huo.mp3",
+          "chineseText": "种下希望就会收获",
+          "translation": "I reap the hopes that I sowed"
+        }
+      ]
+    },
+    {
+      "groupName": "Acceptance and fresh love",
+      "description": "Verse about accepting everything and freshness of love",
+      "cards": [
+        {
+          "front": "从不觉得你讨厌",
+          "back": "[sound:cong_bu_jue_de_ni_tao_yan.mp3]<br><br>(cóng bù juéde nǐ tǎoyàn)<br><br>I've never disliked you<br><br><i>Never negative: 从不 + 觉得 + 你 + 讨厌</i>",
+          "tags": ["complete-line", "acceptance", "never"],
+          "audioFile": "cong_bu_jue_de_ni_tao_yan.mp3",
+          "chineseText": "从不觉得你讨厌",
+          "translation": "I've never disliked you"
+        },
+        {
+          "front": "你的一切都喜欢",
+          "back": "[sound:ni_de_yi_qie_dou_xi_huan.mp3]<br><br>(nǐ de yīqiè dōu xǐhuān)<br><br>I like everything about you<br><br><i>Total acceptance: 你的 + 一切 + 都 + 喜欢</i>",
+          "tags": ["complete-line", "acceptance", "everything"],
+          "audioFile": "ni_de_yi_qie_dou_xi_huan.mp3",
+          "chineseText": "你的一切都喜欢",
+          "translation": "I like everything about you"
+        },
+        {
+          "front": "有你的每天都新鲜",
+          "back": "[sound:you_ni_de_mei_tian_dou_xin_xian.mp3]<br><br>(yǒu nǐ de měitiān dōu xīnxiān)<br><br>With you, everyday is always fresh<br><br><i>Daily freshness: 有你的 + 每天 + 都 + 新鲜</i>",
+          "tags": ["complete-line", "freshness", "daily"],
+          "audioFile": "you_ni_de_mei_tian_dou_xin_xian.mp3",
+          "chineseText": "有你的每天都新鲜",
+          "translation": "With you, everyday is always fresh"
+        }
+      ]
+    },
+    {
+      "groupName": "Light and darkness contrasts",
+      "description": "Contrasting light and darkness with love",
+      "cards": [
+        {
+          "front": "有你阳光更灿烂",
+          "back": "[sound:you_ni_yang_guang_geng_can_lan.mp3]<br><br>(yǒu nǐ yángguāng gèng cànlàn)<br><br>With you, the sun shines brighter<br><br><i>Enhanced brightness: 有你 + 阳光 + 更 + 灿烂</i>",
+          "tags": ["complete-line", "light", "enhancement"],
+          "audioFile": "you_ni_yang_guang_geng_can_lan.mp3",
+          "chineseText": "有你阳光更灿烂",
+          "translation": "With you, the sun shines brighter"
+        },
+        {
+          "front": "有你黑夜不黑暗",
+          "back": "[sound:you_ni_hei_ye_bu_hei_an.mp3]<br><br>(yǒu nǐ hēiyè bù hēi'àn)<br><br>with you, the nights are not dark<br><br><i>Darkness negated: 有你 + 黑夜 + 不 + 黑暗</i>",
+          "tags": ["complete-line", "darkness", "negation"],
+          "audioFile": "you_ni_hei_ye_bu_hei_an.mp3",
+          "chineseText": "有你黑夜不黑暗",
+          "translation": "with you, the nights are not dark"
+        },
+        {
+          "front": "你是白云我是蓝天",
+          "back": "[sound:ni_shi_bai_yun_wo_shi_lan_tian.mp3]<br><br>(nǐ shì báiyún wǒ shì lántiān)<br><br>You are the white clouds, and I am the blue sky<br><br><i>Sky metaphor: 你是 + 白云 + 我是 + 蓝天</i>",
+          "tags": ["complete-line", "sky", "metaphor"],
+          "audioFile": "ni_shi_bai_yun_wo_shi_lan_tian.mp3",
+          "chineseText": "你是白云我是蓝天",
+          "translation": "You are the white clouds, and I am the blue sky"
+        }
+      ]
+    },
+    {
+      "groupName": "Four seasons together",
+      "description": "Bridge about experiencing all four seasons together",
+      "cards": [
+        {
+          "front": "春天",
+          "back": "[sound:chun_tian.mp3]<br><br>(chūntiān)<br><br>In the spring<br><br><i>Phrase segment: Part of '春天和你漫步在盛开的花丛间'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "spring"],
+          "audioFile": "chun_tian.mp3",
+          "chineseText": "春天",
+          "translation": "In the spring"
+        },
+        {
+          "front": "和你漫步",
+          "back": "[sound:he_ni_man_bu.mp3]<br><br>(hé nǐ mànbù)<br><br>I stroll with you<br><br><i>Phrase segment: Part of '春天和你漫步在盛开的花丛间'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "action"],
+          "audioFile": "he_ni_man_bu.mp3",
+          "chineseText": "和你漫步",
+          "translation": "I stroll with you"
+        },
+        {
+          "front": "在盛开的花丛间",
+          "back": "[sound:zai_sheng_kai_de_hua_cong_jian.mp3]<br><br>(zài shèngkāi de huācóng jiān)<br><br>through the flowers<br><br><i>Phrase segment: Part of '春天和你漫步在盛开的花丛间'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "location", "nature"],
+          "audioFile": "zai_sheng_kai_de_hua_cong_jian.mp3",
+          "chineseText": "在盛开的花丛间",
+          "translation": "through the flowers"
+        },
+        {
+          "front": "春天和你漫步在盛开的花丛间",
+          "back": "[sound:chun_tian_he_ni_man_bu_zai_sheng_kai_de_hua_cong_jian.mp3]<br><br>(chūntiān hé nǐ mànbù zài shèngkāi de huācóng jiān)<br><br>In the spring, I stroll with you through the flowers<br><br><i>Spring together: 春天 + 和你 + 漫步 + 在 + 盛开的 + 花丛间</i>",
+          "tags": ["complete-line", "spring", "together"],
+          "audioFile": "chun_tian_he_ni_man_bu_zai_sheng_kai_de_hua_cong_jian.mp3",
+          "chineseText": "春天和你漫步在盛开的花丛间",
+          "translation": "In the spring, I stroll with you through the flowers"
+        },
+        {
+          "front": "夏天夜晚陪你一起看星星眨眼",
+          "back": "[sound:xia_tian_ye_wan_pei_ni_yi_qi_kan_xing_xing_zha_yan.mp3]<br><br>(xiàtiān yèwǎn péi nǐ yīqǐ kàn xīngxīng zhǎyǎn)<br><br>On summer nights, I watch the stars twinkle with you<br><br><i>Summer together: 夏天 + 夜晚 + 陪你 + 一起 + 看 + 星星 + 眨眼</i>",
+          "tags": ["complete-line", "summer", "together"],
+          "audioFile": "xia_tian_ye_wan_pei_ni_yi_qi_kan_xing_xing_zha_yan.mp3",
+          "chineseText": "夏天夜晚陪你一起看星星眨眼",
+          "translation": "On summer nights, I watch the stars twinkle with you"
+        },
+        {
+          "front": "秋天黄昏与你徜徉在金色麦田",
+          "back": "[sound:qiu_tian_huang_hun_yu_ni_chang_yang_zai_jin_se_mai_tian.mp3]<br><br>(qiūtiān huánghūn yǔ nǐ chángyáng zài jīnsè màitián)<br><br>In the autumn dusk, we wander through golden fields<br><br><i>Autumn together: 秋天 + 黄昏 + 与你 + 徜徉 + 在 + 金色 + 麥田</i>",
+          "tags": ["complete-line", "autumn", "together"],
+          "audioFile": "qiu_tian_huang_hun_yu_ni_chang_yang_zai_jin_se_mai_tian.mp3",
+          "chineseText": "秋天黄昏与你徜徉在金色麦田",
+          "translation": "In the autumn dusk, we wander through golden fields"
+        },
+        {
+          "front": "冬天雪花飞舞有你更加温暖",
+          "back": "[sound:dong_tian_xue_hua_fei_wu_you_ni_geng_jia_wen_nuan.mp3]<br><br>(dōngtiān xuěhuā fēiwǔ yǒu nǐ gèngjiā wēnnuǎn)<br><br>When snowflakes fall in the winter, you keep me warm<br><br><i>Winter together: 冬天 + 雪花 + 飞舞 + 有你 + 更加 + 温暖</i>",
+          "tags": ["complete-line", "winter", "together"],
+          "audioFile": "dong_tian_xue_hua_fei_wu_you_ni_geng_jia_wen_nuan.mp3",
+          "chineseText": "冬天雪花飞舞有你更加温暖",
+          "translation": "When snowflakes fall in the winter, you keep me warm"
+        }
+      ]
+    }
+  ]
+}

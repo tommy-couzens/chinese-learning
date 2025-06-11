@@ -208,6 +208,677 @@
           "chineseText": "闪烁"
         }
       ]
+    },
+    {
+      "groupName": "太X太Y pattern - extremes",
+      "description": "Pattern expressing 'too much' of opposing qualities",
+      "cards": [
+        {
+          "front": "[sound:tai4.mp3]",
+          "back": "太 (tài)<br><br>too, extremely<br><br><i>Pattern word in: 太近太远, 太深太浅...</i>",
+          "tags": ["character", "adverb", "intensity"],
+          "audioFile": "tai4.mp3",
+          "chineseText": "太"
+        },
+        {
+          "front": "[sound:shen1.mp3]",
+          "back": "深 (shēn)<br><br>deep<br><br><i>Opposite of 浅. Used in: 太深太浅</i>",
+          "tags": ["character", "adjective", "depth"],
+          "audioFile": "shen1.mp3",
+          "chineseText": "深"
+        },
+        {
+          "front": "[sound:qian3.mp3]",
+          "back": "浅 (qiǎn)<br><br>shallow<br><br><i>Opposite of 深. Used in: 太深太浅</i>",
+          "tags": ["character", "adjective", "depth"],
+          "audioFile": "qian3.mp3",
+          "chineseText": "浅"
+        },
+        {
+          "front": "[sound:tai_jin_tai_yuan.mp3]",
+          "back": "太近太远 (tài jìn tài yuǎn)<br><br>too close, too far<br><br><i>Pattern: 太X太Y = too X, too Y</i>",
+          "tags": ["phrase", "pattern", "spatial", "extreme"],
+          "audioFile": "tai_jin_tai_yuan.mp3",
+          "chineseText": "太近太远"
+        },
+        {
+          "front": "[sound:tai_shen_tai_qian.mp3]",
+          "back": "太深太浅 (tài shēn tài qiǎn)<br><br>too deep, too shallow<br><br><i>Same pattern as 太近太远</i>",
+          "tags": ["phrase", "pattern", "depth", "extreme"],
+          "audioFile": "tai_shen_tai_qian.mp3",
+          "chineseText": "太深太浅"
+        }
+      ]
+    },
+    {
+      "groupName": "无X无Y pattern - absence",
+      "description": "Pattern expressing 'no X, no Y' - complete absence",
+      "cards": [
+        {
+          "front": "[sound:wu2.mp3]",
+          "back": "无 (wú)<br><br>without, no, none<br><br><i>Pattern word in: 无声无影, 无边无尽...</i>",
+          "tags": ["character", "negation", "absence"],
+          "audioFile": "wu2.mp3",
+          "chineseText": "无"
+        },
+        {
+          "front": "[sound:sheng1.mp3]",
+          "back": "声 (shēng)<br><br>sound, voice<br><br><i>Used in: 无声无影 (no sound, no shadow)</i>",
+          "tags": ["character", "noun", "sound"],
+          "audioFile": "sheng1.mp3",
+          "chineseText": "声"
+        },
+        {
+          "front": "[sound:ying3.mp3]",
+          "back": "影 (yǐng)<br><br>shadow, image<br><br><i>Used in: 无声无影 (no sound, no shadow)</i>",
+          "tags": ["character", "noun", "visual"],
+          "audioFile": "ying3.mp3",
+          "chineseText": "影"
+        },
+        {
+          "front": "[sound:bian1.mp3]",
+          "back": "边 (biān)<br><br>border, edge, side<br><br><i>Used in: 无边无尽 (no borders, no end)</i>",
+          "tags": ["character", "noun", "spatial"],
+          "audioFile": "bian1.mp3",
+          "chineseText": "边"
+        },
+        {
+          "front": "[sound:jin4_end.mp3]",
+          "back": "尽 (jìn)<br><br>end, exhaust, finish<br><br><i>Used in: 无边无尽 (no borders, no end)</i>",
+          "tags": ["character", "verb", "completion"],
+          "audioFile": "jin4_end.mp3",
+          "chineseText": "尽"
+        },
+        {
+          "front": "[sound:wu_sheng_wu_ying.mp3]",
+          "back": "无声无影 (wú shēng wú yǐng)<br><br>no sound, no shadow<br><br><i>Pattern: 无X无Y = no X, no Y</i>",
+          "tags": ["phrase", "pattern", "absence", "sensory"],
+          "audioFile": "wu_sheng_wu_ying.mp3",
+          "chineseText": "无声无影"
+        },
+        {
+          "front": "[sound:wu_bian_wu_jin.mp3]",
+          "back": "无边无尽 (wú biān wú jìn)<br><br>no borders, no end<br><br><i>Same pattern as 无声无影</i>",
+          "tags": ["phrase", "pattern", "absence", "spatial"],
+          "audioFile": "wu_bian_wu_jin.mp3",
+          "chineseText": "无边无尽"
+        }
+      ]
+    },
+    {
+      "groupName": "Speaking and being - 她说 phrases",
+      "description": "Core verbs for expressing and existing",
+      "cards": [
+        {
+          "front": "[sound:shuo1.mp3]",
+          "back": "说 (shuō)<br><br>say, speak, talk<br><br><i>Used in: 她说 (she says)</i>",
+          "tags": ["character", "verb", "communication"],
+          "audioFile": "shuo1.mp3",
+          "chineseText": "说"
+        },
+        {
+          "front": "[sound:shi4.mp3]",
+          "back": "是 (shì)<br><br>be, is, are<br><br><i>Used in: 她是 (she is)</i>",
+          "tags": ["character", "verb", "existence"],
+          "audioFile": "shi4.mp3",
+          "chineseText": "是"
+        },
+        {
+          "front": "[sound:ta_shuo.mp3]",
+          "back": "她说 (tā shuō)<br><br>she says<br><br><i>她 + 说 = she + says</i>",
+          "tags": ["phrase", "communication", "subject-verb"],
+          "audioFile": "ta_shuo.mp3",
+          "chineseText": "她说"
+        }
+      ]
+    },
+    {
+      "groupName": "Character traits and states",
+      "description": "Adjectives describing the electronic girl",
+      "cards": [
+        {
+          "front": "[sound:tou4.mp3]",
+          "back": "透 (tòu)<br><br>penetrate, through<br><br><i>Used in: 透明 (transparent)</i>",
+          "tags": ["character", "verb", "transparency"],
+          "audioFile": "tou4.mp3",
+          "chineseText": "透"
+        },
+        {
+          "front": "[sound:ming2.mp3]",
+          "back": "明 (míng)<br><br>bright, clear, obvious<br><br><i>Used in: 透明 (transparent), 忽明忽暗</i>",
+          "tags": ["character", "adjective", "clarity"],
+          "audioFile": "ming2.mp3",
+          "chineseText": "明"
+        },
+        {
+          "front": "[sound:an4.mp3]",
+          "back": "暗 (àn)<br><br>dark, dim<br><br><i>Opposite of 明. Used in: 忽明忽暗</i>",
+          "tags": ["character", "adjective", "darkness"],
+          "audioFile": "an4.mp3",
+          "chineseText": "暗"
+        },
+        {
+          "front": "[sound:tou_ming.mp3]",
+          "back": "透明 (tòu míng)<br><br>transparent, clear<br><br><i>透 + 明 = through + bright = transparent</i>",
+          "tags": ["word", "adjective", "transparency"],
+          "audioFile": "tou_ming.mp3",
+          "chineseText": "透明"
+        }
+      ]
+    },
+    {
+      "groupName": "Electronic and technology",
+      "description": "The core theme - electronic/electric concepts",
+      "cards": [
+        {
+          "front": "[sound:dian4.mp3]",
+          "back": "电 (diàn)<br><br>electricity, electric<br><br><i>Used in: 电动 (electric/electronic)</i>",
+          "tags": ["character", "noun", "technology"],
+          "audioFile": "dian4.mp3",
+          "chineseText": "电"
+        },
+        {
+          "front": "[sound:dong4.mp3]",
+          "back": "动 (dòng)<br><br>move, motion, action<br><br><i>Used in: 电动 (electric/electronic)</i>",
+          "tags": ["character", "verb", "movement"],
+          "audioFile": "dong4.mp3",
+          "chineseText": "动"
+        },
+        {
+          "front": "[sound:dian_dong.mp3]",
+          "back": "电动 (diàn dòng)<br><br>electric, electronic<br><br><i>电 + 动 = electric + motion = electronic</i>",
+          "tags": ["word", "adjective", "technology"],
+          "audioFile": "dian_dong.mp3",
+          "chineseText": "电动"
+        },
+        {
+          "front": "[sound:nu3.mp3]",
+          "back": "女 (nǚ)<br><br>female, woman<br><br><i>Used in: 女孩 (girl)</i>",
+          "tags": ["character", "noun", "gender"],
+          "audioFile": "nu3.mp3",
+          "chineseText": "女"
+        },
+        {
+          "front": "[sound:hai2.mp3]",
+          "back": "孩 (hái)<br><br>child<br><br><i>Used in: 女孩 (girl)</i>",
+          "tags": ["character", "noun", "age"],
+          "audioFile": "hai2.mp3",
+          "chineseText": "孩"
+        },
+        {
+          "front": "[sound:nu_hai.mp3]",
+          "back": "女孩 (nǚ hái)<br><br>girl<br><br><i>女 + 孩 = female + child = girl</i>",
+          "tags": ["word", "noun", "person"],
+          "audioFile": "nu_hai.mp3",
+          "chineseText": "女孩"
+        },
+        {
+          "front": "[sound:dian_dong_nu_hai.mp3]",
+          "back": "电动女孩 (diàn dòng nǚ hái)<br><br>electronic girl<br><br><i>The title: electric + girl</i>",
+          "tags": ["phrase", "title", "character"],
+          "audioFile": "dian_dong_nu_hai.mp3",
+          "chineseText": "电动女孩"
+        }
+      ]
+    },
+    {
+      "groupName": "Extinguishing and ending",
+      "description": "Concepts about burning out and ending",
+      "cards": [
+        {
+          "front": "[sound:kuai4.mp3]",
+          "back": "快 (kuài)<br><br>fast, quick, soon<br><br><i>Used in: 她快熄灭了 (she's about to burn out)</i>",
+          "tags": ["character", "adjective", "speed"],
+          "audioFile": "kuai4.mp3",
+          "chineseText": "快"
+        },
+        {
+          "front": "[sound:xi1.mp3]",
+          "back": "熄 (xī)<br><br>extinguish, put out<br><br><i>Used in: 熄灭 (extinguish)</i>",
+          "tags": ["character", "verb", "fire"],
+          "audioFile": "xi1.mp3",
+          "chineseText": "熄"
+        },
+        {
+          "front": "[sound:mie4.mp3]",
+          "back": "灭 (miè)<br><br>extinguish, die out<br><br><i>Used in: 熄灭 (extinguish)</i>",
+          "tags": ["character", "verb", "ending"],
+          "audioFile": "mie4.mp3",
+          "chineseText": "灭"
+        },
+        {
+          "front": "[sound:xi_mie.mp3]",
+          "back": "熄灭 (xī miè)<br><br>extinguish, burn out<br><br><i>熄 + 灭 = both mean extinguish</i>",
+          "tags": ["word", "verb", "ending"],
+          "audioFile": "xi_mie.mp3",
+          "chineseText": "熄灭"
+        }
+      ]
+    },
+    {
+      "groupName": "Stage and performance",
+      "description": "Theater and performance vocabulary",
+      "cards": [
+        {
+          "front": "[sound:kong1.mp3]",
+          "back": "空 (kōng)<br><br>empty, vacant<br><br><i>Used in: 空荡 (empty and desolate)</i>",
+          "tags": ["character", "adjective", "emptiness"],
+          "audioFile": "kong1.mp3",
+          "chineseText": "空"
+        },
+        {
+          "front": "[sound:dang4.mp3]",
+          "back": "荡 (dàng)<br><br>sway, empty, vast<br><br><i>Used in: 空荡 (empty and desolate)</i>",
+          "tags": ["character", "adjective", "desolation"],
+          "audioFile": "dang4.mp3",
+          "chineseText": "荡"
+        },
+        {
+          "front": "[sound:kong_dang.mp3]",
+          "back": "空荡 (kōng dàng)<br><br>empty and desolate<br><br><i>空 + 荡 = empty + vast = desolate</i>",
+          "tags": ["word", "adjective", "atmosphere"],
+          "audioFile": "kong_dang.mp3",
+          "chineseText": "空荡"
+        },
+        {
+          "front": "[sound:huang1.mp3]",
+          "back": "荒 (huāng)<br><br>desolate, wild, absurd<br><br><i>Used in: 荒唐 (absurd)</i>",
+          "tags": ["character", "adjective", "absurdity"],
+          "audioFile": "huang1.mp3",
+          "chineseText": "荒"
+        },
+        {
+          "front": "[sound:tang2.mp3]",
+          "back": "唐 (táng)<br><br>Tang dynasty, boastful<br><br><i>Used in: 荒唐 (absurd)</i>",
+          "tags": ["character", "adjective", "absurdity"],
+          "audioFile": "tang2.mp3",
+          "chineseText": "唐"
+        },
+        {
+          "front": "[sound:huang_tang.mp3]",
+          "back": "荒唐 (huāng táng)<br><br>absurd, ridiculous<br><br><i>荒 + 唐 = wild + boastful = absurd</i>",
+          "tags": ["word", "adjective", "absurdity"],
+          "audioFile": "huang_tang.mp3",
+          "chineseText": "荒唐"
+        }
+      ]
+    },
+    {
+      "groupName": "Audience and performance context",
+      "description": "The watching crowd and performance setting",
+      "cards": [
+        {
+          "front": "[sound:xia4.mp3]",
+          "back": "下 (xià)<br><br>below, under, down<br><br><i>Used in: 舞台下 (under the stage)</i>",
+          "tags": ["character", "preposition", "direction"],
+          "audioFile": "xia4.mp3",
+          "chineseText": "下"
+        },
+        {
+          "front": "[sound:guan1.mp3]",
+          "back": "观 (guān)<br><br>watch, observe<br><br><i>Used in: 观众 (audience)</i>",
+          "tags": ["character", "verb", "observation"],
+          "audioFile": "guan1.mp3",
+          "chineseText": "观"
+        },
+        {
+          "front": "[sound:zhong4.mp3]",
+          "back": "众 (zhòng)<br><br>crowd, masses, many<br><br><i>Used in: 观众 (audience)</i>",
+          "tags": ["character", "noun", "group"],
+          "audioFile": "zhong4.mp3",
+          "chineseText": "众"
+        },
+        {
+          "front": "[sound:guan_zhong.mp3]",
+          "back": "观众 (guān zhòng)<br><br>audience<br><br><i>观 + 众 = watch + crowd = audience</i>",
+          "tags": ["word", "noun", "performance"],
+          "audioFile": "guan_zhong.mp3",
+          "chineseText": "观众"
+        },
+        {
+          "front": "[sound:wu_tai_xia.mp3]",
+          "back": "舞台下 (wǔ tái xià)<br><br>under the stage<br><br><i>舞台 + 下 = stage + under</i>",
+          "tags": ["phrase", "location", "performance"],
+          "audioFile": "wu_tai_xia.mp3",
+          "chineseText": "舞台下"
+        }
+      ]
+    },
+    {
+      "groupName": "Waiting and expectations",
+      "description": "The audience's expectations and waiting",
+      "cards": [
+        {
+          "front": "[sound:zai4.mp3]",
+          "back": "在 (zài)<br><br>at, in, on, (progressive marker)<br><br><i>Used in: 在等着 (waiting)</i>",
+          "tags": ["character", "preposition", "location"],
+          "audioFile": "zai4.mp3",
+          "chineseText": "在"
+        },
+        {
+          "front": "[sound:deng3.mp3]",
+          "back": "等 (děng)<br><br>wait, wait for<br><br><i>Used in: 等着 (waiting for)</i>",
+          "tags": ["character", "verb", "time"],
+          "audioFile": "deng3.mp3",
+          "chineseText": "等"
+        },
+        {
+          "front": "[sound:zhe.mp3]",
+          "back": "着 (zhe)<br><br>continuous action marker<br><br><i>Used in: 等着 (waiting)</i>",
+          "tags": ["character", "particle", "grammar"],
+          "audioFile": "zhe.mp3",
+          "chineseText": "着"
+        },
+        {
+          "front": "[sound:chu1.mp3]",
+          "back": "出 (chū)<br><br>out, exit, produce<br><br><i>Used in: 出丑 (make a fool of oneself)</i>",
+          "tags": ["character", "verb", "direction"],
+          "audioFile": "chu1.mp3",
+          "chineseText": "出"
+        },
+        {
+          "front": "[sound:chou3.mp3]",
+          "back": "丑 (chǒu)<br><br>ugly, shameful<br><br><i>Used in: 出丑 (make a fool of oneself)</i>",
+          "tags": ["character", "adjective", "shame"],
+          "audioFile": "chou3.mp3",
+          "chineseText": "丑"
+        },
+        {
+          "front": "[sound:chu_chou.mp3]",
+          "back": "出丑 (chū chǒu)<br><br>make a fool of oneself<br><br><i>出 + 丑 = out + ugly = embarrass oneself</i>",
+          "tags": ["word", "verb", "shame"],
+          "audioFile": "chu_chou.mp3",
+          "chineseText": "出丑"
+        }
+      ]
+    },
+    {
+      "groupName": "Behind the scenes control",
+      "description": "Hidden manipulation and control",
+      "cards": [
+        {
+          "front": "[sound:er2.mp3]",
+          "back": "而 (ér)<br><br>and, but, while<br><br><i>Conjunction connecting ideas</i>",
+          "tags": ["character", "conjunction", "grammar"],
+          "audioFile": "er2.mp3",
+          "chineseText": "而"
+        },
+        {
+          "front": "[sound:mu4.mp3]",
+          "back": "幕 (mù)<br><br>curtain, screen<br><br><i>Used in: 幕布 (curtain)</i>",
+          "tags": ["character", "noun", "theater"],
+          "audioFile": "mu4.mp3",
+          "chineseText": "幕"
+        },
+        {
+          "front": "[sound:bu4.mp3]",
+          "back": "布 (bù)<br><br>cloth, fabric<br><br><i>Used in: 幕布 (curtain)</i>",
+          "tags": ["character", "noun", "material"],
+          "audioFile": "bu4.mp3",
+          "chineseText": "布"
+        },
+        {
+          "front": "[sound:bei4.mp3]",
+          "back": "背 (bèi)<br><br>back, behind<br><br><i>Used in: 背后 (behind)</i>",
+          "tags": ["character", "noun", "direction"],
+          "audioFile": "bei4.mp3",
+          "chineseText": "背"
+        },
+        {
+          "front": "[sound:hou4.mp3]",
+          "back": "后 (hòu)<br><br>back, behind, after<br><br><i>Used in: 背后 (behind)</i>",
+          "tags": ["character", "noun", "direction"],
+          "audioFile": "hou4.mp3",
+          "chineseText": "后"
+        },
+        {
+          "front": "[sound:mu_bu.mp3]",
+          "back": "幕布 (mù bù)<br><br>curtain<br><br><i>幕 + 布 = screen + cloth = curtain</i>",
+          "tags": ["word", "noun", "theater"],
+          "audioFile": "mu_bu.mp3",
+          "chineseText": "幕布"
+        },
+        {
+          "front": "[sound:bei_hou.mp3]",
+          "back": "背后 (bèi hòu)<br><br>behind<br><br><i>背 + 后 = back + back = behind</i>",
+          "tags": ["word", "preposition", "direction"],
+          "audioFile": "bei_hou.mp3",
+          "chineseText": "背后"
+        }
+      ]
+    },
+    {
+      "groupName": "Control and manipulation",
+      "description": "Hidden forces controlling the performance",
+      "cards": [
+        {
+          "front": "[sound:hai2_still.mp3]",
+          "back": "还 (hái)<br><br>still, also, yet<br><br><i>Used in: 还有人 (there are still people)</i>",
+          "tags": ["character", "adverb", "continuation"],
+          "audioFile": "hai2_still.mp3",
+          "chineseText": "还"
+        },
+        {
+          "front": "[sound:you3.mp3]",
+          "back": "有 (yǒu)<br><br>have, there is/are<br><br><i>Used in: 有人 (there are people)</i>",
+          "tags": ["character", "verb", "existence"],
+          "audioFile": "you3.mp3",
+          "chineseText": "有"
+        },
+        {
+          "front": "[sound:ren2.mp3]",
+          "back": "人 (rén)<br><br>person, people<br><br><i>Used in: 有人 (there are people)</i>",
+          "tags": ["character", "noun", "human"],
+          "audioFile": "ren2.mp3",
+          "chineseText": "人"
+        },
+        {
+          "front": "[sound:cao1.mp3]",
+          "back": "操 (cāo)<br><br>operate, control<br><br><i>Used in: 操纵 (manipulate)</i>",
+          "tags": ["character", "verb", "control"],
+          "audioFile": "cao1.mp3",
+          "chineseText": "操"
+        },
+        {
+          "front": "[sound:zong4.mp3]",
+          "back": "纵 (zòng)<br><br>vertical, indulge, let loose<br><br><i>Used in: 操纵 (manipulate)</i>",
+          "tags": ["character", "verb", "control"],
+          "audioFile": "zong4.mp3",
+          "chineseText": "纵"
+        },
+        {
+          "front": "[sound:cao_zong.mp3]",
+          "back": "操纵 (cāo zòng)<br><br>manipulate, control<br><br><i>操 + 纵 = operate + control = manipulate</i>",
+          "tags": ["word", "verb", "control"],
+          "audioFile": "cao_zong.mp3",
+          "chineseText": "操纵"
+        }
+      ]
+    },
+    {
+      "groupName": "Thinking and questioning",
+      "description": "Mental activities and self-reflection",
+      "cards": [
+        {
+          "front": "[sound:xiang3.mp3]",
+          "back": "想 (xiǎng)<br><br>think, want, miss<br><br><i>Used in: 想说, 想问 (want to say, want to ask)</i>",
+          "tags": ["character", "verb", "mental"],
+          "audioFile": "xiang3.mp3",
+          "chineseText": "想"
+        },
+        {
+          "front": "[sound:wen4.mp3]",
+          "back": "问 (wèn)<br><br>ask, question<br><br><i>Used in: 想问 (want to ask)</i>",
+          "tags": ["character", "verb", "communication"],
+          "audioFile": "wen4.mp3",
+          "chineseText": "问"
+        },
+        {
+          "front": "[sound:shei2.mp3]",
+          "back": "谁 (shéi)<br><br>who<br><br><i>Used in: 她是谁 (who is she)</i>",
+          "tags": ["character", "pronoun", "question"],
+          "audioFile": "shei2.mp3",
+          "chineseText": "谁"
+        },
+        {
+          "front": "[sound:ta_xiang_shuo.mp3]",
+          "back": "她想说 (tā xiǎng shuō)<br><br>she wants to say<br><br><i>她 + 想 + 说 = she + want + say</i>",
+          "tags": ["phrase", "mental", "communication"],
+          "audioFile": "ta_xiang_shuo.mp3",
+          "chineseText": "她想说"
+        },
+        {
+          "front": "[sound:ta_xiang_wen.mp3]",
+          "back": "她想问 (tā xiǎng wèn)<br><br>she wants to ask<br><br><i>她 + 想 + 问 = she + want + ask</i>",
+          "tags": ["phrase", "mental", "communication"],
+          "audioFile": "ta_xiang_wen.mp3",
+          "chineseText": "她想问"
+        },
+        {
+          "front": "[sound:ta_shi_shei.mp3]",
+          "back": "她是谁 (tā shì shéi)<br><br>who is she<br><br><i>她 + 是 + 谁 = she + is + who</i>",
+          "tags": ["phrase", "question", "identity"],
+          "audioFile": "ta_shi_shei.mp3",
+          "chineseText": "她是谁"
+        }
+      ]
+    },
+    {
+      "groupName": "Continuous spinning - 一直转",
+      "description": "Expressing continuous action",
+      "cards": [
+        {
+          "front": "[sound:yi1.mp3]",
+          "back": "一 (yī)<br><br>one, a, single<br><br><i>Used in: 一直 (straight, continuously)</i>",
+          "tags": ["character", "number", "unity"],
+          "audioFile": "yi1.mp3",
+          "chineseText": "一"
+        },
+        {
+          "front": "[sound:zhi2.mp3]",
+          "back": "直 (zhí)<br><br>straight, direct<br><br><i>Used in: 一直 (continuously)</i>",
+          "tags": ["character", "adjective", "direction"],
+          "audioFile": "zhi2.mp3",
+          "chineseText": "直"
+        },
+        {
+          "front": "[sound:yi_zhi.mp3]",
+          "back": "一直 (yī zhí)<br><br>continuously, all along<br><br><i>一 + 直 = one + straight = continuously</i>",
+          "tags": ["word", "adverb", "continuity"],
+          "audioFile": "yi_zhi.mp3",
+          "chineseText": "一直"
+        },
+        {
+          "front": "[sound:yi_zhi_zhuan.mp3]",
+          "back": "一直转 (yī zhí zhuǎn)<br><br>spinning continuously<br><br><i>一直 + 转 = continuously + spin</i>",
+          "tags": ["phrase", "action", "continuity"],
+          "audioFile": "yi_zhi_zhuan.mp3",
+          "chineseText": "一直转"
+        }
+      ]
+    },
+    {
+      "groupName": "Purpose and Earth's response",
+      "description": "Questions of purpose and the Earth's answer",
+      "cards": [
+        {
+          "front": "[sound:wei4.mp3]",
+          "back": "为 (wèi)<br><br>for, because of<br><br><i>Used in: 为了谁 (for whom)</i>",
+          "tags": ["character", "preposition", "purpose"],
+          "audioFile": "wei4.mp3",
+          "chineseText": "为"
+        },
+        {
+          "front": "[sound:le5.mp3]",
+          "back": "了 (le)<br><br>particle indicating completion<br><br><i>Used in: 为了 (in order to)</i>",
+          "tags": ["character", "particle", "grammar"],
+          "audioFile": "le5.mp3",
+          "chineseText": "了"
+        },
+        {
+          "front": "[sound:wei_le.mp3]",
+          "back": "为了 (wèi le)<br><br>for, in order to<br><br><i>为 + 了 = for + completion = in order to</i>",
+          "tags": ["word", "preposition", "purpose"],
+          "audioFile": "wei_le.mp3",
+          "chineseText": "为了"
+        },
+        {
+          "front": "[sound:di4.mp3]",
+          "back": "地 (dì)<br><br>earth, ground<br><br><i>Used in: 地球 (Earth)</i>",
+          "tags": ["character", "noun", "planet"],
+          "audioFile": "di4.mp3",
+          "chineseText": "地"
+        },
+        {
+          "front": "[sound:qiu2.mp3]",
+          "back": "球 (qiú)<br><br>ball, sphere<br><br><i>Used in: 地球 (Earth)</i>",
+          "tags": ["character", "noun", "shape"],
+          "audioFile": "qiu2.mp3",
+          "chineseText": "球"
+        },
+        {
+          "front": "[sound:di_qiu.mp3]",
+          "back": "地球 (dì qiú)<br><br>Earth (planet)<br><br><i>地 + 球 = ground + ball = Earth</i>",
+          "tags": ["word", "noun", "planet"],
+          "audioFile": "di_qiu.mp3",
+          "chineseText": "地球"
+        }
+      ]
+    },
+    {
+      "groupName": "Earth's dismissive advice",
+      "description": "The Earth's final words of advice",
+      "cards": [
+        {
+          "front": "[sound:yong4.mp3]",
+          "back": "用 (yòng)<br><br>use, need<br><br><i>Used in: 不用 (don't need to)</i>",
+          "tags": ["character", "verb", "utility"],
+          "audioFile": "yong4.mp3",
+          "chineseText": "用"
+        },
+        {
+          "front": "[sound:guan3.mp3]",
+          "back": "管 (guǎn)<br><br>manage, care about<br><br><i>Used in: 不用管 (don't need to care)</i>",
+          "tags": ["character", "verb", "management"],
+          "audioFile": "guan3.mp3",
+          "chineseText": "管"
+        },
+        {
+          "front": "[sound:jiu4.mp3]",
+          "back": "就 (jiù)<br><br>just, then, exactly<br><br><i>Used in: 就跟我转 (just spin with me)</i>",
+          "tags": ["character", "adverb", "emphasis"],
+          "audioFile": "jiu4.mp3",
+          "chineseText": "就"
+        },
+        {
+          "front": "[sound:gen1.mp3]",
+          "back": "跟 (gēn)<br><br>with, follow<br><br><i>Used in: 跟我转 (spin with me)</i>",
+          "tags": ["character", "preposition", "accompaniment"],
+          "audioFile": "gen1.mp3",
+          "chineseText": "跟"
+        },
+        {
+          "front": "[sound:wo3.mp3]",
+          "back": "我 (wǒ)<br><br>I, me<br><br><i>The Earth speaking</i>",
+          "tags": ["character", "pronoun", "self"],
+          "audioFile": "wo3.mp3",
+          "chineseText": "我"
+        },
+        {
+          "front": "[sound:bu_yong_guan.mp3]",
+          "back": "不用管 (bù yòng guǎn)<br><br>don't need to care<br><br><i>不 + 用 + 管 = not + need + care</i>",
+          "tags": ["phrase", "dismissal", "advice"],
+          "audioFile": "bu_yong_guan.mp3",
+          "chineseText": "不用管"
+        },
+        {
+          "front": "[sound:jiu_gen_wo_zhuan.mp3]",
+          "back": "就跟我转 (jiù gēn wǒ zhuǎn)<br><br>just spin with me<br><br><i>就 + 跟 + 我 + 转 = just + with + me + spin</i>",
+          "tags": ["phrase", "advice", "companionship"],
+          "audioFile": "jiu_gen_wo_zhuan.mp3",
+          "chineseText": "就跟我转"
+        }
+      ]
     }
   ]
 }

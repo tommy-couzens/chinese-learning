@@ -31,6 +31,20 @@ ls decks/
 ### Level 2
 Build 5+ character phrases from Level 1 components
 
+### Tips of making the program
+words like 苹果 can just be introduced straight away, do not introduce 苹 or 果 seperately since they are not words on their own.
+
+
+春天和你漫步在盛开的花丛间
+In the spring, I stroll with you through the flowers
+
+cards like this are way too long to start with all at once
+
+I want cards which bridge the gap, i.e break it up and first have cards which me:
+- In the spring
+- I stroll with you
+- through the flowers
+
 ## Project Structure
 
 ```

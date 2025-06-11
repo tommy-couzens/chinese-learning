@@ -1,0 +1,795 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - My Little Apple v1::Level 1 - Building Blocks::Reading",
+    "description": "Character-first cards building from characters to compounds to key phrases from 'My Little Apple' - comprehensive vocabulary coverage",
+    "level": 1,
+    "type": "reading",
+    "cardFormat": "Character → Audio + Meaning"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Core pronouns and relationship words",
+      "description": "Essential personal pronouns from the song",
+      "cards": [
+        {
+          "front": "我",
+          "back": "[sound:wo3.mp3]<br><br>(wǒ) I, me<br><br><i>First person pronoun - the singer</i>",
+          "tags": ["character", "pronoun"],
+          "audioFile": "wo3.mp3",
+          "chineseText": "我"
+        },
+        {
+          "front": "你",
+          "back": "[sound:ni3.mp3]<br><br>(nǐ) you<br><br><i>Second person pronoun - the beloved</i>",
+          "tags": ["character", "pronoun"],
+          "audioFile": "ni3.mp3",
+          "chineseText": "你"
+        },
+        {
+          "front": "你的",
+          "back": "[sound:ni_de.mp3]<br><br>(nǐ de) your, yours<br><br><i>你 + 的 = you + possessive particle</i>",
+          "tags": ["word", "possessive"],
+          "audioFile": "ni_de.mp3",
+          "chineseText": "你的"
+        },
+        {
+          "front": "我的",
+          "back": "[sound:wo_de.mp3]<br><br>(wǒ de) my, mine<br><br><i>我 + 的 = I + possessive particle</i>",
+          "tags": ["word", "possessive"],
+          "audioFile": "wo_de.mp3",
+          "chineseText": "我的"
+        }
+      ]
+    },
+    {
+      "groupName": "Planting and growing - agricultural metaphors",
+      "description": "Vocabulary about planting, seeds, and growth from the opening verse",
+      "cards": [
+        {
+          "front": "种",
+          "back": "[sound:zhong4.mp3]<br><br>(zhòng) plant, grow<br><br><i>To plant seeds or crops</i>",
+          "tags": ["character", "verb", "agriculture"],
+          "audioFile": "zhong4.mp3",
+          "chineseText": "种"
+        },
+        {
+          "front": "下",
+          "back": "[sound:xia4.mp3]<br><br>(xià) down, below; plant/put down<br><br><i>Direction word, used in 种下 (plant down)</i>",
+          "tags": ["character", "direction", "verb"],
+          "audioFile": "xia4.mp3",
+          "chineseText": "下"
+        },
+        {
+          "front": "种下",
+          "back": "[sound:zhong_xia.mp3]<br><br>(zhòngxià) plant, sow<br><br><i>种 + 下 = to plant something in the ground</i>",
+          "tags": ["word", "verb", "agriculture"],
+          "audioFile": "zhong_xia.mp3",
+          "chineseText": "种下"
+        },
+        {
+          "front": "一颗",
+          "back": "[sound:yi_ke.mp3]<br><br>(yīkē) one (measure word for small round objects)<br><br><i>一 + 颗 = one + classifier for seeds, fruits, hearts</i>",
+          "tags": ["word", "number", "measure-word"],
+          "audioFile": "yi_ke.mp3",
+          "chineseText": "一颗"
+        },
+        {
+          "front": "种子",
+          "back": "[sound:zhong_zi.mp3]<br><br>(zhǒngzi) seed<br><br><i>种 + 子 = plant + child = seed</i>",
+          "tags": ["word", "noun", "agriculture"],
+          "audioFile": "zhong_zi.mp3",
+          "chineseText": "种子"
+        },
+        {
+          "front": "长",
+          "back": "[sound:zhang3.mp3]<br><br>(zhǎng) grow, become longer<br><br><i>Growth and development</i>",
+          "tags": ["character", "verb"],
+          "audioFile": "zhang3.mp3",
+          "chineseText": "长"
+        },
+        {
+          "front": "出",
+          "back": "[sound:chu1.mp3]<br><br>(chū) out, emerge<br><br><i>Coming out or forth</i>",
+          "tags": ["character", "verb", "direction"],
+          "audioFile": "chu1.mp3",
+          "chineseText": "出"
+        },
+        {
+          "front": "长出",
+          "back": "[sound:zhang_chu.mp3]<br><br>(zhǎngchū) grow out, sprout<br><br><i>长 + 出 = grow + out = to grow and emerge</i>",
+          "tags": ["word", "verb", "growth"],
+          "audioFile": "zhang_chu.mp3",
+          "chineseText": "长出"
+        },
+        {
+          "front": "果实",
+          "back": "[sound:guo_shi.mp3]<br><br>(guǒshí) fruit, result<br><br><i>果 + 实 = fruit + actual = literal fruit or metaphorical result</i>",
+          "tags": ["word", "noun", "agriculture"],
+          "audioFile": "guo_shi.mp3",
+          "chineseText": "果实"
+        },
+        {
+          "front": "收获",
+          "back": "[sound:shou_huo.mp3]<br><br>(shōuhuò) harvest, reap<br><br><i>收 + 获 = collect + obtain = to harvest</i>",
+          "tags": ["word", "verb", "agriculture"],
+          "audioFile": "shou_huo.mp3",
+          "chineseText": "收获"
+        }
+      ]
+    },
+    {
+      "groupName": "Time concepts and expressions",
+      "description": "Words related to time, days, and temporal expressions",
+      "cards": [
+        {
+          "front": "今天",
+          "back": "[sound:jin_tian.mp3]<br><br>(jīntiān) today<br><br><i>今 + 天 = this + day = today</i>",
+          "tags": ["word", "time", "noun"],
+          "audioFile": "jin_tian.mp3",
+          "chineseText": "今天"
+        },
+        {
+          "front": "日子",
+          "back": "[sound:ri_zi.mp3]<br><br>(rìzi) day, date<br><br><i>日 + 子 = sun + child = day/date</i>",
+          "tags": ["word", "time", "noun"],
+          "audioFile": "ri_zi.mp3",
+          "chineseText": "日子"
+        },
+        {
+          "front": "每天",
+          "back": "[sound:mei_tian.mp3]<br><br>(měitiān) every day<br><br><i>每 + 天 = each + day = every day</i>",
+          "tags": ["word", "time", "adverb"],
+          "audioFile": "mei_tian.mp3",
+          "chineseText": "每天"
+        },
+        {
+          "front": "明天",
+          "back": "[sound:ming_tian.mp3]<br><br>(míngtiān) tomorrow<br><br><i>明 + 天 = bright + day = tomorrow</i>",
+          "tags": ["word", "time", "noun"],
+          "audioFile": "ming_tian.mp3",
+          "chineseText": "明天"
+        },
+        {
+          "front": "终于",
+          "back": "[sound:zhong_yu.mp3]<br><br>(zhōngyú) finally, at last<br><br><i>终 + 于 = end + at = finally</i>",
+          "tags": ["word", "adverb", "time"],
+          "audioFile": "zhong_yu.mp3",
+          "chineseText": "终于"
+        },
+        {
+          "front": "永远",
+          "back": "[sound:yong_yuan.mp3]<br><br>(yǒngyuǎn) forever, always<br><br><i>永 + 远 = eternal + far = forever</i>",
+          "tags": ["word", "adverb", "time"],
+          "audioFile": "yong_yuan.mp3",
+          "chineseText": "永远"
+        }
+      ]
+    },
+    {
+      "groupName": "Four seasons vocabulary",
+      "description": "The four seasons and related seasonal imagery",
+      "cards": [
+        {
+          "front": "春天",
+          "back": "[sound:chun_tian.mp3]<br><br>(chūntiān) spring<br><br><i>春 + 天 = spring + sky = spring season</i>",
+          "tags": ["word", "season", "noun"],
+          "audioFile": "chun_tian.mp3",
+          "chineseText": "春天"
+        },
+        {
+          "front": "夏天",
+          "back": "[sound:xia_tian.mp3]<br><br>(xiàtiān) summer<br><br><i>夏 + 天 = summer + sky = summer season</i>",
+          "tags": ["word", "season", "noun"],
+          "audioFile": "xia_tian.mp3",
+          "chineseText": "夏天"
+        },
+        {
+          "front": "秋天",
+          "back": "[sound:qiu_tian.mp3]<br><br>(qiūtiān) autumn, fall<br><br><i>秋 + 天 = autumn + sky = autumn season</i>",
+          "tags": ["word", "season", "noun"],
+          "audioFile": "qiu_tian.mp3",
+          "chineseText": "秋天"
+        },
+        {
+          "front": "冬天",
+          "back": "[sound:dong_tian.mp3]<br><br>(dōngtiān) winter<br><br><i>冬 + 天 = winter + sky = winter season</i>",
+          "tags": ["word", "season", "noun"],
+          "audioFile": "dong_tian.mp3",
+          "chineseText": "冬天"
+        },
+        {
+          "front": "又",
+          "back": "[sound:you4.mp3]<br><br>(yòu) again, also<br><br><i>Repetition or addition - used in 春天又来到了</i>",
+          "tags": ["character", "adverb"],
+          "audioFile": "you4.mp3",
+          "chineseText": "又"
+        },
+        {
+          "front": "来到",
+          "back": "[sound:lai_dao.mp3]<br><br>(láidào) arrive, come to<br><br><i>来 + 到 = come + arrive = to arrive</i>",
+          "tags": ["word", "verb", "movement"],
+          "audioFile": "lai_dao.mp3",
+          "chineseText": "来到"
+        }
+      ]
+    },
+    {
+      "groupName": "Celestial objects - sun, moon, stars",
+      "description": "Heavenly bodies that appear in the romantic metaphors",
+      "cards": [
+        {
+          "front": "太阳",
+          "back": "[sound:tai_yang.mp3]<br><br>(tàiyáng) sun<br><br><i>太 + 阳 = great + yang = sun</i>",
+          "tags": ["word", "noun", "celestial"],
+          "audioFile": "tai_yang.mp3",
+          "chineseText": "太阳"
+        },
+        {
+          "front": "月亮",
+          "back": "[sound:yue_liang.mp3]<br><br>(yuèliàng) moon<br><br><i>月 + 亮 = moon + bright = moon</i>",
+          "tags": ["word", "noun", "celestial"],
+          "audioFile": "yue_liang.mp3",
+          "chineseText": "月亮"
+        },
+        {
+          "front": "星星",
+          "back": "[sound:xing_xing.mp3]<br><br>(xīngxīng) stars<br><br><i>星 + 星 = star + star = stars (reduplicated)</i>",
+          "tags": ["word", "noun", "celestial"],
+          "audioFile": "xing_xing.mp3",
+          "chineseText": "星星"
+        },
+        {
+          "front": "摘下",
+          "back": "[sound:zhai_xia.mp3]<br><br>(zhāixià) pick, pluck down<br><br><i>摘 + 下 = pick + down = to pick and take down</i>",
+          "tags": ["word", "verb"],
+          "audioFile": "zhai_xia.mp3",
+          "chineseText": "摘下"
+        },
+        {
+          "front": "拽下",
+          "back": "[sound:zhuai_xia.mp3]<br><br>(zhuāixià) pull down, yank down<br><br><i>拽 + 下 = pull + down = to pull down forcefully</i>",
+          "tags": ["word", "verb"],
+          "audioFile": "zhuai_xia.mp3",
+          "chineseText": "拽下"
+        },
+        {
+          "front": "升起",
+          "back": "[sound:sheng_qi.mp3]<br><br>(shēngqǐ) rise, ascend<br><br><i>升 + 起 = rise + up = to rise up</i>",
+          "tags": ["word", "verb"],
+          "audioFile": "sheng_qi.mp3",
+          "chineseText": "升起"
+        }
+      ]
+    },
+    {
+      "groupName": "Colors and appearance",
+      "description": "Color words and appearance descriptions",
+      "cards": [
+        {
+          "front": "红",
+          "back": "[sound:hong2.mp3]<br><br>(hóng) red<br><br><i>The color red</i>",
+          "tags": ["character", "color", "adjective"],
+          "audioFile": "hong2.mp3",
+          "chineseText": "红"
+        },
+        {
+          "front": "红红的",
+          "back": "[sound:hong_hong_de.mp3]<br><br>(hóng hóng de) reddish, very red<br><br><i>红 + 红 + 的 = red + red + particle = reddish/very red</i>",
+          "tags": ["phrase", "color", "adjective"],
+          "audioFile": "hong_hong_de.mp3",
+          "chineseText": "红红的"
+        },
+        {
+          "front": "小脸",
+          "back": "[sound:xiao_lian.mp3]<br><br>(xiǎoliǎn) little face<br><br><i>小 + 脸 = small + face = little face</i>",
+          "tags": ["word", "noun", "body"],
+          "audioFile": "xiao_lian.mp3",
+          "chineseText": "小脸"
+        },
+        {
+          "front": "白云",
+          "back": "[sound:bai_yun.mp3]<br><br>(báiyún) white clouds<br><br><i>白 + 云 = white + cloud = white clouds</i>",
+          "tags": ["word", "noun", "nature"],
+          "audioFile": "bai_yun.mp3",
+          "chineseText": "白云"
+        },
+        {
+          "front": "蓝天",
+          "back": "[sound:lan_tian.mp3]<br><br>(lántiān) blue sky<br><br><i>蓝 + 天 = blue + sky = blue sky</i>",
+          "tags": ["word", "noun", "nature"],
+          "audioFile": "lan_tian.mp3",
+          "chineseText": "蓝天"
+        },
+        {
+          "front": "金色",
+          "back": "[sound:jin_se.mp3]<br><br>(jīnsè) golden, gold color<br><br><i>金 + 色 = gold + color = golden</i>",
+          "tags": ["word", "color", "adjective"],
+          "audioFile": "jin_se.mp3",
+          "chineseText": "金色"
+        }
+      ]
+    },
+    {
+      "groupName": "Nature and landscape",
+      "description": "Natural elements, landscapes, and environment",
+      "cards": [
+        {
+          "front": "花",
+          "back": "[sound:hua1.mp3]<br><br>(huā) flower<br><br><i>Flowers and blossoms</i>",
+          "tags": ["character", "noun", "nature"],
+          "audioFile": "hua1.mp3",
+          "chineseText": "花"
+        },
+        {
+          "front": "开",
+          "back": "[sound:kai1.mp3]<br><br>(kāi) open, bloom<br><br><i>To open or bloom (flowers)</i>",
+          "tags": ["character", "verb"],
+          "audioFile": "kai1.mp3",
+          "chineseText": "开"
+        },
+        {
+          "front": "花开",
+          "back": "[sound:hua_kai.mp3]<br><br>(huākāi) flowers bloom<br><br><i>花 + 开 = flower + bloom = flowers blooming</i>",
+          "tags": ["word", "verb", "nature"],
+          "audioFile": "hua_kai.mp3",
+          "chineseText": "花开"
+        },
+        {
+          "front": "山坡",
+          "back": "[sound:shan_po.mp3]<br><br>(shānpō) hillside, slope<br><br><i>山 + 坡 = mountain + slope = hillside</i>",
+          "tags": ["word", "noun", "landscape"],
+          "audioFile": "shan_po.mp3",
+          "chineseText": "山坡"
+        },
+        {
+          "front": "花丛",
+          "back": "[sound:hua_cong.mp3]<br><br>(huācóng) flower cluster, flower bed<br><br><i>花 + 丛 = flower + cluster = flower bed</i>",
+          "tags": ["word", "noun", "nature"],
+          "audioFile": "hua_cong.mp3",
+          "chineseText": "花丛"
+        },
+        {
+          "front": "麦田",
+          "back": "[sound:mai_tian.mp3]<br><br>(màitián) wheat field<br><br><i>麦 + 田 = wheat + field = wheat field</i>",
+          "tags": ["word", "noun", "agriculture"],
+          "audioFile": "mai_tian.mp3",
+          "chineseText": "麦田"
+        },
+        {
+          "front": "雪花",
+          "back": "[sound:xue_hua.mp3]<br><br>(xuěhuā) snowflake<br><br><i>雪 + 花 = snow + flower = snowflake</i>",
+          "tags": ["word", "noun", "weather"],
+          "audioFile": "xue_hua.mp3",
+          "chineseText": "雪花"
+        },
+        {
+          "front": "飞舞",
+          "back": "[sound:fei_wu.mp3]<br><br>(fēiwǔ) flutter, dance in the air<br><br><i>飞 + 舞 = fly + dance = to flutter/dance</i>",
+          "tags": ["word", "verb"],
+          "audioFile": "fei_wu.mp3",
+          "chineseText": "飞舞"
+        }
+      ]
+    },
+    {
+      "groupName": "Love and emotional expressions",
+      "description": "Words expressing love, affection, and emotions",
+      "cards": [
+        {
+          "front": "爱",
+          "back": "[sound:ai4.mp3]<br><br>(ài) love<br><br><i>The verb and noun for love</i>",
+          "tags": ["character", "verb", "emotion"],
+          "audioFile": "ai4.mp3",
+          "chineseText": "爱"
+        },
+        {
+          "front": "喜欢",
+          "back": "[sound:xi_huan.mp3]<br><br>(xǐhuān) like, enjoy<br><br><i>喜 + 欢 = happy + joy = to like</i>",
+          "tags": ["word", "verb", "emotion"],
+          "audioFile": "xi_huan.mp3",
+          "chineseText": "喜欢"
+        },
+        {
+          "front": "欢喜",
+          "back": "[sound:huan_xi.mp3]<br><br>(huānxǐ) joy, happiness<br><br><i>欢 + 喜 = joy + happy = happiness</i>",
+          "tags": ["word", "noun", "emotion"],
+          "audioFile": "huan_xi.mp3",
+          "chineseText": "欢喜"
+        },
+        {
+          "front": "心",
+          "back": "[sound:xin1.mp3]<br><br>(xīn) heart, mind<br><br><i>The heart, both physical and emotional</i>",
+          "tags": ["character", "noun", "body"],
+          "audioFile": "xin1.mp3",
+          "chineseText": "心"
+        },
+        {
+          "front": "心窝",
+          "back": "[sound:xin_wo.mp3]<br><br>(xīnwō) heart, innermost feelings<br><br><i>心 + 窝 = heart + nest = heart/inner feelings</i>",
+          "tags": ["word", "noun", "emotion"],
+          "audioFile": "xin_wo.mp3",
+          "chineseText": "心窝"
+        },
+        {
+          "front": "温暖",
+          "back": "[sound:wen_nuan.mp3]<br><br>(wēnnuǎn) warm, warmth<br><br><i>温 + 暖 = warm + warm = warmth</i>",
+          "tags": ["word", "adjective", "feeling"],
+          "audioFile": "wen_nuan.mp3",
+          "chineseText": "温暖"
+        },
+        {
+          "front": "讨厌",
+          "back": "[sound:tao_yan.mp3]<br><br>(tǎoyàn) dislike, hate<br><br><i>讨 + 厌 = demand + dislike = to dislike</i>",
+          "tags": ["word", "verb", "emotion"],
+          "audioFile": "tao_yan.mp3",
+          "chineseText": "讨厌"
+        },
+        {
+          "front": "新鲜",
+          "back": "[sound:xin_xian.mp3]<br><br>(xīnxiān) fresh, new<br><br><i>新 + 鲜 = new + fresh = fresh/new</i>",
+          "tags": ["word", "adjective"],
+          "audioFile": "xin_xian.mp3",
+          "chineseText": "新鲜"
+        }
+      ]
+    },
+    {
+      "groupName": "Light and fire vs darkness",
+      "description": "Contrasts between light/fire and darkness",
+      "cards": [
+        {
+          "front": "火",
+          "back": "[sound:huo3.mp3]<br><br>(huǒ) fire<br><br><i>Fire, flame, or passionate energy</i>",
+          "tags": ["character", "noun", "element"],
+          "audioFile": "huo3.mp3",
+          "chineseText": "火"
+        },
+        {
+          "front": "点亮",
+          "back": "[sound:dian_liang.mp3]<br><br>(diǎnliàng) light up, illuminate<br><br><i>点 + 亮 = point + bright = to light up</i>",
+          "tags": ["word", "verb", "light"],
+          "audioFile": "dian_liang.mp3",
+          "chineseText": "点亮"
+        },
+        {
+          "front": "照亮",
+          "back": "[sound:zhao_liang.mp3]<br><br>(zhàoliàng) illuminate, light up<br><br><i>照 + 亮 = shine + bright = to illuminate</i>",
+          "tags": ["word", "verb", "light"],
+          "audioFile": "zhao_liang.mp3",
+          "chineseText": "照亮"
+        },
+        {
+          "front": "阳光",
+          "back": "[sound:yang_guang.mp3]<br><br>(yángguāng) sunlight, sunshine<br><br><i>阳 + 光 = yang + light = sunlight</i>",
+          "tags": ["word", "noun", "light"],
+          "audioFile": "yang_guang.mp3",
+          "chineseText": "阳光"
+        },
+        {
+          "front": "灿烂",
+          "back": "[sound:can_lan.mp3]<br><br>(cànlàn) brilliant, splendid<br><br><i>灿 + 烂 = brilliant + splendid = brilliant</i>",
+          "tags": ["word", "adjective", "light"],
+          "audioFile": "can_lan.mp3",
+          "chineseText": "灿烂"
+        },
+        {
+          "front": "黑夜",
+          "back": "[sound:hei_ye.mp3]<br><br>(hēiyè) dark night<br><br><i>黑 + 夜 = black + night = dark night</i>",
+          "tags": ["word", "noun", "darkness"],
+          "audioFile": "hei_ye.mp3",
+          "chineseText": "黑夜"
+        },
+        {
+          "front": "黑暗",
+          "back": "[sound:hei_an.mp3]<br><br>(hēi'àn) dark, darkness<br><br><i>黑 + 暗 = black + dark = darkness</i>",
+          "tags": ["word", "adjective", "darkness"],
+          "audioFile": "hei_an.mp3",
+          "chineseText": "黑暗"
+        },
+        {
+          "front": "蜡烛",
+          "back": "[sound:la_zhu.mp3]<br><br>(làzhú) candle<br><br><i>蜡 + 烛 = wax + candle = candle</i>",
+          "tags": ["word", "noun", "light"],
+          "audioFile": "la_zhu.mp3",
+          "chineseText": "蜡烛"
+        },
+        {
+          "front": "燃烧",
+          "back": "[sound:ran_shao.mp3]<br><br>(ránshāo) burn, combust<br><br><i>燃 + 烧 = ignite + burn = to burn</i>",
+          "tags": ["word", "verb", "fire"],
+          "audioFile": "ran_shao.mp3",
+          "chineseText": "燃烧"
+        }
+      ]
+    },
+    {
+      "groupName": "Life, meaning, and permanence",
+      "description": "Concepts about life, meaning, and lasting things",
+      "cards": [
+        {
+          "front": "生命",
+          "back": "[sound:sheng_ming.mp3]<br><br>(shēngmìng) life<br><br><i>生 + 命 = birth + fate = life</i>",
+          "tags": ["word", "noun", "abstract"],
+          "audioFile": "sheng_ming.mp3",
+          "chineseText": "生命"
+        },
+        {
+          "front": "意义",
+          "back": "[sound:yi_yi.mp3]<br><br>(yìyì) meaning, significance<br><br><i>意 + 义 = intention + righteousness = meaning</i>",
+          "tags": ["word", "noun", "abstract"],
+          "audioFile": "yi_yi.mp3",
+          "chineseText": "意义"
+        },
+        {
+          "front": "短",
+          "back": "[sound:duan3.mp3]<br><br>(duǎn) short<br><br><i>Short in length or time</i>",
+          "tags": ["character", "adjective"],
+          "audioFile": "duan3.mp3",
+          "chineseText": "短"
+        },
+        {
+          "front": "不离不弃",
+          "back": "[sound:bu_li_bu_qi.mp3]<br><br>(bù lí bù qì) never leave, never abandon<br><br><i>不 + 离 + 不 + 弃 = not + leave + not + abandon = never abandon</i>",
+          "tags": ["phrase", "promise", "loyalty"],
+          "audioFile": "bu_li_bu_qi.mp3",
+          "chineseText": "不离不弃"
+        },
+        {
+          "front": "希望",
+          "back": "[sound:xi_wang.mp3]<br><br>(xīwàng) hope, wish<br><br><i>希 + 望 = rare + look toward = hope</i>",
+          "tags": ["word", "noun", "emotion"],
+          "audioFile": "xi_wang.mp3",
+          "chineseText": "希望"
+        }
+      ]
+    },
+    {
+      "groupName": "Key signature phrases and expressions",
+      "description": "Distinctive phrases that define the song's character",
+      "cards": [
+        {
+          "front": "小呀小",
+          "back": "[sound:xiao_ya_xiao.mp3]<br><br>(xiǎo ya xiǎo) little oh little<br><br><i>小 + 呀 + 小 = little + oh + little = affectionate diminutive</i>",
+          "tags": ["phrase", "affection", "signature"],
+          "audioFile": "xiao_ya_xiao.mp3",
+          "chineseText": "小呀小"
+        },
+        {
+          "front": "苹果",
+          "back": "[sound:ping_guo.mp3]<br><br>(píngguǒ) apple<br><br><i>苹 + 果 = apple + fruit = apple</i>",
+          "tags": ["word", "noun", "fruit"],
+          "audioFile": "ping_guo.mp3",
+          "chineseText": "苹果"
+        },
+        {
+          "front": "小苹果",
+          "back": "[sound:xiao_ping_guo.mp3]<br><br>(xiǎo píngguǒ) little apple<br><br><i>小 + 苹果 = little + apple = little apple (term of endearment)</i>",
+          "tags": ["phrase", "endearment", "signature"],
+          "audioFile": "xiao_ping_guo.mp3",
+          "chineseText": "小苹果"
+        },
+        {
+          "front": "怎么",
+          "back": "[sound:zen_me.mp3]<br><br>(zěnme) how, how much<br><br><i>怎 + 么 = how + what = how/how much</i>",
+          "tags": ["word", "question", "adverb"],
+          "audioFile": "zen_me.mp3",
+          "chineseText": "怎么"
+        },
+        {
+          "front": "不嫌多",
+          "back": "[sound:bu_xian_duo.mp3]<br><br>(bù xiánduō) not too much, never too much<br><br><i>不 + 嫌 + 多 = not + dislike + much = never too much</i>",
+          "tags": ["phrase", "quantity", "emotion"],
+          "audioFile": "bu_xian_duo.mp3",
+          "chineseText": "不嫌多"
+        },
+        {
+          "front": "天边",
+          "back": "[sound:tian_bian.mp3]<br><br>(tiānbiān) horizon, edge of sky<br><br><i>天 + 边 = sky + edge = horizon</i>",
+          "tags": ["word", "noun", "location"],
+          "audioFile": "tian_bian.mp3",
+          "chineseText": "天边"
+        },
+        {
+          "front": "云朵",
+          "back": "[sound:yun_duo.mp3]<br><br>(yúnduǒ) cloud<br><br><i>云 + 朵 = cloud + classifier = cloud</i>",
+          "tags": ["word", "noun", "weather"],
+          "audioFile": "yun_duo.mp3",
+          "chineseText": "云朵"
+        },
+        {
+          "front": "最美的",
+          "back": "[sound:zui_mei_de.mp3]<br><br>(zuì měi de) most beautiful<br><br><i>最 + 美 + 的 = most + beautiful + particle = most beautiful</i>",
+          "tags": ["phrase", "superlative", "beauty"],
+          "audioFile": "zui_mei_de.mp3",
+          "chineseText": "最美的"
+        }
+      ]
+    },
+    {
+      "groupName": "Activity and movement verbs",
+      "description": "Action words describing movement, activities, and behaviors",
+      "cards": [
+        {
+          "front": "送",
+          "back": "[sound:song4.mp3]<br><br>(sòng) give, send<br><br><i>To give or send as a gift</i>",
+          "tags": ["character", "verb"],
+          "audioFile": "song4.mp3",
+          "chineseText": "送"
+        },
+        {
+          "front": "给",
+          "back": "[sound:gei3.mp3]<br><br>(gěi) give, to<br><br><i>To give or for/to someone</i>",
+          "tags": ["character", "verb", "preposition"],
+          "audioFile": "gei3.mp3",
+          "chineseText": "给"
+        },
+        {
+          "front": "送给",
+          "back": "[sound:song_gei.mp3]<br><br>(sòng gěi) give to, present to<br><br><i>送 + 给 = send + to = give to</i>",
+          "tags": ["word", "verb"],
+          "audioFile": "song_gei.mp3",
+          "chineseText": "送给"
+        },
+        {
+          "front": "变成",
+          "back": "[sound:bian_cheng.mp3]<br><br>(biànchéng) become, turn into<br><br><i>变 + 成 = change + become = to become</i>",
+          "tags": ["word", "verb"],
+          "audioFile": "bian_cheng.mp3",
+          "chineseText": "变成"
+        },
+        {
+          "front": "献给",
+          "back": "[sound:xian_gei.mp3]<br><br>(xiàn gěi) dedicate to, offer to<br><br><i>献 + 给 = dedicate + to = dedicate to</i>",
+          "tags": ["word", "verb"],
+          "audioFile": "xian_gei.mp3",
+          "chineseText": "献给"
+        },
+        {
+          "front": "漫步",
+          "back": "[sound:man_bu.mp3]<br><br>(mànbù) stroll, walk leisurely<br><br><i>漫 + 步 = leisurely + step = to stroll</i>",
+          "tags": ["word", "verb", "movement"],
+          "audioFile": "man_bu.mp3",
+          "chineseText": "漫步"
+        },
+        {
+          "front": "陪",
+          "back": "[sound:pei2.mp3]<br><br>(péi) accompany, keep company<br><br><i>To accompany or be with someone</i>",
+          "tags": ["character", "verb"],
+          "audioFile": "pei2.mp3",
+          "chineseText": "陪"
+        },
+        {
+          "front": "看",
+          "back": "[sound:kan4.mp3]<br><br>(kàn) look, watch, see<br><br><i>To look at or watch</i>",
+          "tags": ["character", "verb"],
+          "audioFile": "kan4.mp3",
+          "chineseText": "看"
+        },
+        {
+          "front": "眨眼",
+          "back": "[sound:zha_yan.mp3]<br><br>(zhǎyǎn) blink, twinkle<br><br><i>眨 + 眼 = blink + eye = to blink/twinkle</i>",
+          "tags": ["word", "verb"],
+          "audioFile": "zha_yan.mp3",
+          "chineseText": "眨眼"
+        },
+        {
+          "front": "徜徉",
+          "back": "[sound:chang_yang.mp3]<br><br>(chángyáng) wander, roam<br><br><i>徜 + 徉 = wander + roam = to wander leisurely</i>",
+          "tags": ["word", "verb", "movement"],
+          "audioFile": "chang_yang.mp3",
+          "chineseText": "徜徉"
+        }
+      ]
+    },
+    {
+      "groupName": "Time periods and temporal expressions",
+      "description": "Specific times of day and temporal phrases",
+      "cards": [
+        {
+          "front": "夜晚",
+          "back": "[sound:ye_wan.mp3]<br><br>(yèwǎn) evening, night<br><br><i>夜 + 晚 = night + evening = nighttime</i>",
+          "tags": ["word", "time", "noun"],
+          "audioFile": "ye_wan.mp3",
+          "chineseText": "夜晚"
+        },
+        {
+          "front": "黄昏",
+          "back": "[sound:huang_hun.mp3]<br><br>(huánghūn) dusk, twilight<br><br><i>黄 + 昏 = yellow + dusk = twilight</i>",
+          "tags": ["word", "time", "noun"],
+          "audioFile": "huang_hun.mp3",
+          "chineseText": "黄昏"
+        },
+        {
+          "front": "从不",
+          "back": "[sound:cong_bu.mp3]<br><br>(cóng bù) never<br><br><i>从 + 不 = from + not = never</i>",
+          "tags": ["word", "adverb", "negation"],
+          "audioFile": "cong_bu.mp3",
+          "chineseText": "从不"
+        }
+      ]
+    },
+    {
+      "groupName": "Essential particles and connectors",
+      "description": "Important grammatical particles and connecting words",
+      "cards": [
+        {
+          "front": "的",
+          "back": "[sound:de.mp3]<br><br>(de) possessive particle<br><br><i>Shows possession or description</i>",
+          "tags": ["character", "particle"],
+          "audioFile": "de.mp3",
+          "chineseText": "的"
+        },
+        {
+          "front": "了",
+          "back": "[sound:le.mp3]<br><br>(le) completion particle<br><br><i>Shows completed action or change</i>",
+          "tags": ["character", "particle"],
+          "audioFile": "le.mp3",
+          "chineseText": "了"
+        },
+        {
+          "front": "是",
+          "back": "[sound:shi4.mp3]<br><br>(shì) is, am, are<br><br><i>The 'to be' verb</i>",
+          "tags": ["character", "verb", "copula"],
+          "audioFile": "shi4.mp3",
+          "chineseText": "是"
+        },
+        {
+          "front": "就",
+          "back": "[sound:jiu4.mp3]<br><br>(jiù) then, just<br><br><i>Connector showing result or emphasis</i>",
+          "tags": ["character", "adverb"],
+          "audioFile": "jiu4.mp3",
+          "chineseText": "就"
+        },
+        {
+          "front": "让",
+          "back": "[sound:rang4.mp3]<br><br>(ràng) let, make, allow<br><br><i>Causative verb - to let/make someone do something</i>",
+          "tags": ["character", "verb"],
+          "audioFile": "rang4.mp3",
+          "chineseText": "让"
+        },
+        {
+          "front": "为",
+          "back": "[sound:wei4.mp3]<br><br>(wéi) for, because of<br><br><i>Preposition meaning 'for' or 'because of'</i>",
+          "tags": ["character", "preposition"],
+          "audioFile": "wei4.mp3",
+          "chineseText": "为"
+        },
+        {
+          "front": "只为",
+          "back": "[sound:zhi_wei.mp3]<br><br>(zhǐ wéi) only for, just to<br><br><i>只 + 为 = only + for = only for</i>",
+          "tags": ["word", "preposition"],
+          "audioFile": "zhi_wei.mp3",
+          "chineseText": "只为"
+        },
+        {
+          "front": "只要",
+          "back": "[sound:zhi_yao.mp3]<br><br>(zhǐyào) as long as, only need<br><br><i>只 + 要 = only + want = as long as</i>",
+          "tags": ["word", "conjunction"],
+          "audioFile": "zhi_yao.mp3",
+          "chineseText": "只要"
+        },
+        {
+          "front": "虽",
+          "back": "[sound:sui1.mp3]<br><br>(suī) although<br><br><i>Although, even though (often paired with 但)</i>",
+          "tags": ["character", "conjunction"],
+          "audioFile": "sui1.mp3",
+          "chineseText": "虽"
+        },
+        {
+          "front": "与",
+          "back": "[sound:yu3.mp3]<br><br>(yǔ) and, with<br><br><i>Formal conjunction meaning 'and' or 'with'</i>",
+          "tags": ["character", "conjunction"],
+          "audioFile": "yu3.mp3",
+          "chineseText": "与"
+        },
+        {
+          "front": "和",
+          "back": "[sound:he2.mp3]<br><br>(hé) and, with<br><br><i>Common conjunction meaning 'and' or 'with'</i>",
+          "tags": ["character", "conjunction"],
+          "audioFile": "he2.mp3",
+          "chineseText": "和"
+        }
+      ]
+    }
+  ]
+}

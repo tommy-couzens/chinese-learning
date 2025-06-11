@@ -12,6 +12,22 @@
       "description": "Core song lines combining Level 1 concepts",
       "cards": [
         {
+          "front": "她不停的旋转",
+          "back": "[sound:ta_bu_ting_de_xuan_zhuan.mp3]<br><br>(tā bù tíng de xuán zhuǎn)<br><br>She keeps on spinning<br><br><i>Phrase segment: Part of '她不停的旋转无休止的节拍'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "action"],
+          "audioFile": "ta_bu_ting_de_xuan_zhuan.mp3",
+          "chineseText": "她不停的旋转",
+          "translation": "She keeps on spinning"
+        },
+        {
+          "front": "无休止的节拍",
+          "back": "[sound:wu_xiu_zhi_de_jie_pai.mp3]<br><br>(wú xiū zhǐ de jié pāi)<br><br>endless beat<br><br><i>Phrase segment: Part of '她不停的旋转无休止的节拍'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "rhythm"],
+          "audioFile": "wu_xiu_zhi_de_jie_pai.mp3",
+          "chineseText": "无休止的节拍",
+          "translation": "endless beat"
+        },
+        {
           "front": "她不停的旋转无休止的节拍",
           "back": "[sound:ta_bu_ting_de_xuan_zhuan_wu_xiu_zhi_de_jie_pai.mp3]<br><br>(tā bù tíng de xuán zhuǎn wú xiū zhǐ de jié pāi)<br><br>She keeps on spinning to the endless beat<br><br><i>Complete lyric line combining key concepts from Level 1</i>",
           "tags": ["complete-line", "main-theme"],
