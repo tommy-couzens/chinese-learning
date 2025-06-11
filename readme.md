@@ -29,10 +29,22 @@ ls decks/
 1-2 characters long, building up to 3-4 characters based on previously learned components
 
 ### Level 2
-Build 5+ character phrases from Level 1 components
+Short phrases, 3-5 characters long
+
+### Level 3
+Complete lines of the song
+
+### Card structure
+
+We have listening cards and reading cards.
+The listening cards just have the audo on the clip, nothing else, and then the answer is the word both spelt in chinese and English.
+
+We have reading cards, where on the front it has the Chinese characters. Then on the other side it has the answer both in English and it says the audio.
 
 ### Tips of making the program
 words like 苹果 can just be introduced straight away, do not introduce 苹 or 果 seperately since they are not words on their own.
+
+Do not include very basic words such as bu (no), wo (me), ni (you) or hao (good).
 
 
 春天和你漫步在盛开的花丛间

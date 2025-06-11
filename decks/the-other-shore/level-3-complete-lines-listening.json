@@ -1,0 +1,317 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - The Other Shore v1::Level 3 - Complete Lines::Listening",
+    "description": "Complete song lines from 'The Other Shore' with bridge phrases - Listening focus",
+    "level": 3,
+    "type": "listening",
+    "cardFormat": "Audio → Complete Line + Translation"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Opening verse - Wind and dreams",
+      "description": "The opening lines about cutting wind and collecting dreams",
+      "cards": [
+        {
+          "front": "[sound:jian3_yi1_zhen4_feng1.mp3]",
+          "back": "剪一阵风<br><br>Cut a gust of wind<br><br><i>Bridge phrase: First part of opening line</i>",
+          "tags": ["bridge", "opening", "wind"],
+          "audioFile": "jian3_yi1_zhen4_feng1.mp3",
+          "chineseText": "剪一阵风",
+          "translation": "Cut a gust of wind"
+        },
+        {
+          "front": "[sound:dou3_luo4_zai4_shui3_yue4_zhong1.mp3]",
+          "back": "抖落在水月中<br><br>Shake it off in the water moon<br><br><i>Bridge phrase: Second part of opening line</i>",
+          "tags": ["bridge", "opening", "moon"],
+          "audioFile": "dou3_luo4_zai4_shui3_yue4_zhong1.mp3",
+          "chineseText": "抖落在水月中",
+          "translation": "Shake it off in the water moon"
+        },
+        {
+          "front": "[sound:jian3_yi1_zhen4_feng1_dou3_luo4_zai4_shui3_yue4_zhong1.mp3]",
+          "back": "剪一阵风抖落在水月中<br><br>Cut a gust of wind and shake it off in the water moon<br><br><i>Complete line: Poetic imagery of capturing wind</i>",
+          "tags": ["complete", "opening", "poetic"],
+          "audioFile": "jian3_yi1_zhen4_feng1_dou3_luo4_zai4_shui3_yue4_zhong1.mp3",
+          "chineseText": "剪一阵风抖落在水月中",
+          "translation": "Cut a gust of wind and shake it off in the water moon"
+        },
+        {
+          "front": "[sound:shei2_duo3_cang2_zai4.mp3]",
+          "back": "谁躲藏在<br><br>Who hides in<br><br><i>Bridge phrase: Beginning of question</i>",
+          "tags": ["bridge", "question", "hiding"],
+          "audioFile": "shei2_duo3_cang2_zai4.mp3",
+          "chineseText": "谁躲藏在",
+          "translation": "Who hides in"
+        },
+        {
+          "front": "[sound:hui2_yi4_zhong1_bu4_yuan4_xian1_zou3.mp3]",
+          "back": "回忆中不愿先走<br><br>Memories, unwilling to leave first<br><br><i>Bridge phrase: Completing the question about memories</i>",
+          "tags": ["bridge", "memory", "reluctance"],
+          "audioFile": "hui2_yi4_zhong1_bu4_yuan4_xian1_zou3.mp3",
+          "chineseText": "回忆中不愿先走",
+          "translation": "Memories, unwilling to leave first"
+        },
+        {
+          "front": "[sound:shei2_duo3_cang2_zai4_hui2_yi4_zhong1_bu4_yuan4_xian1_zou3.mp3]",
+          "back": "谁躲藏在回忆中不愿先走<br><br>Who hides in memories, unwilling to leave first<br><br><i>Complete line: Question about someone reluctant to move on</i>",
+          "tags": ["complete", "question", "emotion"],
+          "audioFile": "shei2_duo3_cang2_zai4_hui2_yi4_zhong1_bu4_yuan4_xian1_zou3.mp3",
+          "chineseText": "谁躲藏在回忆中不愿先走",
+          "translation": "Who hides in memories, unwilling to leave first"
+        }
+      ]
+    },
+    {
+      "groupName": "Dream collection verse",
+      "description": "Lines about collecting dreams in the hazy night",
+      "cards": [
+        {
+          "front": "[sound:jian3_yi1_ge4_meng4.mp3]",
+          "back": "捡一个梦<br><br>Pick up a dream<br><br><i>Bridge phrase: First part of dream line</i>",
+          "tags": ["bridge", "dream", "collecting"],
+          "audioFile": "jian3_yi1_ge4_meng4.mp3",
+          "chineseText": "捡一个梦",
+          "translation": "Pick up a dream"
+        },
+        {
+          "front": "[sound:chen4_ye4_se4_zheng4_meng2_long2.mp3]",
+          "back": "趁夜色正朦胧<br><br>While the night is hazy<br><br><i>Bridge phrase: Taking advantage of dim atmosphere</i>",
+          "tags": ["bridge", "time", "atmosphere"],
+          "audioFile": "chen4_ye4_se4_zheng4_meng2_long2.mp3",
+          "chineseText": "趁夜色正朦胧",
+          "translation": "While the night is hazy"
+        },
+        {
+          "front": "[sound:jian3_yi1_ge4_meng4_chen4_ye4_se4_zheng4_meng2_long2.mp3]",
+          "back": "捡一个梦趁夜色正朦胧<br><br>Pick up a dream while the night is hazy<br><br><i>Complete line: Gathering dreams in the dim night</i>",
+          "tags": ["complete", "dream", "night"],
+          "audioFile": "jian3_yi1_ge4_meng4_chen4_ye4_se4_zheng4_meng2_long2.mp3",
+          "chineseText": "捡一个梦趁夜色正朦胧",
+          "translation": "Pick up a dream while the night is hazy"
+        },
+        {
+          "front": "[sound:zai4_ta1_su1_xing3_zhi1_qian2.mp3]",
+          "back": "在他苏醒之前<br><br>Before he wakes up<br><br><i>Bridge phrase: Temporal condition</i>",
+          "tags": ["bridge", "time", "consciousness"],
+          "audioFile": "zai4_ta1_su1_xing3_zhi1_qian2.mp3",
+          "chineseText": "在他苏醒之前",
+          "translation": "Before he wakes up"
+        },
+        {
+          "front": "[sound:you3_shi3_you3_zhong1.mp3]",
+          "back": "有始有终<br><br>From beginning to end<br><br><i>Bridge phrase: Complete cycle</i>",
+          "tags": ["bridge", "completion", "cycle"],
+          "audioFile": "you3_shi3_you3_zhong1.mp3",
+          "chineseText": "有始有终",
+          "translation": "From beginning to end"
+        },
+        {
+          "front": "[sound:zai4_ta1_su1_xing3_zhi1_qian2_you3_shi3_you3_zhong1.mp3]",
+          "back": "在他苏醒之前有始有终<br><br>Before he wakes up, from beginning to end<br><br><i>Complete line: Completing something before awakening</i>",
+          "tags": ["complete", "time", "completion"],
+          "audioFile": "zai4_ta1_su1_xing3_zhi1_qian2_you3_shi3_you3_zhong1.mp3",
+          "chineseText": "在他苏醒之前有始有终",
+          "translation": "Before he wakes up, from beginning to end"
+        }
+      ]
+    },
+    {
+      "groupName": "Mountain and snow verse",
+      "description": "Lines about what she has seen across mountains",
+      "cards": [
+        {
+          "front": "[sound:ta1_kan4_guo4_man4_shan1_bian4_ye3.mp3]",
+          "back": "她看过漫山遍野<br><br>She has seen all over mountains and fields<br><br><i>Bridge phrase: What she witnessed</i>",
+          "tags": ["bridge", "seeing", "landscape"],
+          "audioFile": "ta1_kan4_guo4_man4_shan1_bian4_ye3.mp3",
+          "chineseText": "她看过漫山遍野",
+          "translation": "She has seen all over mountains and fields"
+        },
+        {
+          "front": "[sound:na4_fu4_gai4_yi1_qie4.mp3]",
+          "back": "那覆盖一切<br><br>That which covers everything<br><br><i>Bridge phrase: Description of what covers all</i>",
+          "tags": ["bridge", "covering", "everything"],
+          "audioFile": "na4_fu4_gai4_yi1_qie4.mp3",
+          "chineseText": "那覆盖一切",
+          "translation": "That which covers everything"
+        },
+        {
+          "front": "[sound:ta1_kan4_guo4_man4_shan1_bian4_ye3_na4_fu4_gai4_yi1_qie4.mp3]",
+          "back": "她看过漫山遍野那覆盖一切<br><br>She has seen all over mountains and fields, that which covers everything<br><br><i>Complete line: Her vast observation of the landscape</i>",
+          "tags": ["complete", "seeing", "vast"],
+          "audioFile": "ta1_kan4_guo4_man4_shan1_bian4_ye3_na4_fu4_gai4_yi1_qie4.mp3",
+          "chineseText": "她看过漫山遍野那覆盖一切",
+          "translation": "She has seen all over mountains and fields, that which covers everything"
+        },
+        {
+          "front": "[sound:bei4_duo2_mu4_hong2_se4.mp3]",
+          "back": "被夺目红色<br><br>By the dazzling red<br><br><i>Bridge phrase: The agent of change</i>",
+          "tags": ["bridge", "color", "dazzling"],
+          "audioFile": "bei4_duo2_mu4_hong2_se4.mp3",
+          "chineseText": "被夺目红色",
+          "translation": "By the dazzling red"
+        },
+        {
+          "front": "[sound:ran3_zang1_de_xue3.mp3]",
+          "back": "染脏的雪<br><br>Stained snow<br><br><i>Bridge phrase: The result of the staining</i>",
+          "tags": ["bridge", "stained", "snow"],
+          "audioFile": "ran3_zang1_de_xue3.mp3",
+          "chineseText": "染脏的雪",
+          "translation": "Stained snow"
+        },
+        {
+          "front": "[sound:bei4_duo2_mu4_hong2_se4_ran3_zang1_de_xue3.mp3]",
+          "back": "被夺目红色染脏的雪<br><br>Snow stained by dazzling red<br><br><i>Complete line: Pure snow corrupted by brilliant color</i>",
+          "tags": ["complete", "contrast", "corruption"],
+          "audioFile": "bei4_duo2_mu4_hong2_se4_ran3_zang1_de_xue3.mp3",
+          "chineseText": "被夺目红色染脏的雪",
+          "translation": "Snow stained by dazzling red"
+        }
+      ]
+    },
+    {
+      "groupName": "Journey through time verse",
+      "description": "Lines about passing through day and night",
+      "cards": [
+        {
+          "front": "[sound:ta1_chuan1_guo4_zhou4_yu3_ye4.mp3]",
+          "back": "她穿过昼与夜<br><br>She passes through day and night<br><br><i>Bridge phrase: Her journey through time</i>",
+          "tags": ["bridge", "journey", "time"],
+          "audioFile": "ta1_chuan1_guo4_zhou4_yu3_ye4.mp3",
+          "chineseText": "她穿过昼与夜",
+          "translation": "She passes through day and night"
+        },
+        {
+          "front": "[sound:yu3_yun3_luo4_de_xing1_ca1_jian1.mp3]",
+          "back": "与陨落的星擦肩<br><br>Brushes shoulders with falling stars<br><br><i>Bridge phrase: Contact with celestial bodies</i>",
+          "tags": ["bridge", "celestial", "contact"],
+          "audioFile": "yu3_yun3_luo4_de_xing1_ca1_jian1.mp3",
+          "chineseText": "与陨落的星擦肩",
+          "translation": "Brushes shoulders with falling stars"
+        },
+        {
+          "front": "[sound:ta1_chuan1_guo4_zhou4_yu3_ye4_yu3_yun3_luo4_de_xing1_ca1_jian1.mp3]",
+          "back": "她穿过昼与夜与陨落的星擦肩<br><br>She passes through day and night, brushing shoulders with falling stars<br><br><i>Complete line: Epic journey through time and space</i>",
+          "tags": ["complete", "epic", "cosmic"],
+          "audioFile": "ta1_chuan1_guo4_zhou4_yu3_ye4_yu3_yun3_luo4_de_xing1_ca1_jian1.mp3",
+          "chineseText": "她穿过昼与夜与陨落的星擦肩",
+          "translation": "She passes through day and night, brushing shoulders with falling stars"
+        },
+        {
+          "front": "[sound:xun2_fang3_wei4_ceng2_jian4_guo4_de_ye4.mp3]",
+          "back": "寻访未曾见过的叶<br><br>Seeking leaves never seen before<br><br><i>Complete line: Searching for the unprecedented</i>",
+          "tags": ["complete", "seeking", "unknown"],
+          "audioFile": "xun2_fang3_wei4_ceng2_jian4_guo4_de_ye4.mp3",
+          "chineseText": "寻访未曾见过的叶",
+          "translation": "Seeking leaves never seen before"
+        }
+      ]
+    },
+    {
+      "groupName": "Winter longing verse",
+      "description": "Lines about enduring winter to see someone",
+      "cards": [
+        {
+          "front": "[sound:ta1_ao2_guo4_man4_chang2_dong1_yue4.mp3]",
+          "back": "她熬过漫长冬月<br><br>She endured the long winter months<br><br><i>Bridge phrase: Surviving difficult time</i>",
+          "tags": ["bridge", "enduring", "winter"],
+          "audioFile": "ta1_ao2_guo4_man4_chang2_dong1_yue4.mp3",
+          "chineseText": "她熬过漫长冬月",
+          "translation": "She endured the long winter months"
+        },
+        {
+          "front": "[sound:xiang3_jian4_ni3_yi1_mian4.mp3]",
+          "back": "想见你一面<br><br>Wanting to see you once<br><br><i>Bridge phrase: The purpose of enduring</i>",
+          "tags": ["bridge", "longing", "meeting"],
+          "audioFile": "xiang3_jian4_ni3_yi1_mian4.mp3",
+          "chineseText": "想见你一面",
+          "translation": "Wanting to see you once"
+        },
+        {
+          "front": "[sound:ta1_ao2_guo4_man4_chang2_dong1_yue4_xiang3_jian4_ni3_yi1_mian4.mp3]",
+          "back": "她熬过漫长冬月想见你一面<br><br>She endured the long winter months, wanting to see you once<br><br><i>Complete line: Suffering through winter for one meeting</i>",
+          "tags": ["complete", "sacrifice", "love"],
+          "audioFile": "ta1_ao2_guo4_man4_chang2_dong1_yue4_xiang3_jian4_ni3_yi1_mian4.mp3",
+          "chineseText": "她熬过漫长冬月想见你一面",
+          "translation": "She endured the long winter months, wanting to see you once"
+        },
+        {
+          "front": "[sound:ji4_mo4_jiu1_chan2_cheng2_yi1_gen1_hong2_xian4.mp3]",
+          "back": "寂寞纠缠成一根红线<br><br>Loneliness entangles into a red thread<br><br><i>Complete line: Emotion transformed into connection</i>",
+          "tags": ["complete", "transformation", "destiny"],
+          "audioFile": "ji4_mo4_jiu1_chan2_cheng2_yi1_gen1_hong2_xian4.mp3",
+          "chineseText": "寂寞纠缠成一根红线",
+          "translation": "Loneliness entangles into a red thread"
+        }
+      ]
+    },
+    {
+      "groupName": "Memory emergence verse",
+      "description": "Lines about sudden realization and memories",
+      "cards": [
+        {
+          "front": "[sound:ta1_huang3_ran2_wei1_xun1_jian1.mp3]",
+          "back": "她恍然微醺间<br><br>In her moment of sudden realization and slight intoxication<br><br><i>Bridge phrase: State of awareness</i>",
+          "tags": ["bridge", "realization", "state"],
+          "audioFile": "ta1_huang3_ran2_wei1_xun1_jian1.mp3",
+          "chineseText": "她恍然微醺间",
+          "translation": "In her moment of sudden realization and slight intoxication"
+        },
+        {
+          "front": "[sound:wang3_shi4_fu2_xian4_yu2_yan3_qian2.mp3]",
+          "back": "往事浮现于眼前<br><br>Past events appear before her eyes<br><br><i>Bridge phrase: Memories becoming visible</i>",
+          "tags": ["bridge", "memory", "vision"],
+          "audioFile": "wang3_shi4_fu2_xian4_yu2_yan3_qian2.mp3",
+          "chineseText": "往事浮现于眼前",
+          "translation": "Past events appear before her eyes"
+        },
+        {
+          "front": "[sound:ta1_huang3_ran2_wei1_xun1_jian1_wang3_shi4_fu2_xian4_yu2_yan3_qian2.mp3]",
+          "back": "她恍然微醺间往事浮现于眼前<br><br>In her moment of sudden realization and slight intoxication, past events appear before her eyes<br><br><i>Complete line: Memories surfacing in altered state</i>",
+          "tags": ["complete", "memory", "emergence"],
+          "audioFile": "ta1_huang3_ran2_wei1_xun1_jian1_wang3_shi4_fu2_xian4_yu2_yan3_qian2.mp3",
+          "chineseText": "她恍然微醺间往事浮现于眼前",
+          "translation": "In her moment of sudden realization and slight intoxication, past events appear before her eyes"
+        },
+        {
+          "front": "[sound:shi4_shei2_de_rong2_yan2.mp3]",
+          "back": "是谁的容颜<br><br>Whose face is it<br><br><i>Complete line: Question about the identity in memories</i>",
+          "tags": ["complete", "question", "identity"],
+          "audioFile": "shi4_shei2_de_rong2_yan2.mp3",
+          "chineseText": "是谁的容颜",
+          "translation": "Whose face is it"
+        }
+      ]
+    },
+    {
+      "groupName": "Final exchange verse",
+      "description": "Lines about the cost of encounters",
+      "cards": [
+        {
+          "front": "[sound:duo1_shao3_ci4_ca1_jian1.mp3]",
+          "back": "多少次擦肩<br><br>How many times brushing shoulders<br><br><i>Bridge phrase: Counting the encounters</i>",
+          "tags": ["bridge", "counting", "encounters"],
+          "audioFile": "duo1_shao3_ci4_ca1_jian1.mp3",
+          "chineseText": "多少次擦肩",
+          "translation": "How many times brushing shoulders"
+        },
+        {
+          "front": "[sound:cai2_neng2_huan4_yi1_ci4_hui2_mou2.mp3]",
+          "back": "才能换一次回眸<br><br>To exchange for one glance back<br><br><i>Bridge phrase: The precious trade</i>",
+          "tags": ["bridge", "exchange", "precious"],
+          "audioFile": "cai2_neng2_huan4_yi1_ci4_hui2_mou2.mp3",
+          "chineseText": "才能换一次回眸",
+          "translation": "To exchange for one glance back"
+        },
+        {
+          "front": "[sound:duo1_shao3_ci4_ca1_jian1_cai2_neng2_huan4_yi1_ci4_hui2_mou2.mp3]",
+          "back": "多少次擦肩才能换一次回眸<br><br>How many times brushing shoulders to exchange for one glance back<br><br><i>Complete line: The cost of meaningful connection</i>",
+          "tags": ["complete", "cost", "connection"],
+          "audioFile": "duo1_shao3_ci4_ca1_jian1_cai2_neng2_huan4_yi1_ci4_hui2_mou2.mp3",
+          "chineseText": "多少次擦肩才能换一次回眸",
+          "translation": "How many times brushing shoulders to exchange for one glance back"
+        }
+      ]
+    }
+  ]
+}

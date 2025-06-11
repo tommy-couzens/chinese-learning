@@ -24,13 +24,11 @@ function Copy-AudioToAnkiMedia {
     )
     
     if (-not (Test-Path $SourceDir)) {
-        Write-Warning "Local audio directory not found: $SourceDir"
-        return $false
+        throw "Local audio source directory not found: $SourceDir"
     }
     
     if (-not (Test-Path $DestinationDir)) {
-        Write-Warning "Anki media directory not found: $DestinationDir"
-        return $false
+        throw "Anki media destination directory not found: $DestinationDir"
     }
     
     $audioFiles = Get-ChildItem -Path $SourceDir -Filter "*.mp3"
@@ -89,29 +87,35 @@ function Confirm-AudioDirectoryExists {
     Gets the default Anki media directory path
 .DESCRIPTION
     Returns the standard Anki media directory path for the current platform
+.PARAMETER ProfileName
+    The name of the Anki profile to get the media directory for
 .EXAMPLE
-    $ankiMediaDir = Get-AnkiMediaDirectory
+    $ankiMediaDir = Get-AnkiMediaDirectory -ProfileName "User 1"
 #>
 function Get-AnkiMediaDirectory {
     [CmdletBinding()]
-    param()
+    param(
+        [Parameter(Mandatory = $true)]
+        [string]$ProfileName
+    )
     
     if ($IsWindows) {
-        return "$env:APPDATA\Anki2\User 1\collection.media"
+        return "$env:APPDATA\\Anki2\\$ProfileName\\collection.media"
     }
     elseif ($IsMacOS) {
-        return "$env:HOME/Library/Application Support/Anki2/User 1/collection.media"
+        return "$env:HOME/Library/Application Support/Anki2/$ProfileName/collection.media"
     }
     elseif ($IsLinux) {
-        return "$env:HOME/.local/share/Anki2/User 1/collection.media"
+        return "$env:HOME/.local/share/Anki2/$ProfileName/collection.media"
     }
     else {
-        # Fallback for older PowerShell versions
+        # Fallback for older PowerShell versions or unknown OS
         if ($env:OS -eq "Windows_NT") {
-            return "$env:APPDATA\Anki2\User 1\collection.media"
+            return "$env:APPDATA\\Anki2\\$ProfileName\\collection.media"
         }
         else {
-            return "$env:HOME/.local/share/Anki2/User 1/collection.media"
+            # Defaulting to Linux-like path for unknown non-Windows
+            return "$env:HOME/.local/share/Anki2/$ProfileName/collection.media"
         }
     }
 }

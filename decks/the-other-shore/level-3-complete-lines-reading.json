@@ -1,0 +1,317 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - The Other Shore v1::Level 3 - Complete Lines::Reading",
+    "description": "Complete song lines from 'The Other Shore' with bridge phrases - Reading focus",
+    "level": 3,
+    "type": "reading",
+    "cardFormat": "Characters → Pinyin + Translation"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Opening verse - Wind and dreams",
+      "description": "The opening lines about cutting wind and collecting dreams",
+      "cards": [
+        {
+          "front": "剪一阵风",
+          "back": "(jiǎn yī zhèn fēng)<br><br>Cut a gust of wind<br><br><i>Bridge phrase: First part of opening line</i>",
+          "tags": ["bridge", "opening", "wind"],
+          "chineseText": "剪一阵风",
+          "pinyin": "jiǎn yī zhèn fēng",
+          "translation": "Cut a gust of wind"
+        },
+        {
+          "front": "抖落在水月中",
+          "back": "(dǒuluò zài shuǐyuè zhōng)<br><br>Shake it off in the water moon<br><br><i>Bridge phrase: Second part of opening line</i>",
+          "tags": ["bridge", "opening", "moon"],
+          "chineseText": "抖落在水月中",
+          "pinyin": "dǒuluò zài shuǐyuè zhōng",
+          "translation": "Shake it off in the water moon"
+        },
+        {
+          "front": "剪一阵风抖落在水月中",
+          "back": "(jiǎn yī zhèn fēng dǒuluò zài shuǐyuè zhōng)<br><br>Cut a gust of wind and shake it off in the water moon<br><br><i>Complete line: Poetic imagery of capturing wind</i>",
+          "tags": ["complete", "opening", "poetic"],
+          "chineseText": "剪一阵风抖落在水月中",
+          "pinyin": "jiǎn yī zhèn fēng dǒuluò zài shuǐyuè zhōng",
+          "translation": "Cut a gust of wind and shake it off in the water moon"
+        },
+        {
+          "front": "谁躲藏在",
+          "back": "(shéi duǒcáng zài)<br><br>Who hides in<br><br><i>Bridge phrase: Beginning of question</i>",
+          "tags": ["bridge", "question", "hiding"],
+          "chineseText": "谁躲藏在",
+          "pinyin": "shéi duǒcáng zài",
+          "translation": "Who hides in"
+        },
+        {
+          "front": "回忆中不愿先走",
+          "back": "(huíyì zhōng bù yuàn xiān zǒu)<br><br>Memories, unwilling to leave first<br><br><i>Bridge phrase: Completing the question about memories</i>",
+          "tags": ["bridge", "memory", "reluctance"],
+          "chineseText": "回忆中不愿先走",
+          "pinyin": "huíyì zhōng bù yuàn xiān zǒu",
+          "translation": "Memories, unwilling to leave first"
+        },
+        {
+          "front": "谁躲藏在回忆中不愿先走",
+          "back": "(shéi duǒcáng zài huíyì zhōng bù yuàn xiān zǒu)<br><br>Who hides in memories, unwilling to leave first<br><br><i>Complete line: Question about someone reluctant to move on</i>",
+          "tags": ["complete", "question", "emotion"],
+          "chineseText": "谁躲藏在回忆中不愿先走",
+          "pinyin": "shéi duǒcáng zài huíyì zhōng bù yuàn xiān zǒu",
+          "translation": "Who hides in memories, unwilling to leave first"
+        }
+      ]
+    },
+    {
+      "groupName": "Dream collection verse",
+      "description": "Lines about collecting dreams in the hazy night",
+      "cards": [
+        {
+          "front": "捡一个梦",
+          "back": "(jiǎn yī gè mèng)<br><br>Pick up a dream<br><br><i>Bridge phrase: First part of dream line</i>",
+          "tags": ["bridge", "dream", "collecting"],
+          "chineseText": "捡一个梦",
+          "pinyin": "jiǎn yī gè mèng",
+          "translation": "Pick up a dream"
+        },
+        {
+          "front": "趁夜色正朦胧",
+          "back": "(chèn yèsè zhèng ménglóng)<br><br>While the night is hazy<br><br><i>Bridge phrase: Taking advantage of dim atmosphere</i>",
+          "tags": ["bridge", "time", "atmosphere"],
+          "chineseText": "趁夜色正朦胧",
+          "pinyin": "chèn yèsè zhèng ménglóng",
+          "translation": "While the night is hazy"
+        },
+        {
+          "front": "捡一个梦趁夜色正朦胧",
+          "back": "(jiǎn yī gè mèng chèn yèsè zhèng ménglóng)<br><br>Pick up a dream while the night is hazy<br><br><i>Complete line: Gathering dreams in the dim night</i>",
+          "tags": ["complete", "dream", "night"],
+          "chineseText": "捡一个梦趁夜色正朦胧",
+          "pinyin": "jiǎn yī gè mèng chèn yèsè zhèng ménglóng",
+          "translation": "Pick up a dream while the night is hazy"
+        },
+        {
+          "front": "在他苏醒之前",
+          "back": "(zài tā sūxǐng zhī qián)<br><br>Before he wakes up<br><br><i>Bridge phrase: Temporal condition</i>",
+          "tags": ["bridge", "time", "consciousness"],
+          "chineseText": "在他苏醒之前",
+          "pinyin": "zài tā sūxǐng zhī qián",
+          "translation": "Before he wakes up"
+        },
+        {
+          "front": "有始有终",
+          "back": "(yǒu shǐ yǒu zhōng)<br><br>From beginning to end<br><br><i>Bridge phrase: Complete cycle</i>",
+          "tags": ["bridge", "completion", "cycle"],
+          "chineseText": "有始有终",
+          "pinyin": "yǒu shǐ yǒu zhōng",
+          "translation": "From beginning to end"
+        },
+        {
+          "front": "在他苏醒之前有始有终",
+          "back": "(zài tā sūxǐng zhī qián yǒu shǐ yǒu zhōng)<br><br>Before he wakes up, from beginning to end<br><br><i>Complete line: Completing something before awakening</i>",
+          "tags": ["complete", "time", "completion"],
+          "chineseText": "在他苏醒之前有始有终",
+          "pinyin": "zài tā sūxǐng zhī qián yǒu shǐ yǒu zhōng",
+          "translation": "Before he wakes up, from beginning to end"
+        }
+      ]
+    },
+    {
+      "groupName": "Mountain and snow verse",
+      "description": "Lines about what she has seen across mountains",
+      "cards": [
+        {
+          "front": "她看过漫山遍野",
+          "back": "(tā kàn guò mànshān biànyě)<br><br>She has seen all over mountains and fields<br><br><i>Bridge phrase: What she witnessed</i>",
+          "tags": ["bridge", "seeing", "landscape"],
+          "chineseText": "她看过漫山遍野",
+          "pinyin": "tā kàn guò mànshān biànyě",
+          "translation": "She has seen all over mountains and fields"
+        },
+        {
+          "front": "那覆盖一切",
+          "back": "(nà fùgài yīqiè)<br><br>That which covers everything<br><br><i>Bridge phrase: Description of what covers all</i>",
+          "tags": ["bridge", "covering", "everything"],
+          "chineseText": "那覆盖一切",
+          "pinyin": "nà fùgài yīqiè",
+          "translation": "That which covers everything"
+        },
+        {
+          "front": "她看过漫山遍野那覆盖一切",
+          "back": "(tā kàn guò mànshān biànyě nà fùgài yīqiè)<br><br>She has seen all over mountains and fields, that which covers everything<br><br><i>Complete line: Her vast observation of the landscape</i>",
+          "tags": ["complete", "seeing", "vast"],
+          "chineseText": "她看过漫山遍野那覆盖一切",
+          "pinyin": "tā kàn guò mànshān biànyě nà fùgài yīqiè",
+          "translation": "She has seen all over mountains and fields, that which covers everything"
+        },
+        {
+          "front": "被夺目红色",
+          "back": "(bèi duómù hóngsè)<br><br>By the dazzling red<br><br><i>Bridge phrase: The agent of change</i>",
+          "tags": ["bridge", "color", "dazzling"],
+          "chineseText": "被夺目红色",
+          "pinyin": "bèi duómù hóngsè",
+          "translation": "By the dazzling red"
+        },
+        {
+          "front": "染脏的雪",
+          "back": "(rǎn zāng de xuě)<br><br>Stained snow<br><br><i>Bridge phrase: The result of the staining</i>",
+          "tags": ["bridge", "stained", "snow"],
+          "chineseText": "染脏的雪",
+          "pinyin": "rǎn zāng de xuě",
+          "translation": "Stained snow"
+        },
+        {
+          "front": "被夺目红色染脏的雪",
+          "back": "(bèi duómù hóngsè rǎn zāng de xuě)<br><br>Snow stained by dazzling red<br><br><i>Complete line: Pure snow corrupted by brilliant color</i>",
+          "tags": ["complete", "contrast", "corruption"],
+          "chineseText": "被夺目红色染脏的雪",
+          "pinyin": "bèi duómù hóngsè rǎn zāng de xuě",
+          "translation": "Snow stained by dazzling red"
+        }
+      ]
+    },
+    {
+      "groupName": "Journey through time verse",
+      "description": "Lines about passing through day and night",
+      "cards": [
+        {
+          "front": "她穿过昼与夜",
+          "back": "(tā chuān guò zhòu yǔ yè)<br><br>She passes through day and night<br><br><i>Bridge phrase: Her journey through time</i>",
+          "tags": ["bridge", "journey", "time"],
+          "chineseText": "她穿过昼与夜",
+          "pinyin": "tā chuān guò zhòu yǔ yè",
+          "translation": "She passes through day and night"
+        },
+        {
+          "front": "与陨落的星擦肩",
+          "back": "(yǔ yǔnluò de xīng cājiān)<br><br>Brushes shoulders with falling stars<br><br><i>Bridge phrase: Contact with celestial bodies</i>",
+          "tags": ["bridge", "celestial", "contact"],
+          "chineseText": "与陨落的星擦肩",
+          "pinyin": "yǔ yǔnluò de xīng cājiān",
+          "translation": "Brushes shoulders with falling stars"
+        },
+        {
+          "front": "她穿过昼与夜与陨落的星擦肩",
+          "back": "(tā chuān guò zhòu yǔ yè yǔ yǔnluò de xīng cājiān)<br><br>She passes through day and night, brushing shoulders with falling stars<br><br><i>Complete line: Epic journey through time and space</i>",
+          "tags": ["complete", "epic", "cosmic"],
+          "chineseText": "她穿过昼与夜与陨落的星擦肩",
+          "pinyin": "tā chuān guò zhòu yǔ yè yǔ yǔnluò de xīng cājiān",
+          "translation": "She passes through day and night, brushing shoulders with falling stars"
+        },
+        {
+          "front": "寻访未曾见过的叶",
+          "back": "(xúnfǎng wèi céng jiàn guò de yè)<br><br>Seeking leaves never seen before<br><br><i>Complete line: Searching for the unprecedented</i>",
+          "tags": ["complete", "seeking", "unknown"],
+          "chineseText": "寻访未曾见过的叶",
+          "pinyin": "xúnfǎng wèi céng jiàn guò de yè",
+          "translation": "Seeking leaves never seen before"
+        }
+      ]
+    },
+    {
+      "groupName": "Winter longing verse",
+      "description": "Lines about enduring winter to see someone",
+      "cards": [
+        {
+          "front": "她熬过漫长冬月",
+          "back": "(tā áo guò màncháng dōngyuè)<br><br>She endured the long winter months<br><br><i>Bridge phrase: Surviving difficult time</i>",
+          "tags": ["bridge", "enduring", "winter"],
+          "chineseText": "她熬过漫长冬月",
+          "pinyin": "tā áo guò màncháng dōngyuè",
+          "translation": "She endured the long winter months"
+        },
+        {
+          "front": "想见你一面",
+          "back": "(xiǎng jiàn nǐ yī miàn)<br><br>Wanting to see you once<br><br><i>Bridge phrase: The purpose of enduring</i>",
+          "tags": ["bridge", "longing", "meeting"],
+          "chineseText": "想见你一面",
+          "pinyin": "xiǎng jiàn nǐ yī miàn",
+          "translation": "Wanting to see you once"
+        },
+        {
+          "front": "她熬过漫长冬月想见你一面",
+          "back": "(tā áo guò màncháng dōngyuè xiǎng jiàn nǐ yī miàn)<br><br>She endured the long winter months, wanting to see you once<br><br><i>Complete line: Suffering through winter for one meeting</i>",
+          "tags": ["complete", "sacrifice", "love"],
+          "chineseText": "她熬过漫长冬月想见你一面",
+          "pinyin": "tā áo guò màncháng dōngyuè xiǎng jiàn nǐ yī miàn",
+          "translation": "She endured the long winter months, wanting to see you once"
+        },
+        {
+          "front": "寂寞纠缠成一根红线",
+          "back": "(jìmò jiūchán chéng yī gēn hóngxiàn)<br><br>Loneliness entangles into a red thread<br><br><i>Complete line: Emotion transformed into connection</i>",
+          "tags": ["complete", "transformation", "destiny"],
+          "chineseText": "寂寞纠缠成一根红线",
+          "pinyin": "jìmò jiūchán chéng yī gēn hóngxiàn",
+          "translation": "Loneliness entangles into a red thread"
+        }
+      ]
+    },
+    {
+      "groupName": "Memory emergence verse",
+      "description": "Lines about sudden realization and memories",
+      "cards": [
+        {
+          "front": "她恍然微醺间",
+          "back": "(tā huǎngrán wēixūn jiān)<br><br>In her moment of sudden realization and slight intoxication<br><br><i>Bridge phrase: State of awareness</i>",
+          "tags": ["bridge", "realization", "state"],
+          "chineseText": "她恍然微醺间",
+          "pinyin": "tā huǎngrán wēixūn jiān",
+          "translation": "In her moment of sudden realization and slight intoxication"
+        },
+        {
+          "front": "往事浮现于眼前",
+          "back": "(wǎngshì fúxiàn yú yǎn qián)<br><br>Past events appear before her eyes<br><br><i>Bridge phrase: Memories becoming visible</i>",
+          "tags": ["bridge", "memory", "vision"],
+          "chineseText": "往事浮现于眼前",
+          "pinyin": "wǎngshì fúxiàn yú yǎn qián",
+          "translation": "Past events appear before her eyes"
+        },
+        {
+          "front": "她恍然微醺间往事浮现于眼前",
+          "back": "(tā huǎngrán wēixūn jiān wǎngshì fúxiàn yú yǎn qián)<br><br>In her moment of sudden realization and slight intoxication, past events appear before her eyes<br><br><i>Complete line: Memories surfacing in altered state</i>",
+          "tags": ["complete", "memory", "emergence"],
+          "chineseText": "她恍然微醺间往事浮现于眼前",
+          "pinyin": "tā huǎngrán wēixūn jiān wǎngshì fúxiàn yú yǎn qián",
+          "translation": "In her moment of sudden realization and slight intoxication, past events appear before her eyes"
+        },
+        {
+          "front": "是谁的容颜",
+          "back": "(shì shéi de róngyán)<br><br>Whose face is it<br><br><i>Complete line: Question about the identity in memories</i>",
+          "tags": ["complete", "question", "identity"],
+          "chineseText": "是谁的容颜",
+          "pinyin": "shì shéi de róngyán",
+          "translation": "Whose face is it"
+        }
+      ]
+    },
+    {
+      "groupName": "Final exchange verse",
+      "description": "Lines about the cost of encounters",
+      "cards": [
+        {
+          "front": "多少次擦肩",
+          "back": "(duōshǎo cì cājiān)<br><br>How many times brushing shoulders<br><br><i>Bridge phrase: Counting the encounters</i>",
+          "tags": ["bridge", "counting", "encounters"],
+          "chineseText": "多少次擦肩",
+          "pinyin": "duōshǎo cì cājiān",
+          "translation": "How many times brushing shoulders"
+        },
+        {
+          "front": "才能换一次回眸",
+          "back": "(cái néng huàn yī cì huímóu)<br><br>To exchange for one glance back<br><br><i>Bridge phrase: The precious trade</i>",
+          "tags": ["bridge", "exchange", "precious"],
+          "chineseText": "才能换一次回眸",
+          "pinyin": "cái néng huàn yī cì huímóu",
+          "translation": "To exchange for one glance back"
+        },
+        {
+          "front": "多少次擦肩才能换一次回眸",
+          "back": "(duōshǎo cì cājiān cái néng huàn yī cì huímóu)<br><br>How many times brushing shoulders to exchange for one glance back<br><br><i>Complete line: The cost of meaningful connection</i>",
+          "tags": ["complete", "cost", "connection"],
+          "chineseText": "多少次擦肩才能换一次回眸",
+          "pinyin": "duōshǎo cì cājiān cái néng huàn yī cì huímóu",
+          "translation": "How many times brushing shoulders to exchange for one glance back"
+        }
+      ]
+    }
+  ]
+}

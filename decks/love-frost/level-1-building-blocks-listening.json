@@ -1,0 +1,259 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - Love Frost v1::Level 1 - Building Blocks::Listening",
+    "description": "Basic vocabulary (1-2 characters) from 'Love Frost' - Listening focus",
+    "level": 1,
+    "type": "listening",
+    "cardFormat": "Audio → Character/Word + Translation"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Nature elements",
+      "description": "Wind, light, and natural phenomena",
+      "cards": [
+        {
+          "front": "[sound:feng1.mp3]",
+          "back": "风<br><br>wind<br><br><i>Natural force that moves and changes</i>",
+          "tags": ["nature", "weather"],
+          "audioFile": "feng1.mp3",
+          "chineseText": "风",
+          "translation": "wind"
+        },
+        {
+          "front": "[sound:yue4_guang1.mp3]",
+          "back": "月光<br><br>moonlight<br><br><i>Light from the moon: 月 + 光</i>",
+          "tags": ["nature", "light"],
+          "audioFile": "yue4_guang1.mp3",
+          "chineseText": "月光",
+          "translation": "moonlight"
+        },
+        {
+          "front": "[sound:xi2_yang2.mp3]",
+          "back": "斜阳<br><br>setting sun<br><br><i>Slanted sunlight: 斜 + 阳</i>",
+          "tags": ["nature", "light", "time"],
+          "audioFile": "xi2_yang2.mp3",
+          "chineseText": "斜阳",
+          "translation": "setting sun"
+        }
+      ]
+    },
+    {
+      "groupName": "Time concepts",
+      "description": "Time periods and duration",
+      "cards": [
+        {
+          "front": "[sound:wan4_nian2.mp3]",
+          "back": "万年<br><br>ten thousand years<br><br><i>Extremely long time: 万 + 年</i>",
+          "tags": ["time", "duration"],
+          "audioFile": "wan4_nian2.mp3",
+          "chineseText": "万年",
+          "translation": "ten thousand years"
+        },
+        {
+          "front": "[sound:qian1_nian2.mp3]",
+          "back": "千年<br><br>thousand years<br><br><i>Very long time: 千 + 年</i>",
+          "tags": ["time", "duration"],
+          "audioFile": "qian1_nian2.mp3",
+          "chineseText": "千年",
+          "translation": "thousand years"
+        },
+        {
+          "front": "[sound:shi2_guang1.mp3]",
+          "back": "时光<br><br>time<br><br><i>The passage of time: 时 + 光</i>",
+          "tags": ["time", "abstract"],
+          "audioFile": "shi2_guang1.mp3",
+          "chineseText": "时光",
+          "translation": "time"
+        }
+      ]
+    },
+    {
+      "groupName": "Love and relationships",
+      "description": "Words about love, meeting, and relationships",
+      "cards": [
+        {
+          "front": "[sound:qing2_shu1.mp3]",
+          "back": "情书<br><br>love letter<br><br><i>Letter expressing love: 情 + 书</i>",
+          "tags": ["love", "communication"],
+          "audioFile": "qing2_shu1.mp3",
+          "chineseText": "情书",
+          "translation": "love letter"
+        },
+        {
+          "front": "[sound:xiang1_yu4.mp3]",
+          "back": "相遇<br><br>to meet<br><br><i>To encounter each other: 相 + 遇</i>",
+          "tags": ["meeting", "relationship"],
+          "audioFile": "xiang1_yu4.mp3",
+          "chineseText": "相遇",
+          "translation": "to meet"
+        },
+        {
+          "front": "[sound:xiang1_ai4.mp3]",
+          "back": "相爱<br><br>to love each other<br><br><i>Mutual love: 相 + 爱</i>",
+          "tags": ["love", "relationship"],
+          "audioFile": "xiang1_ai4.mp3",
+          "chineseText": "相爱",
+          "translation": "to love each other"
+        }
+      ]
+    },
+    {
+      "groupName": "Actions and activities",
+      "description": "Key verbs and actions in the song",
+      "cards": [
+        {
+          "front": "[sound:deng3_dai4.mp3]",
+          "back": "等待<br><br>to wait<br><br><i>To wait patiently: 等 + 待</i>",
+          "tags": ["action", "waiting"],
+          "audioFile": "deng3_dai4.mp3",
+          "chineseText": "等待",
+          "translation": "to wait"
+        },
+        {
+          "front": "[sound:ge1_chang4.mp3]",
+          "back": "歌唱<br><br>to sing<br><br><i>To sing songs: 歌 + 唱</i>",
+          "tags": ["action", "music"],
+          "audioFile": "ge1_chang4.mp3",
+          "chineseText": "歌唱",
+          "translation": "to sing"
+        },
+        {
+          "front": "[sound:tan2_zou4.mp3]",
+          "back": "弹奏<br><br>to play (instrument)<br><br><i>To play music: 弹 + 奏</i>",
+          "tags": ["action", "music"],
+          "audioFile": "tan2_zou4.mp3",
+          "chineseText": "弹奏",
+          "translation": "to play (instrument)"
+        },
+        {
+          "front": "[sound:xie3.mp3]",
+          "back": "写<br><br>to write<br><br><i>To write with pen or brush</i>",
+          "tags": ["action", "writing"],
+          "audioFile": "xie3.mp3",
+          "chineseText": "写",
+          "translation": "to write"
+        },
+        {
+          "front": "[sound:sa3.mp3]",
+          "back": "洒<br><br>to scatter, to sprinkle<br><br><i>To spread or pour out</i>",
+          "tags": ["action", "scatter"],
+          "audioFile": "sa3.mp3",
+          "chineseText": "洒",
+          "translation": "to scatter, to sprinkle"
+        },
+        {
+          "front": "[sound:liu2.mp3]",
+          "back": "流<br><br>to flow<br><br><i>Movement of water or time</i>",
+          "tags": ["action", "flow"],
+          "audioFile": "liu2.mp3",
+          "chineseText": "流",
+          "translation": "to flow"
+        },
+        {
+          "front": "[sound:zhuan3.mp3]",
+          "back": "转<br><br>to turn, to rotate<br><br><i>To change direction or position</i>",
+          "tags": ["action", "turn"],
+          "audioFile": "zhuan3.mp3",
+          "chineseText": "转",
+          "translation": "to turn, to rotate"
+        }
+      ]
+    },
+    {
+      "groupName": "Places and space",
+      "description": "Locations and spatial concepts",
+      "cards": [
+        {
+          "front": "[sound:tian1_di4.mp3]",
+          "back": "天地<br><br>heaven and earth<br><br><i>The universe: 天 + 地</i>",
+          "tags": ["space", "universe"],
+          "audioFile": "tian1_di4.mp3",
+          "chineseText": "天地",
+          "translation": "heaven and earth"
+        },
+        {
+          "front": "[sound:di4_fang1.mp3]",
+          "back": "地方<br><br>place<br><br><i>Location or area: 地 + 方</i>",
+          "tags": ["place", "location"],
+          "audioFile": "di4_fang1.mp3",
+          "chineseText": "地方",
+          "translation": "place"
+        }
+      ]
+    },
+    {
+      "groupName": "Direction and descriptive words",
+      "description": "Basic directional and descriptive terms",
+      "cards": [
+        {
+          "front": "[sound:xiang4.mp3]",
+          "back": "向<br><br>towards, direction<br><br><i>Movement or facing towards something</i>",
+          "tags": ["direction", "preposition"],
+          "audioFile": "xiang4.mp3",
+          "chineseText": "向",
+          "translation": "towards, direction"
+        },
+        {
+          "front": "[sound:man3.mp3]",
+          "back": "满<br><br>full, filled<br><br><i>Completely full or covered</i>",
+          "tags": ["quantity", "full"],
+          "audioFile": "man3.mp3",
+          "chineseText": "满",
+          "translation": "full, filled"
+        },
+        {
+          "front": "[sound:bian4.mp3]",
+          "back": "变<br><br>to change<br><br><i>To become different</i>",
+          "tags": ["action", "change"],
+          "audioFile": "bian4.mp3",
+          "chineseText": "变",
+          "translation": "to change"
+        }
+      ]
+    },
+    {
+      "groupName": "Colors and beauty",
+      "description": "Visual elements and beauty",
+      "cards": [
+        {
+          "front": "[sound:hong2_lian2.mp3]",
+          "back": "红莲<br><br>red lotus<br><br><i>Beautiful flower: 红 + 莲</i>",
+          "tags": ["color", "flower", "beauty"],
+          "audioFile": "hong2_lian2.mp3",
+          "chineseText": "红莲",
+          "translation": "red lotus"
+        },
+        {
+          "front": "[sound:kai1_fang4.mp3]",
+          "back": "开放<br><br>to bloom, to open<br><br><i>Flowers blooming or opening: 开 + 放</i>",
+          "tags": ["action", "flower", "bloom"],
+          "audioFile": "kai1_fang4.mp3",
+          "chineseText": "开放",
+          "translation": "to bloom, to open"
+        }
+      ]
+    },
+    {
+      "groupName": "Essential particles and connectors",
+      "description": "Important grammatical elements",
+      "cards": [
+        {
+          "front": "[sound:yi1_qi3.mp3]",
+          "back": "一起<br><br>together<br><br><i>Doing something together: 一 + 起</i>",
+          "tags": ["together", "particle"],
+          "audioFile": "yi1_qi3.mp3",
+          "chineseText": "一起",
+          "translation": "together"
+        },
+        {
+          "front": "[sound:cong2_ci3.mp3]",
+          "back": "从此<br><br>from this point on<br><br><i>From now on: 从 + 此</i>",
+          "tags": ["time", "transition"],
+          "audioFile": "cong2_ci3.mp3",
+          "chineseText": "从此",
+          "translation": "from this point on"
+        }
+      ]
+    }
+  ]
+}

@@ -83,7 +83,6 @@ function New-AnkiDeck {
     
     # Define paths
     $localAudioDir = Join-Path $songPath "audio"
-    $ankiMediaDir = Get-AnkiMediaDirectory
     
     # Test Anki-Connect connection
     Write-Host "🔍 Checking Anki-Connect connection..."
@@ -119,9 +118,6 @@ function New-AnkiDeck {
     
     Write-Host ""
     Write-Host "📋 Total cards processed: $($allCards.Count)" -ForegroundColor Cyan
-    
-    # Copy audio files to Anki
-    Copy-AudioToAnkiMedia -SourceDir $localAudioDir -DestinationDir $ankiMediaDir
     
     # Add all cards to Anki
     Add-CardsToAnki -Cards $allCards -SkipExisting:$SkipExisting

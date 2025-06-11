@@ -58,15 +58,36 @@ function ConvertFrom-LessonFile {
                         Write-Warning "  ⚠ Failed to generate audio for: $($card.chineseText)"
                     }
                     
+                    # Determine audio target fields based on deck type
+                    $audioTargetFields = if ($lessonData.deckInfo.type -eq "listening") { @("Front") } else { @("Back") }
+                    
+                    # Prepare audio data for AnkiConnect if audioFile exists
+                    $noteAudio = @()
+                    if ($card.audioFile -and (Test-Path (Join-Path $AudioDir $card.audioFile))) {
+                        $absoluteAudioPath = (Resolve-Path (Join-Path $AudioDir $card.audioFile)).Path
+                        $noteAudio = @(
+                            @{
+                                path = $absoluteAudioPath
+                                filename = $card.audioFile
+                                fields = $audioTargetFields
+                                skipHash = (Get-FileHash $absoluteAudioPath -Algorithm MD5).Hash # AnkiConnect uses MD5 for skipHash
+                            }
+                        )
+                    }
+                    
                     # Create Anki card object
                     $ankiCard = @{
                         deckName = $lessonData.deckInfo.name
-                        modelName = "Basic"
+                        modelName = "Basic" # Assuming 'Basic' model, adjust if different
                         fields = @{
                             Front = $card.front
                             Back = $card.back
                         }
                         tags = @($SongName, "level-$($lessonData.deckInfo.level)", $lessonData.deckInfo.type) + $card.tags
+                    }
+                    
+                    if ($noteAudio.Count -gt 0) {
+                        $ankiCard.Add("audio", $noteAudio)
                     }
                     
                     $allCards += $ankiCard
@@ -84,15 +105,36 @@ function ConvertFrom-LessonFile {
                         Write-Warning "  ⚠ Failed to generate audio for: $($card.chineseText)"
                     }
                     
+                    # Determine audio target fields based on deck type
+                    $audioTargetFields = if ($lessonData.deckInfo.type -eq "listening") { @("Front") } else { @("Back") }
+                    
+                    # Prepare audio data for AnkiConnect if audioFile exists
+                    $noteAudio = @()
+                    if ($card.audioFile -and (Test-Path (Join-Path $AudioDir $card.audioFile))) {
+                        $absoluteAudioPath = (Resolve-Path (Join-Path $AudioDir $card.audioFile)).Path
+                        $noteAudio = @(
+                            @{
+                                path = $absoluteAudioPath
+                                filename = $card.audioFile
+                                fields = $audioTargetFields
+                                skipHash = (Get-FileHash $absoluteAudioPath -Algorithm MD5).Hash # AnkiConnect uses MD5 for skipHash
+                            }
+                        )
+                    }
+                    
                     # Create Anki card object
                     $ankiCard = @{
                         deckName = $lessonData.deckInfo.name
-                        modelName = "Basic"
+                        modelName = "Basic" # Assuming 'Basic' model, adjust if different
                         fields = @{
                             Front = $card.front
                             Back = $card.back
                         }
                         tags = @($SongName, "level-$($lessonData.deckInfo.level)", $lessonData.deckInfo.type) + $card.tags
+                    }
+                    
+                    if ($noteAudio.Count -gt 0) {
+                        $ankiCard.Add("audio", $noteAudio)
                     }
                     
                     $allCards += $ankiCard

@@ -1,0 +1,255 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - Love Frost v1::Level 3 - Complete Lines::Reading",
+    "description": "Complete lyric lines from 'Love Frost' - Reading focus",
+    "level": 3,
+    "type": "reading",
+    "cardFormat": "Complete Line → Pinyin + Audio + Translation"
+  },
+  "lyricLines": [
+    {
+      "groupName": "Opening verse - rare encounters",
+      "description": "The opening lines about extremely rare meetings",
+      "cards": [
+        {
+          "front": "万年一次的相遇",
+          "back": "[sound:wan_nian_yi_ci_de_xiang_yu.mp3]<br><br>(wànnián yīcì de xiāngyù)<br><br>A meeting that happens once in ten thousand years<br><br><i>Extremely rare encounter: 万年一次 + 的相遇</i>",
+          "tags": ["complete-line", "opening", "rare", "meeting"],
+          "audioFile": "wan_nian_yi_ci_de_xiang_yu.mp3",
+          "chineseText": "万年一次的相遇",
+          "translation": "A meeting that happens once in ten thousand years"
+        },
+        {
+          "front": "千年一回的相爱",
+          "back": "[sound:qian_nian_yi_hui_de_xiang_ai.mp3]<br><br>(qiānnián yīhuí de xiāng'ài)<br><br>A love that happens once in a thousand years<br><br><i>Extremely rare love: 千年一回 + 的相爱</i>",
+          "tags": ["complete-line", "opening", "rare", "love"],
+          "audioFile": "qian_nian_yi_hui_de_xiang_ai.mp3",
+          "chineseText": "千年一回的相爱",
+          "translation": "A love that happens once in a thousand years"
+        }
+      ]
+    },
+    {
+      "groupName": "Nature and time imagery",
+      "description": "Poetic descriptions of natural scenes and time",
+      "cards": [
+        {
+          "front": "月光如水",
+          "back": "[sound:yue_guang_ru_shui.mp3]<br><br>(yuèguāng rú shuǐ)<br><br>Moonlight like water<br><br><i>Bridge phrase: Part of longer poetic description</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "moonlight"],
+          "audioFile": "yue_guang_ru_shui.mp3",
+          "chineseText": "月光如水",
+          "translation": "Moonlight like water"
+        },
+        {
+          "front": "洒向大地",
+          "back": "[sound:sa_xiang_da_di.mp3]<br><br>(sǎ xiàng dàdì)<br><br>scattered across the earth<br><br><i>Bridge phrase: Continuation of moonlight description</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "earth"],
+          "audioFile": "sa_xiang_da_di.mp3",
+          "chineseText": "洒向大地",
+          "translation": "scattered across the earth"
+        },
+        {
+          "front": "月光如水洒向大地",
+          "back": "[sound:yue_guang_ru_shui_sa_xiang_da_di.mp3]<br><br>(yuèguāng rú shuǐ sǎ xiàng dàdì)<br><br>Moonlight like water scattered across the earth<br><br><i>Complete poetic line: 月光如水 + 洒向大地</i>",
+          "tags": ["complete-line", "nature", "moonlight", "poetic"],
+          "audioFile": "yue_guang_ru_shui_sa_xiang_da_di.mp3",
+          "chineseText": "月光如水洒向大地",
+          "translation": "Moonlight like water scattered across the earth"
+        },
+        {
+          "front": "斜阳西下",
+          "back": "[sound:xi_yang_xi_xia.mp3]<br><br>(xíyáng xīxià)<br><br>The setting sun goes west<br><br><i>Bridge phrase: Part of sunset scene</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "sunset"],
+          "audioFile": "xi_yang_xi_xia.mp3",
+          "chineseText": "斜阳西下",
+          "translation": "The setting sun goes west"
+        },
+        {
+          "front": "风轻云淡",
+          "back": "[sound:feng_qing_yun_dan.mp3]<br><br>(fēngqīng yúndàn)<br><br>gentle wind, light clouds<br><br><i>Bridge phrase: Peaceful weather description</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "weather"],
+          "audioFile": "feng_qing_yun_dan.mp3",
+          "chineseText": "风轻云淡",
+          "translation": "gentle wind, light clouds"
+        },
+        {
+          "front": "斜阳西下风轻云淡",
+          "back": "[sound:xi_yang_xi_xia_feng_qing_yun_dan.mp3]<br><br>(xíyáng xīxià fēngqīng yúndàn)<br><br>Setting sun goes west, gentle wind and light clouds<br><br><i>Complete scene: 斜阳西下 + 风轻云淡</i>",
+          "tags": ["complete-line", "nature", "sunset", "peaceful"],
+          "audioFile": "xi_yang_xi_xia_feng_qing_yun_dan.mp3",
+          "chineseText": "斜阳西下风轻云淡",
+          "translation": "Setting sun goes west, gentle wind and light clouds"
+        }
+      ]
+    },
+    {
+      "groupName": "Love story narrative",
+      "description": "Lines about the love story and waiting",
+      "cards": [
+        {
+          "front": "在这个地方",
+          "back": "[sound:zai_zhe_ge_di_fang.mp3]<br><br>(zài zhège dìfāng)<br><br>In this place<br><br><i>Bridge phrase: Setting the location</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "location"],
+          "audioFile": "zai_zhe_ge_di_fang.mp3",
+          "chineseText": "在这个地方",
+          "translation": "In this place"
+        },
+        {
+          "front": "我静静等待",
+          "back": "[sound:wo_jing_jing_deng_dai.mp3]<br><br>(wǒ jìngjìng děngdài)<br><br>I quietly wait<br><br><i>Bridge phrase: The waiting action</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "waiting"],
+          "audioFile": "wo_jing_jing_deng_dai.mp3",
+          "chineseText": "我静静等待",
+          "translation": "I quietly wait"
+        },
+        {
+          "front": "在这个地方我静静等待",
+          "back": "[sound:zai_zhe_ge_di_fang_wo_jing_jing_deng_dai.mp3]<br><br>(zài zhège dìfāng wǒ jìngjìng děngdài)<br><br>In this place I quietly wait<br><br><i>Complete waiting scene: 在这个地方 + 我静静等待</i>",
+          "tags": ["complete-line", "waiting", "location", "patience"],
+          "audioFile": "zai_zhe_ge_di_fang_wo_jing_jing_deng_dai.mp3",
+          "chineseText": "在这个地方我静静等待",
+          "translation": "In this place I quietly wait"
+        },
+        {
+          "front": "为你歌唱",
+          "back": "[sound:wei_ni_ge_chang.mp3]<br><br>(wèi nǐ gēchàng)<br><br>singing for you<br><br><i>Bridge phrase: Musical expression of love</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "singing"],
+          "audioFile": "wei_ni_ge_chang.mp3",
+          "chineseText": "为你歌唱",
+          "translation": "singing for you"
+        },
+        {
+          "front": "为你弹奏",
+          "back": "[sound:wei_ni_tan_zou.mp3]<br><br>(wèi nǐ tánzòu)<br><br>playing for you<br><br><i>Bridge phrase: Musical expression continued</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "playing"],
+          "audioFile": "wei_ni_tan_zou.mp3",
+          "chineseText": "为你弹奏",
+          "translation": "playing for you"
+        },
+        {
+          "front": "为你歌唱为你弹奏",
+          "back": "[sound:wei_ni_ge_chang_wei_ni_tan_zou.mp3]<br><br>(wèi nǐ gēchàng wèi nǐ tánzòu)<br><br>Singing for you, playing for you<br><br><i>Musical devotion: 为你歌唱 + 为你弹奏</i>",
+          "tags": ["complete-line", "music", "devotion", "love"],
+          "audioFile": "wei_ni_ge_chang_wei_ni_tan_zou.mp3",
+          "chineseText": "为你歌唱为你弹奏",
+          "translation": "Singing for you, playing for you"
+        }
+      ]
+    },
+    {
+      "groupName": "Promise and commitment",
+      "description": "Lines about future promises and commitment",
+      "cards": [
+        {
+          "front": "从此以后",
+          "back": "[sound:cong_ci_yi_hou.mp3]<br><br>(cóngcǐ yǐhòu)<br><br>From now on<br><br><i>Bridge phrase: Starting a promise</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "promise"],
+          "audioFile": "cong_ci_yi_hou.mp3",
+          "chineseText": "从此以后",
+          "translation": "From now on"
+        },
+        {
+          "front": "我们一起走过",
+          "back": "[sound:wo_men_yi_qi_zou_guo.mp3]<br><br>(wǒmen yīqǐ zǒuguò)<br><br>we walk through together<br><br><i>Bridge phrase: Shared journey</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "together"],
+          "audioFile": "wo_men_yi_qi_zou_guo.mp3",
+          "chineseText": "我们一起走过",
+          "translation": "we walk through together"
+        },
+        {
+          "front": "从此以后我们一起走过",
+          "back": "[sound:cong_ci_yi_hou_wo_men_yi_qi_zou_guo.mp3]<br><br>(cóngcǐ yǐhòu wǒmen yīqǐ zǒuguò)<br><br>From now on we walk through together<br><br><i>Promise of togetherness: 从此以后 + 我们一起走过</i>",
+          "tags": ["complete-line", "promise", "together", "future"],
+          "audioFile": "cong_ci_yi_hou_wo_men_yi_qi_zou_guo.mp3",
+          "chineseText": "从此以后我们一起走过",
+          "translation": "From now on we walk through together"
+        }
+      ]
+    },
+    {
+      "groupName": "Universal and eternal themes",
+      "description": "Lines about the universe and eternal love",
+      "cards": [
+        {
+          "front": "在天地之间",
+          "back": "[sound:zai_tian_di_zhi_jian.mp3]<br><br>(zài tiāndì zhījiān)<br><br>Between heaven and earth<br><br><i>Bridge phrase: Universal setting</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "universe"],
+          "audioFile": "zai_tian_di_zhi_jian.mp3",
+          "chineseText": "在天地之间",
+          "translation": "Between heaven and earth"
+        },
+        {
+          "front": "红莲开放",
+          "back": "[sound:hong_lian_kai_fang.mp3]<br><br>(hóngliàn kāifàng)<br><br>red lotus blooming<br><br><i>Bridge phrase: Beautiful imagery</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "flower"],
+          "audioFile": "hong_lian_kai_fang.mp3",
+          "chineseText": "红莲开放",
+          "translation": "red lotus blooming"
+        },
+        {
+          "front": "在天地之间红莲开放",
+          "back": "[sound:zai_tian_di_zhi_jian_hong_lian_kai_fang.mp3]<br><br>(zài tiāndì zhījiān hóngliàn kāifàng)<br><br>Between heaven and earth, red lotus blooms<br><br><i>Universal beauty: 在天地之间 + 红莲开放</i>",
+          "tags": ["complete-line", "universe", "beauty", "poetic"],
+          "audioFile": "zai_tian_di_zhi_jian_hong_lian_kai_fang.mp3",
+          "chineseText": "在天地之间红莲开放",
+          "translation": "Between heaven and earth, red lotus blooms"
+        },
+        {
+          "front": "时光流转",
+          "back": "[sound:shi_guang_liu_zhuan.mp3]<br><br>(shíguāng liúzhuàn)<br><br>Time flows and turns<br><br><i>Bridge phrase: Passage of time</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "time"],
+          "audioFile": "shi_guang_liu_zhuan.mp3",
+          "chineseText": "时光流转",
+          "translation": "Time flows and turns"
+        },
+        {
+          "front": "爱不变",
+          "back": "[sound:ai_bu_bian.mp3]<br><br>(ài bùbiàn)<br><br>love doesn't change<br><br><i>Bridge phrase: Eternal love</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "eternal"],
+          "audioFile": "ai_bu_bian.mp3",
+          "chineseText": "爱不变",
+          "translation": "love doesn't change"
+        },
+        {
+          "front": "时光流转爱不变",
+          "back": "[sound:shi_guang_liu_zhuan_ai_bu_bian.mp3]<br><br>(shíguāng liúzhuàn ài bùbiàn)<br><br>Time flows and turns, love doesn't change<br><br><i>Eternal promise: 时光流转 + 爱不变</i>",
+          "tags": ["complete-line", "time", "eternal", "love"],
+          "audioFile": "shi_guang_liu_zhuan_ai_bu_bian.mp3",
+          "chineseText": "时光流转爱不变",
+          "translation": "Time flows and turns, love doesn't change"
+        }
+      ]
+    },
+    {
+      "groupName": "Love letter and communication",
+      "description": "Lines about written expressions of love",
+      "cards": [
+        {
+          "front": "情书一封",
+          "back": "[sound:qing_shu_yi_feng.mp3]<br><br>(qíngshū yīfēng)<br><br>One love letter<br><br><i>Bridge phrase: The written expression</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "letter"],
+          "audioFile": "qing_shu_yi_feng.mp3",
+          "chineseText": "情书一封",
+          "translation": "One love letter"
+        },
+        {
+          "front": "写满爱情",
+          "back": "[sound:xie_man_ai_qing.mp3]<br><br>(xiě mǎn àiqíng)<br><br>filled with love<br><br><i>Bridge phrase: Content of the letter</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "love"],
+          "audioFile": "xie_man_ai_qing.mp3",
+          "chineseText": "写满爱情",
+          "translation": "filled with love"
+        },
+        {
+          "front": "情书一封写满爱情",
+          "back": "[sound:qing_shu_yi_feng_xie_man_ai_qing.mp3]<br><br>(qíngshū yīfēng xiě mǎn àiqíng)<br><br>One love letter filled with love<br><br><i>Complete expression: 情书一封 + 写满爱情</i>",
+          "tags": ["complete-line", "love", "letter", "communication"],
+          "audioFile": "qing_shu_yi_feng_xie_man_ai_qing.mp3",
+          "chineseText": "情书一封写满爱情",
+          "translation": "One love letter filled with love"
+        }
+      ]
+    }
+  ]
+}

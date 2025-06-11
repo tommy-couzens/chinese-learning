@@ -1,0 +1,191 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - The Other Shore v1::Level 2 - Intermediate Phrases::Reading",
+    "description": "Medium-length phrases (2-4 characters) from 'The Other Shore' - Reading focus",
+    "level": 2,
+    "type": "reading",
+    "cardFormat": "Characters → Pinyin + Translation"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Poetic actions with nature",
+      "description": "Actions combined with natural elements",
+      "cards": [
+        {
+          "front": "剪一阵风",
+          "back": "(jiǎn yī zhèn fēng)<br><br>cut a gust of wind<br><br><i>Poetic expression: to capture wind</i>",
+          "tags": ["poetic", "nature", "action"],
+          "chineseText": "剪一阵风",
+          "pinyin": "jiǎn yī zhèn fēng",
+          "translation": "cut a gust of wind"
+        },
+        {
+          "front": "捡一个梦",
+          "back": "(jiǎn yī gè mèng)<br><br>pick up a dream<br><br><i>Poetic expression: to gather dreams</i>",
+          "tags": ["poetic", "dream", "action"],
+          "chineseText": "捡一个梦",
+          "pinyin": "jiǎn yī gè mèng",
+          "translation": "pick up a dream"
+        },
+        {
+          "front": "趁夜色正朦胧",
+          "back": "(chèn yèsè zhèng ménglóng)<br><br>while the night is hazy<br><br><i>Taking advantage of dim night: 趁 + 夜色正朦胧</i>",
+          "tags": ["time", "atmosphere", "condition"],
+          "chineseText": "趁夜色正朦胧",
+          "pinyin": "chèn yèsè zhèng ménglóng",
+          "translation": "while the night is hazy"
+        }
+      ]
+    },
+    {
+      "groupName": "Time and consciousness",
+      "description": "Temporal and awareness-related phrases",
+      "cards": [
+        {
+          "front": "在他苏醒之前",
+          "back": "(zài tā sūxǐng zhī qián)<br><br>before he wakes up<br><br><i>Temporal phrase: 在...之前</i>",
+          "tags": ["time", "consciousness", "before"],
+          "chineseText": "在他苏醒之前",
+          "pinyin": "zài tā sūxǐng zhī qián",
+          "translation": "before he wakes up"
+        },
+        {
+          "front": "有始有终",
+          "back": "(yǒu shǐ yǒu zhōng)<br><br>from beginning to end<br><br><i>Complete process: 有始 + 有终</i>",
+          "tags": ["completion", "time", "process"],
+          "chineseText": "有始有终",
+          "pinyin": "yǒu shǐ yǒu zhōng",
+          "translation": "from beginning to end"
+        },
+        {
+          "front": "漫长冬月",
+          "back": "(màncháng dōngyuè)<br><br>long winter months<br><br><i>Extended winter period: 漫长 + 冬月</i>",
+          "tags": ["time", "season", "duration"],
+          "chineseText": "漫长冬月",
+          "pinyin": "màncháng dōngyuè",
+          "translation": "long winter months"
+        }
+      ]
+    },
+    {
+      "groupName": "Visual imagery and covering",
+      "description": "Descriptive phrases about sight and covering",
+      "cards": [
+        {
+          "front": "漫山遍野",
+          "back": "(mànshān biànyě)<br><br>all over the mountains and fields<br><br><i>Everywhere in nature: 漫山 + 遍野</i>",
+          "tags": ["location", "extensive", "nature"],
+          "chineseText": "漫山遍野",
+          "pinyin": "mànshān biànyě",
+          "translation": "all over the mountains and fields"
+        },
+        {
+          "front": "覆盖一切",
+          "back": "(fùgài yīqiè)<br><br>covering everything<br><br><i>Complete coverage: 覆盖 + 一切</i>",
+          "tags": ["covering", "complete", "everything"],
+          "chineseText": "覆盖一切",
+          "pinyin": "fùgài yīqiè",
+          "translation": "covering everything"
+        },
+        {
+          "front": "夺目红色",
+          "back": "(duómù hóngsè)<br><br>dazzling red color<br><br><i>Brilliant red: 夺目 + 红色</i>",
+          "tags": ["color", "bright", "visual"],
+          "chineseText": "夺目红色",
+          "pinyin": "duómù hóngsè",
+          "translation": "dazzling red color"
+        }
+      ]
+    },
+    {
+      "groupName": "Movement and interaction",
+      "description": "Phrases about movement and contact",
+      "cards": [
+        {
+          "front": "与陨落的星",
+          "back": "(yǔ yǔnluò de xīng)<br><br>with falling stars<br><br><i>Interaction with meteors: 与 + 陨落的星</i>",
+          "tags": ["celestial", "interaction", "falling"],
+          "chineseText": "与陨落的星",
+          "pinyin": "yǔ yǔnluò de xīng",
+          "translation": "with falling stars"
+        },
+        {
+          "front": "擦肩",
+          "back": "(cājiān)<br><br>brush shoulders, pass by<br><br><i>Brief contact while passing: 擦 + 肩</i>",
+          "tags": ["contact", "passing", "brief"],
+          "chineseText": "擦肩",
+          "pinyin": "cājiān",
+          "translation": "brush shoulders, pass by"
+        },
+        {
+          "front": "未曾见过的",
+          "back": "(wèi céng jiàn guò de)<br><br>never seen before<br><br><i>Previously unseen: 未曾 + 见过的</i>",
+          "tags": ["unseen", "first", "experience"],
+          "chineseText": "未曾见过的",
+          "pinyin": "wèi céng jiàn guò de",
+          "translation": "never seen before"
+        }
+      ]
+    },
+    {
+      "groupName": "Emotional states and memories",
+      "description": "Complex emotional and memory expressions",
+      "cards": [
+        {
+          "front": "不愿先走",
+          "back": "(bù yuàn xiān zǒu)<br><br>unwilling to leave first<br><br><i>Reluctance to depart: 不愿 + 先走</i>",
+          "tags": ["reluctance", "leaving", "emotion"],
+          "chineseText": "不愿先走",
+          "pinyin": "bù yuàn xiān zǒu",
+          "translation": "unwilling to leave first"
+        },
+        {
+          "front": "想见你一面",
+          "back": "(xiǎng jiàn nǐ yī miàn)<br><br>want to see you once<br><br><i>Desire for meeting: 想见 + 你一面</i>",
+          "tags": ["desire", "meeting", "longing"],
+          "chineseText": "想见你一面",
+          "pinyin": "xiǎng jiàn nǐ yī miàn",
+          "translation": "want to see you once"
+        },
+        {
+          "front": "浮现于眼前",
+          "back": "(fúxiàn yú yǎn qián)<br><br>appear before one's eyes<br><br><i>Coming into view: 浮现 + 于眼前</i>",
+          "tags": ["appearing", "vision", "memory"],
+          "chineseText": "浮现于眼前",
+          "pinyin": "fúxiàn yú yǎn qián",
+          "translation": "appear before one's eyes"
+        }
+      ]
+    },
+    {
+      "groupName": "Cause and effect relationships",
+      "description": "Phrases showing relationships and exchanges",
+      "cards": [
+        {
+          "front": "多少次擦肩",
+          "back": "(duōshǎo cì cājiān)<br><br>how many times brushing shoulders<br><br><i>Counting encounters: 多少次 + 擦肩</i>",
+          "tags": ["counting", "encounters", "frequency"],
+          "chineseText": "多少次擦肩",
+          "pinyin": "duōshǎo cì cājiān",
+          "translation": "how many times brushing shoulders"
+        },
+        {
+          "front": "才能换一次",
+          "back": "(cái néng huàn yī cì)<br><br>only then can exchange once<br><br><i>Conditional exchange: 才能 + 换一次</i>",
+          "tags": ["exchange", "condition", "rarity"],
+          "chineseText": "才能换一次",
+          "pinyin": "cái néng huàn yī cì",
+          "translation": "only then can exchange once"
+        },
+        {
+          "front": "寂寞纠缠成",
+          "back": "(jìmò jiūchán chéng)<br><br>loneliness entangles into<br><br><i>Emotion transformation: 寂寞 + 纠缠成</i>",
+          "tags": ["emotion", "transformation", "entanglement"],
+          "chineseText": "寂寞纠缠成",
+          "pinyin": "jìmò jiūchán chéng",
+          "translation": "loneliness entangles into"
+        }
+      ]
+    }
+  ]
+}

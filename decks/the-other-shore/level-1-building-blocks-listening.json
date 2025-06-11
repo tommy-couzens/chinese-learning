@@ -1,0 +1,325 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - The Other Shore v1::Level 1 - Building Blocks::Listening",
+    "description": "Basic vocabulary (1-2 characters) from 'The Other Shore' - Listening focus",
+    "level": 1,
+    "type": "listening",
+    "cardFormat": "Audio → Character/Word + Translation"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Actions and movement",
+      "description": "Key verbs and actions in the song",
+      "cards": [
+        {
+          "front": "[sound:jian3.mp3]",
+          "back": "剪<br><br>to cut, to clip<br><br><i>To cut with scissors or shears</i>",
+          "tags": ["action", "cutting"],
+          "audioFile": "jian3.mp3",
+          "chineseText": "剪",
+          "translation": "to cut, to clip"
+        },
+        {
+          "front": "[sound:jian3_pick.mp3]",
+          "back": "捡<br><br>to pick up, to collect<br><br><i>To gather or retrieve something</i>",
+          "tags": ["action", "picking"],
+          "audioFile": "jian3_pick.mp3",
+          "chineseText": "捡",
+          "translation": "to pick up, to collect"
+        },
+        {
+          "front": "[sound:dou3_luo4.mp3]",
+          "back": "抖落<br><br>to shake off<br><br><i>To shake something loose: 抖 + 落</i>",
+          "tags": ["action", "shaking"],
+          "audioFile": "dou3_luo4.mp3",
+          "chineseText": "抖落",
+          "translation": "to shake off"
+        },
+        {
+          "front": "[sound:duo3_cang2.mp3]",
+          "back": "躲藏<br><br>to hide<br><br><i>To conceal oneself: 躲 + 藏</i>",
+          "tags": ["action", "hiding"],
+          "audioFile": "duo3_cang2.mp3",
+          "chineseText": "躲藏",
+          "translation": "to hide"
+        },
+        {
+          "front": "[sound:chuan1_guo4.mp3]",
+          "back": "穿过<br><br>to pass through<br><br><i>To go through something: 穿 + 过</i>",
+          "tags": ["action", "movement"],
+          "audioFile": "chuan1_guo4.mp3",
+          "chineseText": "穿过",
+          "translation": "to pass through"
+        },
+        {
+          "front": "[sound:xun2_fang3.mp3]",
+          "back": "寻访<br><br>to seek, to visit<br><br><i>To search for and visit: 寻 + 访</i>",
+          "tags": ["action", "seeking"],
+          "audioFile": "xun2_fang3.mp3",
+          "chineseText": "寻访",
+          "translation": "to seek, to visit"
+        },
+        {
+          "front": "[sound:ao2_guo4.mp3]",
+          "back": "熬过<br><br>to endure, to get through<br><br><i>To survive through difficulty: 熬 + 过</i>",
+          "tags": ["action", "enduring"],
+          "audioFile": "ao2_guo4.mp3",
+          "chineseText": "熬过",
+          "translation": "to endure, to get through"
+        }
+      ]
+    },
+    {
+      "groupName": "Nature and elements",
+      "description": "Natural phenomena and elements",
+      "cards": [
+        {
+          "front": "[sound:feng1.mp3]",
+          "back": "风<br><br>wind<br><br><i>Moving air, natural force</i>",
+          "tags": ["nature", "weather"],
+          "audioFile": "feng1.mp3",
+          "chineseText": "风",
+          "translation": "wind"
+        },
+        {
+          "front": "[sound:shui3_yue4.mp3]",
+          "back": "水月<br><br>water and moon<br><br><i>Poetic imagery: 水 + 月</i>",
+          "tags": ["nature", "poetic"],
+          "audioFile": "shui3_yue4.mp3",
+          "chineseText": "水月",
+          "translation": "water and moon"
+        },
+        {
+          "front": "[sound:ye4_se4.mp3]",
+          "back": "夜色<br><br>night scene, darkness<br><br><i>The color/atmosphere of night: 夜 + 色</i>",
+          "tags": ["nature", "time"],
+          "audioFile": "ye4_se4.mp3",
+          "chineseText": "夜色",
+          "translation": "night scene, darkness"
+        },
+        {
+          "front": "[sound:xue3.mp3]",
+          "back": "雪<br><br>snow<br><br><i>White precipitation in winter</i>",
+          "tags": ["nature", "weather"],
+          "audioFile": "xue3.mp3",
+          "chineseText": "雪",
+          "translation": "snow"
+        },
+        {
+          "front": "[sound:ye4_leaf.mp3]",
+          "back": "叶<br><br>leaf<br><br><i>Plant foliage</i>",
+          "tags": ["nature", "plant"],
+          "audioFile": "ye4_leaf.mp3",
+          "chineseText": "叶",
+          "translation": "leaf"
+        },
+        {
+          "front": "[sound:dong1_yue4.mp3]",
+          "back": "冬月<br><br>winter moon<br><br><i>Moon in winter: 冬 + 月</i>",
+          "tags": ["nature", "season"],
+          "audioFile": "dong1_yue4.mp3",
+          "chineseText": "冬月",
+          "translation": "winter moon"
+        }
+      ]
+    },
+    {
+      "groupName": "Time and dreams",
+      "description": "Concepts of time, dreams, and memory",
+      "cards": [
+        {
+          "front": "[sound:meng4.mp3]",
+          "back": "梦<br><br>dream<br><br><i>Images and experiences during sleep</i>",
+          "tags": ["abstract", "dream"],
+          "audioFile": "meng4.mp3",
+          "chineseText": "梦",
+          "translation": "dream"
+        },
+        {
+          "front": "[sound:hui2_yi4.mp3]",
+          "back": "回忆<br><br>memory, to recall<br><br><i>To remember the past: 回 + 忆</i>",
+          "tags": ["memory", "emotion"],
+          "audioFile": "hui2_yi4.mp3",
+          "chineseText": "回忆",
+          "translation": "memory, to recall"
+        },
+        {
+          "front": "[sound:su1_xing3.mp3]",
+          "back": "苏醒<br><br>to wake up, to regain consciousness<br><br><i>To become awake: 苏 + 醒</i>",
+          "tags": ["action", "awakening"],
+          "audioFile": "su1_xing3.mp3",
+          "chineseText": "苏醒",
+          "translation": "to wake up, to regain consciousness"
+        },
+        {
+          "front": "[sound:zhou4_ye4.mp3]",
+          "back": "昼夜<br><br>day and night<br><br><i>The cycle of time: 昼 + 夜</i>",
+          "tags": ["time", "cycle"],
+          "audioFile": "zhou4_ye4.mp3",
+          "chineseText": "昼夜",
+          "translation": "day and night"
+        },
+        {
+          "front": "[sound:wang3_shi4.mp3]",
+          "back": "往事<br><br>past events<br><br><i>Things from the past: 往 + 事</i>",
+          "tags": ["memory", "past"],
+          "audioFile": "wang3_shi4.mp3",
+          "chineseText": "往事",
+          "translation": "past events"
+        }
+      ]
+    },
+    {
+      "groupName": "Colors and appearance",
+      "description": "Visual elements and appearance",
+      "cards": [
+        {
+          "front": "[sound:hong2_se4.mp3]",
+          "back": "红色<br><br>red color<br><br><i>The color red: 红 + 色</i>",
+          "tags": ["color", "visual"],
+          "audioFile": "hong2_se4.mp3",
+          "chineseText": "红色",
+          "translation": "red color"
+        },
+        {
+          "front": "[sound:rong2_yan2.mp3]",
+          "back": "容颜<br><br>facial features, countenance<br><br><i>Face and appearance: 容 + 颜</i>",
+          "tags": ["appearance", "face"],
+          "audioFile": "rong2_yan2.mp3",
+          "chineseText": "容颜",
+          "translation": "facial features, countenance"
+        },
+        {
+          "front": "[sound:meng2_long2.mp3]",
+          "back": "朦胧<br><br>hazy, dim<br><br><i>Unclear or indistinct: 朦 + 胧</i>",
+          "tags": ["description", "vague"],
+          "audioFile": "meng2_long2.mp3",
+          "chineseText": "朦胧",
+          "translation": "hazy, dim"
+        }
+      ]
+    },
+    {
+      "groupName": "Emotions and feelings",
+      "description": "Emotional states and feelings",
+      "cards": [
+        {
+          "front": "[sound:ji4_mo4.mp3]",
+          "back": "寂寞<br><br>lonely, solitary<br><br><i>Feeling alone: 寂 + 寞</i>",
+          "tags": ["emotion", "loneliness"],
+          "audioFile": "ji4_mo4.mp3",
+          "chineseText": "寂寞",
+          "translation": "lonely, solitary"
+        },
+        {
+          "front": "[sound:jiu1_chan2.mp3]",
+          "back": "纠缠<br><br>to entangle<br><br><i>To twist together: 纠 + 缠</i>",
+          "tags": ["emotion", "complex"],
+          "audioFile": "jiu1_chan2.mp3",
+          "chineseText": "纠缠",
+          "translation": "to entangle"
+        },
+        {
+          "front": "[sound:huang3_ran2.mp3]",
+          "back": "恍然<br><br>suddenly realize<br><br><i>Sudden understanding: 恍 + 然</i>",
+          "tags": ["realization", "sudden"],
+          "audioFile": "huang3_ran2.mp3",
+          "chineseText": "恍然",
+          "translation": "suddenly realize"
+        },
+        {
+          "front": "[sound:wei1_xun1.mp3]",
+          "back": "微醺<br><br>slightly drunk, tipsy<br><br><i>Mildly intoxicated: 微 + 醺</i>",
+          "tags": ["state", "mild"],
+          "audioFile": "wei1_xun1.mp3",
+          "chineseText": "微醺",
+          "translation": "slightly drunk, tipsy"
+        }
+      ]
+    },
+    {
+      "groupName": "Spatial and descriptive",
+      "description": "Location and descriptive terms",
+      "cards": [
+        {
+          "front": "[sound:man4_shan1.mp3]",
+          "back": "漫山<br><br>all over the mountains<br><br><i>Covering mountains: 漫 + 山</i>",
+          "tags": ["location", "mountains"],
+          "audioFile": "man4_shan1.mp3",
+          "chineseText": "漫山",
+          "translation": "all over the mountains"
+        },
+        {
+          "front": "[sound:bian4_ye3.mp3]",
+          "back": "遍野<br><br>all over the fields<br><br><i>Covering fields: 遍 + 野</i>",
+          "tags": ["location", "fields"],
+          "audioFile": "bian4_ye3.mp3",
+          "chineseText": "遍野",
+          "translation": "all over the fields"
+        },
+        {
+          "front": "[sound:fu4_gai4.mp3]",
+          "back": "覆盖<br><br>to cover<br><br><i>To overlay completely: 覆 + 盖</i>",
+          "tags": ["action", "covering"],
+          "audioFile": "fu4_gai4.mp3",
+          "chineseText": "覆盖",
+          "translation": "to cover"
+        },
+        {
+          "front": "[sound:duo2_mu4.mp3]",
+          "back": "夺目<br><br>dazzling<br><br><i>Eye-catching: 夺 + 目</i>",
+          "tags": ["description", "bright"],
+          "audioFile": "duo2_mu4.mp3",
+          "chineseText": "夺目",
+          "translation": "dazzling"
+        }
+      ]
+    },
+    {
+      "groupName": "Objects and concepts",
+      "description": "Physical objects and abstract concepts",
+      "cards": [
+        {
+          "front": "[sound:xing1.mp3]",
+          "back": "星<br><br>star<br><br><i>Celestial body in the sky</i>",
+          "tags": ["object", "celestial"],
+          "audioFile": "xing1.mp3",
+          "chineseText": "星",
+          "translation": "star"
+        },
+        {
+          "front": "[sound:yun3_luo4.mp3]",
+          "back": "陨落<br><br>to fall (meteor)<br><br><i>To crash down from sky: 陨 + 落</i>",
+          "tags": ["action", "falling"],
+          "audioFile": "yun3_luo4.mp3",
+          "chineseText": "陨落",
+          "translation": "to fall (meteor)"
+        },
+        {
+          "front": "[sound:hong2_xian4.mp3]",
+          "back": "红线<br><br>red thread<br><br><i>Thread of fate: 红 + 线</i>",
+          "tags": ["object", "symbolic"],
+          "audioFile": "hong2_xian4.mp3",
+          "chineseText": "红线",
+          "translation": "red thread"
+        },
+        {
+          "front": "[sound:ca1_jian1.mp3]",
+          "back": "擦肩<br><br>to brush shoulders<br><br><i>To pass by closely: 擦 + 肩</i>",
+          "tags": ["action", "passing"],
+          "audioFile": "ca1_jian1.mp3",
+          "chineseText": "擦肩",
+          "translation": "to brush shoulders"
+        },
+        {
+          "front": "[sound:hui2_mou2.mp3]",
+          "back": "回眸<br><br>to look back<br><br><i>To turn and glance: 回 + 眸</i>",
+          "tags": ["action", "looking"],
+          "audioFile": "hui2_mou2.mp3",
+          "chineseText": "回眸",
+          "translation": "to look back"
+        }
+      ]
+    }
+  ]
+}

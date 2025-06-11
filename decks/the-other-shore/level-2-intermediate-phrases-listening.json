@@ -1,0 +1,191 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - The Other Shore v1::Level 2 - Intermediate Phrases::Listening",
+    "description": "Medium-length phrases (2-4 characters) from 'The Other Shore' - Listening focus",
+    "level": 2,
+    "type": "listening",
+    "cardFormat": "Audio → Characters + Translation"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Poetic actions with nature",
+      "description": "Actions combined with natural elements",
+      "cards": [
+        {
+          "front": "[sound:jian3_yi1_zhen4_feng1.mp3]",
+          "back": "剪一阵风<br><br>cut a gust of wind<br><br><i>Poetic expression: to capture wind</i>",
+          "tags": ["poetic", "nature", "action"],
+          "audioFile": "jian3_yi1_zhen4_feng1.mp3",
+          "chineseText": "剪一阵风",
+          "translation": "cut a gust of wind"
+        },
+        {
+          "front": "[sound:jian3_yi1_ge4_meng4.mp3]",
+          "back": "捡一个梦<br><br>pick up a dream<br><br><i>Poetic expression: to gather dreams</i>",
+          "tags": ["poetic", "dream", "action"],
+          "audioFile": "jian3_yi1_ge4_meng4.mp3",
+          "chineseText": "捡一个梦",
+          "translation": "pick up a dream"
+        },
+        {
+          "front": "[sound:chen4_ye4_se4_zheng4_meng2_long2.mp3]",
+          "back": "趁夜色正朦胧<br><br>while the night is hazy<br><br><i>Taking advantage of dim night: 趁 + 夜色正朦胧</i>",
+          "tags": ["time", "atmosphere", "condition"],
+          "audioFile": "chen4_ye4_se4_zheng4_meng2_long2.mp3",
+          "chineseText": "趁夜色正朦胧",
+          "translation": "while the night is hazy"
+        }
+      ]
+    },
+    {
+      "groupName": "Time and consciousness",
+      "description": "Temporal and awareness-related phrases",
+      "cards": [
+        {
+          "front": "[sound:zai4_ta1_su1_xing3_zhi1_qian2.mp3]",
+          "back": "在他苏醒之前<br><br>before he wakes up<br><br><i>Temporal phrase: 在...之前</i>",
+          "tags": ["time", "consciousness", "before"],
+          "audioFile": "zai4_ta1_su1_xing3_zhi1_qian2.mp3",
+          "chineseText": "在他苏醒之前",
+          "translation": "before he wakes up"
+        },
+        {
+          "front": "[sound:you3_shi3_you3_zhong1.mp3]",
+          "back": "有始有终<br><br>from beginning to end<br><br><i>Complete process: 有始 + 有终</i>",
+          "tags": ["completion", "time", "process"],
+          "audioFile": "you3_shi3_you3_zhong1.mp3",
+          "chineseText": "有始有终",
+          "translation": "from beginning to end"
+        },
+        {
+          "front": "[sound:man4_chang2_dong1_yue4.mp3]",
+          "back": "漫长冬月<br><br>long winter months<br><br><i>Extended winter period: 漫长 + 冬月</i>",
+          "tags": ["time", "season", "duration"],
+          "audioFile": "man4_chang2_dong1_yue4.mp3",
+          "chineseText": "漫长冬月",
+          "translation": "long winter months"
+        }
+      ]
+    },
+    {
+      "groupName": "Visual imagery and covering",
+      "description": "Descriptive phrases about sight and covering",
+      "cards": [
+        {
+          "front": "[sound:man4_shan1_bian4_ye3.mp3]",
+          "back": "漫山遍野<br><br>all over the mountains and fields<br><br><i>Everywhere in nature: 漫山 + 遍野</i>",
+          "tags": ["location", "extensive", "nature"],
+          "audioFile": "man4_shan1_bian4_ye3.mp3",
+          "chineseText": "漫山遍野",
+          "translation": "all over the mountains and fields"
+        },
+        {
+          "front": "[sound:fu4_gai4_yi1_qie4.mp3]",
+          "back": "覆盖一切<br><br>covering everything<br><br><i>Complete coverage: 覆盖 + 一切</i>",
+          "tags": ["covering", "complete", "everything"],
+          "audioFile": "fu4_gai4_yi1_qie4.mp3",
+          "chineseText": "覆盖一切",
+          "translation": "covering everything"
+        },
+        {
+          "front": "[sound:duo2_mu4_hong2_se4.mp3]",
+          "back": "夺目红色<br><br>dazzling red color<br><br><i>Brilliant red: 夺目 + 红色</i>",
+          "tags": ["color", "bright", "visual"],
+          "audioFile": "duo2_mu4_hong2_se4.mp3",
+          "chineseText": "夺目红色",
+          "translation": "dazzling red color"
+        }
+      ]
+    },
+    {
+      "groupName": "Movement and interaction",
+      "description": "Phrases about movement and contact",
+      "cards": [
+        {
+          "front": "[sound:yu3_yun3_luo4_de_xing1.mp3]",
+          "back": "与陨落的星<br><br>with falling stars<br><br><i>Interaction with meteors: 与 + 陨落的星</i>",
+          "tags": ["celestial", "interaction", "falling"],
+          "audioFile": "yu3_yun3_luo4_de_xing1.mp3",
+          "chineseText": "与陨落的星",
+          "translation": "with falling stars"
+        },
+        {
+          "front": "[sound:ca1_jian1.mp3]",
+          "back": "擦肩<br><br>brush shoulders, pass by<br><br><i>Brief contact while passing: 擦 + 肩</i>",
+          "tags": ["contact", "passing", "brief"],
+          "audioFile": "ca1_jian1.mp3",
+          "chineseText": "擦肩",
+          "translation": "brush shoulders, pass by"
+        },
+        {
+          "front": "[sound:wei4_ceng2_jian4_guo4_de.mp3]",
+          "back": "未曾见过的<br><br>never seen before<br><br><i>Previously unseen: 未曾 + 见过的</i>",
+          "tags": ["unseen", "first", "experience"],
+          "audioFile": "wei4_ceng2_jian4_guo4_de.mp3",
+          "chineseText": "未曾见过的",
+          "translation": "never seen before"
+        }
+      ]
+    },
+    {
+      "groupName": "Emotional states and memories",
+      "description": "Complex emotional and memory expressions",
+      "cards": [
+        {
+          "front": "[sound:bu4_yuan4_xian1_zou3.mp3]",
+          "back": "不愿先走<br><br>unwilling to leave first<br><br><i>Reluctance to depart: 不愿 + 先走</i>",
+          "tags": ["reluctance", "leaving", "emotion"],
+          "audioFile": "bu4_yuan4_xian1_zou3.mp3",
+          "chineseText": "不愿先走",
+          "translation": "unwilling to leave first"
+        },
+        {
+          "front": "[sound:xiang3_jian4_ni3_yi1_mian4.mp3]",
+          "back": "想见你一面<br><br>want to see you once<br><br><i>Desire for meeting: 想见 + 你一面</i>",
+          "tags": ["desire", "meeting", "longing"],
+          "audioFile": "xiang3_jian4_ni3_yi1_mian4.mp3",
+          "chineseText": "想见你一面",
+          "translation": "want to see you once"
+        },
+        {
+          "front": "[sound:fu2_xian4_yu2_yan3_qian2.mp3]",
+          "back": "浮现于眼前<br><br>appear before one's eyes<br><br><i>Coming into view: 浮现 + 于眼前</i>",
+          "tags": ["appearing", "vision", "memory"],
+          "audioFile": "fu2_xian4_yu2_yan3_qian2.mp3",
+          "chineseText": "浮现于眼前",
+          "translation": "appear before one's eyes"
+        }
+      ]
+    },
+    {
+      "groupName": "Cause and effect relationships",
+      "description": "Phrases showing relationships and exchanges",
+      "cards": [
+        {
+          "front": "[sound:duo1_shao3_ci4_ca1_jian1.mp3]",
+          "back": "多少次擦肩<br><br>how many times brushing shoulders<br><br><i>Counting encounters: 多少次 + 擦肩</i>",
+          "tags": ["counting", "encounters", "frequency"],
+          "audioFile": "duo1_shao3_ci4_ca1_jian1.mp3",
+          "chineseText": "多少次擦肩",
+          "translation": "how many times brushing shoulders"
+        },
+        {
+          "front": "[sound:cai2_neng2_huan4_yi1_ci4.mp3]",
+          "back": "才能换一次<br><br>only then can exchange once<br><br><i>Conditional exchange: 才能 + 换一次</i>",
+          "tags": ["exchange", "condition", "rarity"],
+          "audioFile": "cai2_neng2_huan4_yi1_ci4.mp3",
+          "chineseText": "才能换一次",
+          "translation": "only then can exchange once"
+        },
+        {
+          "front": "[sound:ji4_mo4_jiu1_chan2_cheng2.mp3]",
+          "back": "寂寞纠缠成<br><br>loneliness entangles into<br><br><i>Emotion transformation: 寂寞 + 纠缠成</i>",
+          "tags": ["emotion", "transformation", "entanglement"],
+          "audioFile": "ji4_mo4_jiu1_chan2_cheng2.mp3",
+          "chineseText": "寂寞纠缠成",
+          "translation": "loneliness entangles into"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - Love Frost v1::Level 2 - Intermediate Phrases::Listening",
+    "description": "Short phrases (3-5 characters) from 'Love Frost' - Listening focus",
+    "level": 2,
+    "type": "listening",
+    "cardFormat": "Audio → Phrase + Translation"
+  },
+  "lyricLines": [
+    {
+      "groupName": "Time and duration phrases",
+      "description": "Expressions about long periods of time",
+      "cards": [
+        {
+          "front": "[sound:wan_nian_yi_ci.mp3]",
+          "back": "万年一次<br><br>once in ten thousand years<br><br><i>Extremely rare occurrence: 万年 + 一次</i>",
+          "tags": ["time", "frequency", "rare"],
+          "audioFile": "wan_nian_yi_ci.mp3",
+          "chineseText": "万年一次",
+          "translation": "once in ten thousand years"
+        },
+        {
+          "front": "[sound:qian_nian_yi_hui.mp3]",
+          "back": "千年一回<br><br>once in a thousand years<br><br><i>Very rare event: 千年 + 一回</i>",
+          "tags": ["time", "frequency", "rare"],
+          "audioFile": "qian_nian_yi_hui.mp3",
+          "chineseText": "千年一回",
+          "translation": "once in a thousand years"
+        },
+        {
+          "front": "[sound:cong_ci_yi_hou.mp3]",
+          "back": "从此以后<br><br>from now on<br><br><i>Starting from this point: 从此 + 以后</i>",
+          "tags": ["time", "future", "transition"],
+          "audioFile": "cong_ci_yi_hou.mp3",
+          "chineseText": "从此以后",
+          "translation": "from now on"
+        }
+      ]
+    },
+    {
+      "groupName": "Natural phenomena phrases",
+      "description": "Poetic descriptions of nature",
+      "cards": [
+        {
+          "front": "[sound:yue_guang_ru_shui.mp3]",
+          "back": "月光如水<br><br>moonlight like water<br><br><i>Poetic comparison: 月光 + 如水</i>",
+          "tags": ["nature", "moonlight", "poetic"],
+          "audioFile": "yue_guang_ru_shui.mp3",
+          "chineseText": "月光如水",
+          "translation": "moonlight like water"
+        },
+        {
+          "front": "[sound:xi_yang_xi_xia.mp3]",
+          "back": "斜阳西下<br><br>setting sun goes west<br><br><i>Sunset scene: 斜阳 + 西下</i>",
+          "tags": ["nature", "sunset", "direction"],
+          "audioFile": "xi_yang_xi_xia.mp3",
+          "chineseText": "斜阳西下",
+          "translation": "setting sun goes west"
+        },
+        {
+          "front": "[sound:feng_qing_yun_dan.mp3]",
+          "back": "风轻云淡<br><br>gentle wind, light clouds<br><br><i>Peaceful weather: 风轻 + 云淡</i>",
+          "tags": ["nature", "weather", "peaceful"],
+          "audioFile": "feng_qing_yun_dan.mp3",
+          "chineseText": "风轻云淡",
+          "translation": "gentle wind, light clouds"
+        }
+      ]
+    },
+    {
+      "groupName": "Love and relationship phrases",
+      "description": "Expressions about love and meeting someone special",
+      "cards": [
+        {
+          "front": "[sound:xiang_yu_xiang_ai.mp3]",
+          "back": "相遇相爱<br><br>to meet and fall in love<br><br><i>Meeting and loving: 相遇 + 相爱</i>",
+          "tags": ["love", "meeting", "relationship"],
+          "audioFile": "xiang_yu_xiang_ai.mp3",
+          "chineseText": "相遇相爱",
+          "translation": "to meet and fall in love"
+        },
+        {
+          "front": "[sound:qing_shu_yi_feng.mp3]",
+          "back": "情书一封<br><br>one love letter<br><br><i>A single love letter: 情书 + 一封</i>",
+          "tags": ["love", "communication", "letter"],
+          "audioFile": "qing_shu_yi_feng.mp3",
+          "chineseText": "情书一封",
+          "translation": "one love letter"
+        },
+        {
+          "front": "[sound:ai_qing_gu_shi.mp3]",
+          "back": "爱情故事<br><br>love story<br><br><i>Tale of romance: 爱情 + 故事</i>",
+          "tags": ["love", "story", "narrative"],
+          "audioFile": "ai_qing_gu_shi.mp3",
+          "chineseText": "爱情故事",
+          "translation": "love story"
+        }
+      ]
+    },
+    {
+      "groupName": "Action and waiting phrases",
+      "description": "Expressions about waiting and activities",
+      "cards": [
+        {
+          "front": "[sound:jing_jing_deng_dai.mp3]",
+          "back": "静静等待<br><br>quietly waiting<br><br><i>Patient waiting: 静静 + 等待</i>",
+          "tags": ["waiting", "patience", "quiet"],
+          "audioFile": "jing_jing_deng_dai.mp3",
+          "chineseText": "静静等待",
+          "translation": "quietly waiting"
+        },
+        {
+          "front": "[sound:ge_chang_tan_zou.mp3]",
+          "back": "歌唱弹奏<br><br>singing and playing<br><br><i>Musical activities: 歌唱 + 弹奏</i>",
+          "tags": ["music", "singing", "playing"],
+          "audioFile": "ge_chang_tan_zou.mp3",
+          "chineseText": "歌唱弹奏",
+          "translation": "singing and playing"
+        },
+        {
+          "front": "[sound:yi_qi_zou_guo.mp3]",
+          "back": "一起走过<br><br>walk through together<br><br><i>Going through together: 一起 + 走过</i>",
+          "tags": ["together", "journey", "shared"],
+          "audioFile": "yi_qi_zou_guo.mp3",
+          "chineseText": "一起走过",
+          "translation": "walk through together"
+        }
+      ]
+    },
+    {
+      "groupName": "Spatial and universal phrases",
+      "description": "Expressions about places and the universe",
+      "cards": [
+        {
+          "front": "[sound:tian_di_zhi_jian.mp3]",
+          "back": "天地之间<br><br>between heaven and earth<br><br><i>In the universe: 天地 + 之间</i>",
+          "tags": ["space", "universe", "between"],
+          "audioFile": "tian_di_zhi_jian.mp3",
+          "chineseText": "天地之间",
+          "translation": "between heaven and earth"
+        },
+        {
+          "front": "[sound:zhe_ge_di_fang.mp3]",
+          "back": "这个地方<br><br>this place<br><br><i>Referring to location: 这个 + 地方</i>",
+          "tags": ["place", "location", "demonstrative"],
+          "audioFile": "zhe_ge_di_fang.mp3",
+          "chineseText": "这个地方",
+          "translation": "this place"
+        }
+      ]
+    },
+    {
+      "groupName": "Beautiful imagery phrases",
+      "description": "Poetic and beautiful expressions",
+      "cards": [
+        {
+          "front": "[sound:hong_lian_kai_fang.mp3]",
+          "back": "红莲开放<br><br>red lotus blooming<br><br><i>Flower blooming: 红莲 + 开放</i>",
+          "tags": ["flower", "beauty", "blooming"],
+          "audioFile": "hong_lian_kai_fang.mp3",
+          "chineseText": "红莲开放",
+          "translation": "red lotus blooming"
+        },
+        {
+          "front": "[sound:shi_guang_liu_zhuan.mp3]",
+          "back": "时光流转<br><br>time flowing and turning<br><br><i>Passage of time: 时光 + 流转</i>",
+          "tags": ["time", "flow", "change"],
+          "audioFile": "shi_guang_liu_zhuan.mp3",
+          "chineseText": "时光流转",
+          "translation": "time flowing and turning"
+        }
+      ]
+    }
+  ]
+}
