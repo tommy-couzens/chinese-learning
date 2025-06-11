@@ -1,0 +1,247 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - My Good Brother v1::Level 3 - Complete Lines::Listening",
+    "description": "Complete lyric lines from 'My Good Brother' - Listening focus",
+    "level": 3,
+    "type": "listening",
+    "cardFormat": "Audio → Complete Line + Pinyin + Translation"
+  },
+  "lyricLines": [
+    {
+      "groupName": "Opening verse - nostalgia and support",
+      "description": "The opening lines about memories and singing for a friend",
+      "cards": [
+        {
+          "front": "[sound:zai_ni_hui_yi_de_shi_ke.mp3]",
+          "back": "在你回憶的時刻<br><br>(zài nǐ huíyì de shíkè)<br><br>In your moments of memory<br><br><i>Opening line: 在 + 你 + 回憶的時刻</i>",
+          "tags": ["complete-line", "opening", "memory"],
+          "audioFile": "zai_ni_hui_yi_de_shi_ke.mp3",
+          "chineseText": "在你回憶的時刻",
+          "translation": "In your moments of memory"
+        },
+        {
+          "front": "[sound:rang_wo_wei_ni_chang_shou_ge.mp3]",
+          "back": "讓我為你唱首歌<br><br>(ràng wǒ wèi nǐ chàng shǒu gē)<br><br>Let me sing a song for you<br><br><i>Offering comfort: 讓我 + 為你 + 唱首歌</i>",
+          "tags": ["complete-line", "support", "music"],
+          "audioFile": "rang_wo_wei_ni_chang_shou_ge.mp3",
+          "chineseText": "讓我為你唱首歌",
+          "translation": "Let me sing a song for you"
+        },
+        {
+          "front": "[sound:wo_de_hao_xiong_di.mp3]",
+          "back": "我的好兄弟<br><br>(wǒ de hǎo xiōngdì)<br><br>My good brother<br><br><i>Title phrase and term of endearment</i>",
+          "tags": ["complete-line", "title", "relationship"],
+          "audioFile": "wo_de_hao_xiong_di.mp3",
+          "chineseText": "我的好兄弟",
+          "translation": "My good brother"
+        },
+        {
+          "front": "[sound:xin_li_you_ku_ni_dui_wo_shuo.mp3]",
+          "back": "心裡有苦你對我說<br><br>(xīnlǐ yǒu kǔ nǐ duì wǒ shuō)<br><br>If you have suffering in your heart, tell me<br><br><i>Invitation to share: 心裡有苦 + 你對我說</i>",
+          "tags": ["complete-line", "communication", "support"],
+          "audioFile": "xin_li_you_ku_ni_dui_wo_shuo.mp3",
+          "chineseText": "心裡有苦你對我說",
+          "translation": "If you have suffering in your heart, tell me"
+        }
+      ]
+    },
+    {
+      "groupName": "Journey together",
+      "description": "Lines about walking the path of life together",
+      "cards": [
+        {
+          "front": "[sound:qian_fang_da_lu.mp3]",
+          "back": "前方大路<br><br>(qiánfāng dàlù)<br><br>The road ahead<br><br><i>Bridge phrase: Part of '前方大路一起走'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "journey"],
+          "audioFile": "qian_fang_da_lu.mp3",
+          "chineseText": "前方大路",
+          "translation": "The road ahead"
+        },
+        {
+          "front": "[sound:qian_fang_da_lu_yi_qi_zou.mp3]",
+          "back": "前方大路一起走<br><br>(qiánfāng dàlù yīqǐ zǒu)<br><br>Walk the road ahead together<br><br><i>Journey commitment: 前方大路 + 一起走</i>",
+          "tags": ["complete-line", "journey", "together"],
+          "audioFile": "qian_fang_da_lu_yi_qi_zou.mp3",
+          "chineseText": "前方大路一起走",
+          "translation": "Walk the road ahead together"
+        },
+        {
+          "front": "[sound:na_pa_shi_he.mp3]",
+          "back": "哪怕是河<br><br>(nǎpà shì hé)<br><br>Even if it's a river<br><br><i>Bridge phrase: Part of '哪怕是河也一起過'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "obstacle"],
+          "audioFile": "na_pa_shi_he.mp3",
+          "chineseText": "哪怕是河",
+          "translation": "Even if it's a river"
+        },
+        {
+          "front": "[sound:ye_yi_qi_guo.mp3]",
+          "back": "也一起過<br><br>(yě yīqǐ guò)<br><br>we'll cross it together<br><br><i>Bridge phrase: Part of '哪怕是河也一起過'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "determination"],
+          "audioFile": "ye_yi_qi_guo.mp3",
+          "chineseText": "也一起過",
+          "translation": "we'll cross it together"
+        },
+        {
+          "front": "[sound:na_pa_shi_he_ye_yi_qi_guo.mp3]",
+          "back": "哪怕是河也一起過<br><br>(nǎpà shì hé yě yīqǐ guò)<br><br>Even if it's a river, we'll cross it together<br><br><i>Determination: 哪怕是河 + 也一起過</i>",
+          "tags": ["complete-line", "determination", "together"],
+          "audioFile": "na_pa_shi_he_ye_yi_qi_guo.mp3",
+          "chineseText": "哪怕是河也一起過",
+          "translation": "Even if it's a river, we'll cross it together"
+        },
+        {
+          "front": "[sound:ku_dian_lei_dian_you_neng_suan_shen_me.mp3]",
+          "back": "苦點淚點有能算什麼<br><br>(kǔ diǎn lèi diǎn yǒu néng suàn shénme)<br><br>A little suffering and tears - what does it matter?<br><br><i>Dismissing hardship: 苦點淚點 + 有能算什麼</i>",
+          "tags": ["complete-line", "strength", "dismissal"],
+          "audioFile": "ku_dian_lei_dian_you_neng_suan_shen_me.mp3",
+          "chineseText": "苦點淚點有能算什麼",
+          "translation": "A little suffering and tears - what does it matter?"
+        }
+      ]
+    },
+    {
+      "groupName": "Support in times of need",
+      "description": "Promises of support and companionship",
+      "cards": [
+        {
+          "front": "[sound:zai_ni_xu_yao_wo.mp3]",
+          "back": "在你需要我<br><br>(zài nǐ xūyào wǒ)<br><br>When you need me<br><br><i>Bridge phrase: Part of '在你需要我的時候'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "need"],
+          "audioFile": "zai_ni_xu_yao_wo.mp3",
+          "chineseText": "在你需要我",
+          "translation": "When you need me"
+        },
+        {
+          "front": "[sound:de_shi_hou.mp3]",
+          "back": "的時候<br><br>(de shíhou)<br><br>at the time<br><br><i>Bridge phrase: Part of '在你需要我的時候'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "time"],
+          "audioFile": "de_shi_hou.mp3",
+          "chineseText": "的時候",
+          "translation": "at the time"
+        },
+        {
+          "front": "[sound:zai_ni_xu_yao_wo_de_shi_hou.mp3]",
+          "back": "在你需要我的時候<br><br>(zài nǐ xūyào wǒ de shíhou)<br><br>When you need me<br><br><i>Time of need: 在你需要我 + 的時候</i>",
+          "tags": ["complete-line", "need", "time"],
+          "audioFile": "zai_ni_xu_yao_wo_de_shi_hou.mp3",
+          "chineseText": "在你需要我的時候",
+          "translation": "When you need me"
+        },
+        {
+          "front": "[sound:wo_lai_pei_ni.mp3]",
+          "back": "我來陪你<br><br>(wǒ lái péi nǐ)<br><br>I'll come to accompany you<br><br><i>Bridge phrase: Part of '我來陪你一起度過'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "support"],
+          "audioFile": "wo_lai_pei_ni.mp3",
+          "chineseText": "我來陪你",
+          "translation": "I'll come to accompany you"
+        },
+        {
+          "front": "[sound:wo_lai_pei_ni_yi_qi_du_guo.mp3]",
+          "back": "我來陪你一起度過<br><br>(wǒ lái péi nǐ yīqǐ dùguò)<br><br>I'll come to accompany you through it<br><br><i>Promise of support: 我來陪你 + 一起度過</i>",
+          "tags": ["complete-line", "support", "together"],
+          "audioFile": "wo_lai_pei_ni_yi_qi_du_guo.mp3",
+          "chineseText": "我來陪你一起度過",
+          "translation": "I'll come to accompany you through it"
+        }
+      ]
+    },
+    {
+      "groupName": "Life philosophy",
+      "description": "Lines about life's ups and downs and staying strong",
+      "cards": [
+        {
+          "front": "[sound:ren_sheng_nan_de.mp3]",
+          "back": "人生難得<br><br>(rénshēng nándé)<br><br>Life is rarely<br><br><i>Bridge phrase: Part of '人生難得起起落落'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "life"],
+          "audioFile": "ren_sheng_nan_de.mp3",
+          "chineseText": "人生難得",
+          "translation": "Life is rarely"
+        },
+        {
+          "front": "[sound:qi_qi_luo_luo.mp3]",
+          "back": "起起落落<br><br>(qǐqǐ luòluò)<br><br>ups and downs<br><br><i>Bridge phrase: Part of '人生難得起起落落'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "fluctuation"],
+          "audioFile": "qi_qi_luo_luo.mp3",
+          "chineseText": "起起落落",
+          "translation": "ups and downs"
+        },
+        {
+          "front": "[sound:ren_sheng_nan_de_qi_qi_luo_luo.mp3]",
+          "back": "人生難得起起落落<br><br>(rénshēng nándé qǐqǐ luòluò)<br><br>Life rarely avoids ups and downs<br><br><i>Life reality: 人生難得 + 起起落落</i>",
+          "tags": ["complete-line", "philosophy", "life"],
+          "audioFile": "ren_sheng_nan_de_qi_qi_luo_luo.mp3",
+          "chineseText": "人生難得起起落落",
+          "translation": "Life rarely avoids ups and downs"
+        },
+        {
+          "front": "[sound:hai_shi_yao_jian_qiang_de_sheng_huo.mp3]",
+          "back": "還是要堅強的生活<br><br>(háishì yào jiānqiáng de shēnghuó)<br><br>We still need to live with strength<br><br><i>Perseverance: 還是要 + 堅強的生活</i>",
+          "tags": ["complete-line", "strength", "perseverance"],
+          "audioFile": "hai_shi_yao_jian_qiang_de_sheng_huo.mp3",
+          "chineseText": "還是要堅強的生活",
+          "translation": "We still need to live with strength"
+        }
+      ]
+    },
+    {
+      "groupName": "Friendship bonds",
+      "description": "Lines about the deep bonds of friendship",
+      "cards": [
+        {
+          "front": "[sound:peng_you_de_qing_yi_ya_guo_tian.mp3]",
+          "back": "朋友的情義壓過天<br><br>(péngyǒu de qíngyì yā guò tiān)<br><br>Friendship's loyalty weighs more than heaven<br><br><i>Bridge phrase: Part of longer line about friendship</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "friendship"],
+          "audioFile": "peng_you_de_qing_yi_ya_guo_tian.mp3",
+          "chineseText": "朋友的情義壓過天",
+          "translation": "Friendship's loyalty weighs more than heaven"
+        },
+        {
+          "front": "[sound:hai_gao_guo_de_hai.mp3]",
+          "back": "還高過的海<br><br>(hái gāo guò de hǎi)<br><br>and higher than the sea<br><br><i>Bridge phrase: Continuation of friendship comparison</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "comparison"],
+          "audioFile": "hai_gao_guo_de_hai.mp3",
+          "chineseText": "還高過的海",
+          "translation": "and higher than the sea"
+        },
+        {
+          "front": "[sound:na_xie_sui_yue.mp3]",
+          "back": "那些歲月<br><br>(nàxiē suìyuè)<br><br>Those years<br><br><i>Bridge phrase: Part of '那些歲月我們一定會記得'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "time"],
+          "audioFile": "na_xie_sui_yue.mp3",
+          "chineseText": "那些歲月",
+          "translation": "Those years"
+        },
+        {
+          "front": "[sound:wo_men_yi_ding_hui_ji_de.mp3]",
+          "back": "我們一定會記得<br><br>(wǒmen yīdìng huì jìde)<br><br>we will definitely remember<br><br><i>Bridge phrase: Part of '那些歲月我們一定會記得'</i>",
+          "tags": ["phrase-segment", "bridge-phrase", "memory"],
+          "audioFile": "wo_men_yi_ding_hui_ji_de.mp3",
+          "chineseText": "我們一定會記得",
+          "translation": "we will definitely remember"
+        },
+        {
+          "front": "[sound:na_xie_sui_yue_wo_men_yi_ding_hui_ji_de.mp3]",
+          "back": "那些歲月我們一定會記得<br><br>(nàxiē suìyuè wǒmen yīdìng huì jìde)<br><br>We will definitely remember those years<br><br><i>Memory promise: 那些歲月 + 我們一定會記得</i>",
+          "tags": ["complete-line", "memory", "promise"],
+          "audioFile": "na_xie_sui_yue_wo_men_yi_ding_hui_ji_de.mp3",
+          "chineseText": "那些歲月我們一定會記得",
+          "translation": "We will definitely remember those years"
+        }
+      ]
+    },
+    {
+      "groupName": "Metaphorical expressions",
+      "description": "Poetic comparisons of friendship to wine and old songs",
+      "cards": [
+        {
+          "front": "[sound:xiang_yi_bei_jiu_xiang_yi_shou_lao_ge.mp3]",
+          "back": "像一杯酒像一首老歌<br><br>(xiàng yī bēi jiǔ xiàng yī shǒu lǎo gē)<br><br>Like a glass of wine, like an old song<br><br><i>Double metaphor: 像一杯酒 + 像一首老歌</i>",
+          "tags": ["complete-line", "metaphor", "nostalgia"],
+          "audioFile": "xiang_yi_bei_jiu_xiang_yi_shou_lao_ge.mp3",
+          "chineseText": "像一杯酒像一首老歌",
+          "translation": "Like a glass of wine, like an old song"
+        }
+      ]
+    }
+  ]
+}

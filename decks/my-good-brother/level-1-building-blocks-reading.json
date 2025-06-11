@@ -1,0 +1,221 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - My Good Brother v1::Level 1 - Building Blocks::Reading",
+    "description": "Basic vocabulary (1-2 characters) from 'My Good Brother' - Reading focus",
+    "level": 1,
+    "type": "reading",
+    "cardFormat": "Character/Word → Pinyin + Audio + Translation"
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Personal pronouns and relationships",
+      "description": "Basic pronouns and relationship words",
+      "cards": [
+        {
+          "front": "兄弟",
+          "back": "[sound:xiong_di.mp3]<br><br>(xiōngdì)<br><br>brother<br><br><i>Male sibling or close friend</i>",
+          "tags": ["relationship", "family"],
+          "audioFile": "xiong_di.mp3",
+          "chineseText": "兄弟",
+          "translation": "brother"
+        }
+      ]
+    },
+    {
+      "groupName": "Time and moments",
+      "description": "Words related to time and specific moments",
+      "cards": [
+        {
+          "front": "時候",
+          "back": "[sound:shi2_hou.mp3]<br><br>(shíhou)<br><br>time, moment<br><br><i>Specific time or moment</i>",
+          "tags": ["time", "moment"],
+          "audioFile": "shi2_hou.mp3",
+          "chineseText": "時候",
+          "translation": "time, moment"
+        },
+        {
+          "front": "人生",
+          "back": "[sound:ren2_sheng.mp3]<br><br>(rénshēng)<br><br>life<br><br><i>Human life, lifetime</i>",
+          "tags": ["life", "abstract"],
+          "audioFile": "ren2_sheng.mp3",
+          "chineseText": "人生",
+          "translation": "life"
+        },
+        {
+          "front": "一起",
+          "back": "[sound:yi1_qi3.mp3]<br><br>(yīqǐ)<br><br>together<br><br><i>Doing something together</i>",
+          "tags": ["together", "action"],
+          "audioFile": "yi1_qi3.mp3",
+          "chineseText": "一起",
+          "translation": "together"
+        }
+      ]
+    },
+    {
+      "groupName": "Actions and verbs",
+      "description": "Basic action words from the song",
+      "cards": [
+        {
+          "front": "唱",
+          "back": "[sound:chang4.mp3]<br><br>(chàng)<br><br>sing<br><br><i>To sing a song</i>",
+          "tags": ["action", "music"],
+          "audioFile": "chang4.mp3",
+          "chineseText": "唱",
+          "translation": "sing"
+        },
+        {
+          "front": "走",
+          "back": "[sound:zou3.mp3]<br><br>(zǒu)<br><br>walk, go<br><br><i>To walk or go somewhere</i>",
+          "tags": ["action", "movement"],
+          "audioFile": "zou3.mp3",
+          "chineseText": "走",
+          "translation": "walk, go"
+        },
+        {
+          "front": "過",
+          "back": "[sound:guo4.mp3]<br><br>(guò)<br><br>pass, cross<br><br><i>To pass through or cross</i>",
+          "tags": ["action", "movement"],
+          "audioFile": "guo4.mp3",
+          "chineseText": "過",
+          "translation": "pass, cross"
+        },
+        {
+          "front": "來",
+          "back": "[sound:lai2.mp3]<br><br>(lái)<br><br>come<br><br><i>To come or arrive</i>",
+          "tags": ["action", "movement"],
+          "audioFile": "lai2.mp3",
+          "chineseText": "來",
+          "translation": "come"
+        },
+        {
+          "front": "度過",
+          "back": "[sound:du4_guo4.mp3]<br><br>(dùguò)<br><br>pass through, get through<br><br><i>To get through difficult times</i>",
+          "tags": ["action", "endure"],
+          "audioFile": "du4_guo4.mp3",
+          "chineseText": "度過",
+          "translation": "pass through, get through"
+        },
+        {
+          "front": "陪",
+          "back": "[sound:pei2.mp3]<br><br>(péi)<br><br>accompany<br><br><i>To be with someone</i>",
+          "tags": ["action", "support"],
+          "audioFile": "pei2.mp3",
+          "chineseText": "陪",
+          "translation": "accompany"
+        }
+      ]
+    },
+    {
+      "groupName": "Emotions and feelings",
+      "description": "Words expressing emotions and feelings",
+      "cards": [
+        {
+          "front": "苦",
+          "back": "[sound:ku3.mp3]<br><br>(kǔ)<br><br>bitter, suffering<br><br><i>Pain or hardship</i>",
+          "tags": ["emotion", "negative"],
+          "audioFile": "ku3.mp3",
+          "chineseText": "苦",
+          "translation": "bitter, suffering"
+        },
+        {
+          "front": "心裡",
+          "back": "[sound:xin1_li3.mp3]<br><br>(xīnlǐ)<br><br>in the heart<br><br><i>In one's heart or mind</i>",
+          "tags": ["emotion", "location"],
+          "audioFile": "xin1_li3.mp3",
+          "chineseText": "心裡",
+          "translation": "in the heart"
+        },
+        {
+          "front": "淚",
+          "back": "[sound:lei4.mp3]<br><br>(lèi)<br><br>tears<br><br><i>Tears from crying</i>",
+          "tags": ["emotion", "sadness"],
+          "audioFile": "lei4.mp3",
+          "chineseText": "淚",
+          "translation": "tears"
+        },
+        {
+          "front": "情義",
+          "back": "[sound:qing2_yi4.mp3]<br><br>(qíngyì)<br><br>friendship, loyalty<br><br><i>Deep friendship and loyalty</i>",
+          "tags": ["emotion", "friendship"],
+          "audioFile": "qing2_yi4.mp3",
+          "chineseText": "情義",
+          "translation": "friendship, loyalty"
+        }
+      ]
+    },
+    {
+      "groupName": "Objects and concepts",
+      "description": "Concrete objects and abstract concepts",
+      "cards": [
+        {
+          "front": "歌",
+          "back": "[sound:ge1.mp3]<br><br>(gē)<br><br>song<br><br><i>A musical song</i>",
+          "tags": ["object", "music"],
+          "audioFile": "ge1.mp3",
+          "chineseText": "歌",
+          "translation": "song"
+        },
+        {
+          "front": "河",
+          "back": "[sound:he2.mp3]<br><br>(hé)<br><br>river<br><br><i>A flowing body of water</i>",
+          "tags": ["object", "nature"],
+          "audioFile": "he2.mp3",
+          "chineseText": "河",
+          "translation": "river"
+        },
+        {
+          "front": "酒",
+          "back": "[sound:jiu3.mp3]<br><br>(jiǔ)<br><br>wine, alcohol<br><br><i>Alcoholic drink</i>",
+          "tags": ["object", "drink"],
+          "audioFile": "jiu3.mp3",
+          "chineseText": "酒",
+          "translation": "wine, alcohol"
+        },
+        {
+          "front": "海",
+          "back": "[sound:hai3.mp3]<br><br>(hǎi)<br><br>sea, ocean<br><br><i>Large body of water</i>",
+          "tags": ["object", "nature"],
+          "audioFile": "hai3.mp3",
+          "chineseText": "海",
+          "translation": "sea, ocean"
+        }
+      ]
+    },
+    {
+      "groupName": "Quantities and modifiers",
+      "description": "Numbers, quantities and descriptive words",
+      "cards": [
+        {
+          "front": "首",
+          "back": "[sound:shou3.mp3]<br><br>(shǒu)<br><br>measure word for songs<br><br><i>Classifier for songs and poems</i>",
+          "tags": ["measure", "music"],
+          "audioFile": "shou3.mp3",
+          "chineseText": "首",
+          "translation": "measure word for songs"
+        },
+        {
+          "front": "點",
+          "back": "[sound:dian3.mp3]<br><br>(diǎn)<br><br>a little, point<br><br><i>A small amount</i>",
+          "tags": ["quantity", "modifier"],
+          "audioFile": "dian3.mp3",
+          "chineseText": "點",
+          "translation": "a little, point"
+        }
+      ]
+    },
+    {
+      "groupName": "Direction and location",
+      "description": "Words indicating direction and place",
+      "cards": [
+        {
+          "front": "前方",
+          "back": "[sound:qian2_fang.mp3]<br><br>(qiánfāng)<br><br>ahead, in front<br><br><i>The direction ahead</i>",
+          "tags": ["direction", "location"],
+          "audioFile": "qian2_fang.mp3",
+          "chineseText": "前方",
+          "translation": "ahead, in front"
+        }
+      ]
+    }
+  ]
+}

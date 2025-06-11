@@ -1,0 +1,183 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - My Good Brother v1::Level 2 - Intermediate Phrases::Reading",
+    "description": "Short phrases (3-5 characters) from 'My Good Brother' - Reading focus",
+    "level": 2,
+    "type": "reading",
+    "cardFormat": "Phrase → Pinyin + Audio + Translation"
+  },
+  "lyricLines": [
+    {
+      "groupName": "Core relationship phrases",
+      "description": "Key phrases about brotherhood and friendship",
+      "cards": [
+        {
+          "front": "我的好兄弟",
+          "back": "[sound:wo_de_hao_xiong_di.mp3]<br><br>(wǒ de hǎo xiōngdì)<br><br>my good brother<br><br><i>The main title phrase combining: 我的 + 好 + 兄弟</i>",
+          "tags": ["title-phrase", "relationship", "core"],
+          "audioFile": "wo_de_hao_xiong_di.mp3",
+          "chineseText": "我的好兄弟",
+          "translation": "my good brother"
+        },
+        {
+          "front": "朋友的情義",
+          "back": "[sound:peng_you_de_qing_yi.mp3]<br><br>(péngyǒu de qíngyì)<br><br>friendship's loyalty<br><br><i>Deep bond between friends: 朋友 + 的 + 情義</i>",
+          "tags": ["friendship", "emotion", "bond"],
+          "audioFile": "peng_you_de_qing_yi.mp3",
+          "chineseText": "朋友的情義",
+          "translation": "friendship's loyalty"
+        }
+      ]
+    },
+    {
+      "groupName": "Communication phrases",
+      "description": "Phrases about talking and sharing feelings",
+      "cards": [
+        {
+          "front": "對我說",
+          "back": "[sound:dui_wo_shuo.mp3]<br><br>(duì wǒ shuō)<br><br>tell me<br><br><i>Speaking to me: 對 + 我 + 說</i>",
+          "tags": ["communication", "direction"],
+          "audioFile": "dui_wo_shuo.mp3",
+          "chineseText": "對我說",
+          "translation": "tell me"
+        },
+        {
+          "front": "心裡有苦",
+          "back": "[sound:xin_li_you_ku.mp3]<br><br>(xīnlǐ yǒu kǔ)<br><br>have suffering in your heart<br><br><i>Internal pain: 心裡 + 有 + 苦</i>",
+          "tags": ["emotion", "internal", "suffering"],
+          "audioFile": "xin_li_you_ku.mp3",
+          "chineseText": "心裡有苦",
+          "translation": "have suffering in your heart"
+        },
+        {
+          "front": "唱首歌",
+          "back": "[sound:chang_shou_ge.mp3]<br><br>(chàng shǒu gē)<br><br>sing a song<br><br><i>Musical action: 唱 + 首 + 歌</i>",
+          "tags": ["music", "action"],
+          "audioFile": "chang_shou_ge.mp3",
+          "chineseText": "唱首歌",
+          "translation": "sing a song"
+        }
+      ]
+    },
+    {
+      "groupName": "Action and movement phrases",
+      "description": "Phrases about going together and supporting each other",
+      "cards": [
+        {
+          "front": "一起走",
+          "back": "[sound:yi_qi_zou.mp3]<br><br>(yīqǐ zǒu)<br><br>go together<br><br><i>Moving together: 一起 + 走</i>",
+          "tags": ["together", "movement", "support"],
+          "audioFile": "yi_qi_zou.mp3",
+          "chineseText": "一起走",
+          "translation": "go together"
+        },
+        {
+          "front": "一起過",
+          "back": "[sound:yi_qi_guo.mp3]<br><br>(yīqǐ guò)<br><br>cross together<br><br><i>Going through together: 一起 + 過</i>",
+          "tags": ["together", "crossing", "support"],
+          "audioFile": "yi_qi_guo.mp3",
+          "chineseText": "一起過",
+          "translation": "cross together"
+        },
+        {
+          "front": "一起度過",
+          "back": "[sound:yi_qi_du_guo.mp3]<br><br>(yīqǐ dùguò)<br><br>get through together<br><br><i>Enduring together: 一起 + 度過</i>",
+          "tags": ["together", "endure", "support"],
+          "audioFile": "yi_qi_du_guo.mp3",
+          "chineseText": "一起度過",
+          "translation": "get through together"
+        },
+        {
+          "front": "陪你",
+          "back": "[sound:pei_ni.mp3]<br><br>(péi nǐ)<br><br>accompany you<br><br><i>Being with you: 陪 + 你</i>",
+          "tags": ["support", "companionship"],
+          "audioFile": "pei_ni.mp3",
+          "chineseText": "陪你",
+          "translation": "accompany you"
+        }
+      ]
+    },
+    {
+      "groupName": "Time and life phrases",
+      "description": "Phrases about life moments and experiences",
+      "cards": [
+        {
+          "front": "需要我",
+          "back": "[sound:xu_yao_wo.mp3]<br><br>(xūyào wǒ)<br><br>need me<br><br><i>Requiring help: 需要 + 我</i>",
+          "tags": ["need", "help", "support"],
+          "audioFile": "xu_yao_wo.mp3",
+          "chineseText": "需要我",
+          "translation": "need me"
+        },
+        {
+          "front": "回憶的時刻",
+          "back": "[sound:hui_yi_de_shi_hou.mp3]<br><br>(huíyì de shíkè)<br><br>moments of memory<br><br><i>Remembering times: 回憶 + 的 + 時刻</i>",
+          "tags": ["memory", "time", "nostalgic"],
+          "audioFile": "hui_yi_de_shi_hou.mp3",
+          "chineseText": "回憶的時刻",
+          "translation": "moments of memory"
+        },
+        {
+          "front": "堅強的生活",
+          "back": "[sound:jian_qiang_de_sheng_huo.mp3]<br><br>(jiānqiáng de shēnghuó)<br><br>strong living<br><br><i>Living with strength: 堅強 + 的 + 生活</i>",
+          "tags": ["strength", "life", "perseverance"],
+          "audioFile": "jian_qiang_de_sheng_huo.mp3",
+          "chineseText": "堅強的生活",
+          "translation": "strong living"
+        }
+      ]
+    },
+    {
+      "groupName": "Emotional expressions",
+      "description": "Phrases expressing feelings and pain",
+      "cards": [
+        {
+          "front": "苦點淚點",
+          "back": "[sound:ku_dian_lei_dian.mp3]<br><br>(kǔ diǎn lèi diǎn)<br><br>a little suffering, a little tears<br><br><i>Small amounts of pain: 苦 + 點 + 淚 + 點</i>",
+          "tags": ["emotion", "suffering", "tears"],
+          "audioFile": "ku_dian_lei_dian.mp3",
+          "chineseText": "苦點淚點",
+          "translation": "a little suffering, a little tears"
+        },
+        {
+          "front": "有能算什麼",
+          "back": "[sound:you_neng_suan_shen_me.mp3]<br><br>(yǒu néng suàn shénme)<br><br>what does it matter<br><br><i>Dismissing importance: 有能 + 算 + 什麼</i>",
+          "tags": ["dismissal", "rhetorical", "strength"],
+          "audioFile": "you_neng_suan_shen_me.mp3",
+          "chineseText": "有能算什麼",
+          "translation": "what does it matter"
+        }
+      ]
+    },
+    {
+      "groupName": "Metaphorical phrases",
+      "description": "Poetic comparisons and imagery",
+      "cards": [
+        {
+          "front": "像一杯酒",
+          "back": "[sound:xiang_yi_bei_jiu.mp3]<br><br>(xiàng yī bēi jiǔ)<br><br>like a glass of wine<br><br><i>Comparison: 像 + 一杯 + 酒</i>",
+          "tags": ["metaphor", "drink", "comparison"],
+          "audioFile": "xiang_yi_bei_jiu.mp3",
+          "chineseText": "像一杯酒",
+          "translation": "like a glass of wine"
+        },
+        {
+          "front": "像一首老歌",
+          "back": "[sound:xiang_yi_shou_lao_ge.mp3]<br><br>(xiàng yī shǒu lǎo gē)<br><br>like an old song<br><br><i>Comparison: 像 + 一首 + 老 + 歌</i>",
+          "tags": ["metaphor", "music", "nostalgia"],
+          "audioFile": "xiang_yi_shou_lao_ge.mp3",
+          "chineseText": "像一首老歌",
+          "translation": "like an old song"
+        },
+        {
+          "front": "高過海",
+          "back": "[sound:gao_guo_hai.mp3]<br><br>(gāo guò hǎi)<br><br>higher than the sea<br><br><i>Hyperbolic comparison: 高過 + 海</i>",
+          "tags": ["metaphor", "height", "hyperbole"],
+          "audioFile": "gao_guo_hai.mp3",
+          "chineseText": "高過海",
+          "translation": "higher than the sea"
+        }
+      ]
+    }
+  ]
+}

@@ -105,7 +105,7 @@ function New-AnkiDeck {
     foreach ($lessonFile in $LessonFiles) {
         $lessonPath = Join-Path $songPath $lessonFile
         if (Test-Path $lessonPath) {
-            $cards = ConvertFrom-LessonFile -LessonFilePath $lessonPath -AudioDir $localAudioDir -SkipExisting:$SkipExisting
+            $cards = ConvertFrom-LessonFile -LessonFilePath $lessonPath -AudioDir $localAudioDir -SongName $SongName -SkipExisting:$SkipExisting
             $allCards += $cards
         } else {
             Write-Warning "Lesson file not found: $lessonPath"

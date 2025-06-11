@@ -12,8 +12,10 @@
     Directory where audio files are stored
 .PARAMETER SkipExisting
     Whether to skip existing audio files during processing
+.PARAMETER SongName
+    Name of the song for tagging purposes
 .EXAMPLE
-    $cards = ConvertFrom-LessonFile -LessonFilePath "level-1.json" -AudioDir "./audio"
+    $cards = ConvertFrom-LessonFile -LessonFilePath "level-1.json" -AudioDir "./audio" -SongName "my-good-brother"
 #>
 function ConvertFrom-LessonFile {
     [CmdletBinding()]
@@ -24,6 +26,9 @@ function ConvertFrom-LessonFile {
         
         [Parameter(Mandatory = $true)]
         [string]$AudioDir,
+        
+        [Parameter(Mandatory = $true)]
+        [string]$SongName,
         
         [switch]$SkipExisting = $true
     )
@@ -61,7 +66,7 @@ function ConvertFrom-LessonFile {
                             Front = $card.front
                             Back = $card.back
                         }
-                        tags = @("electronic-girl", "level-$($lessonData.deckInfo.level)", $lessonData.deckInfo.type) + $card.tags
+                        tags = @($SongName, "level-$($lessonData.deckInfo.level)", $lessonData.deckInfo.type) + $card.tags
                     }
                     
                     $allCards += $ankiCard
@@ -87,7 +92,7 @@ function ConvertFrom-LessonFile {
                             Front = $card.front
                             Back = $card.back
                         }
-                        tags = @("electronic-girl", "level-$($lessonData.deckInfo.level)", $lessonData.deckInfo.type) + $card.tags
+                        tags = @($SongName, "level-$($lessonData.deckInfo.level)", $lessonData.deckInfo.type) + $card.tags
                     }
                     
                     $allCards += $ankiCard
