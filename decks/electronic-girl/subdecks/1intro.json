@@ -1,7 +1,7 @@
 {
   "$schema": "../../../AnkiDeckFromSongs/schemas/lesson-schema.json",
   "deckInfo": {
-    "name": "Chinese -  Electronic Girl v4::01 Intro",
+    "name": "Chinese -  Electronic Girl::01 Intro",
     "description": "Covers Level 1 (characters & small words), Level 2 (phrases), and Level 3 (full lines) for the Intro/Verse 1 of Electronic Girl.",
     "level": "IntroVerse1",
     "type": "mixed",
@@ -17,7 +17,7 @@
           "pinyin": "hū",
           "chineseText": "忽",
           "englishText": "suddenly, abruptly",
-          "explanation": "From '忽近忽远'. Key character in 忽X忽Y patterns."
+          "explanation": ""
         }
       ]
     },
@@ -30,21 +30,21 @@
           "pinyin": "jìn",
           "chineseText": "近",
           "englishText": "near, close",
-          "explanation": "Component of 忽近忽远."
+          "explanation": ""
         },
         {
           "name": "yuan3",
           "pinyin": "yuǎn",
           "chineseText": "远",
           "englishText": "far, distant",
-          "explanation": "Component of 忽近忽远."
+          "explanation": ""
         },
         {
           "name": "hu_jin_hu_yuan",
           "pinyin": "hū jìn hū yuǎn",
           "chineseText": "忽近忽远",
           "englishText": "suddenly near, suddenly far",
-          "explanation": "Lyric line. Pattern: 忽X忽Y."
+          "explanation": "忽 (hū) - suddenly + 近 (jìn) - near + 忽 (hū) - suddenly + 远 (yuǎn) - far = suddenly near, suddenly far."
         }
       ]
     },
@@ -57,21 +57,21 @@
           "pinyin": "yǐn",
           "chineseText": "隐",
           "englishText": "hidden, concealed",
-          "explanation": "Component of 忽隐忽现."
+          "explanation": ""
         },
         {
           "name": "xian4",
           "pinyin": "xiàn",
           "chineseText": "现",
           "englishText": "appear, present",
-          "explanation": "Component of 忽隐忽现."
+          "explanation": ""
         },
         {
           "name": "hu_yin_hu_xian",
           "pinyin": "hū yǐn hū xiàn",
           "chineseText": "忽隐忽现",
           "englishText": "suddenly hidden, suddenly appearing",
-          "explanation": "Lyric line. Pattern: 忽X忽Y."
+          "explanation": "忽 (hū) - suddenly + 隐 (yǐn) - hidden + 忽 (hū) - suddenly + 现 (xiàn) - appear = suddenly hidden, suddenly appearing."
         }
       ]
     },
@@ -84,21 +84,21 @@
           "pinyin": "míng",
           "chineseText": "明",
           "englishText": "bright, clear",
-          "explanation": "Component of 忽明忽暗."
+          "explanation": ""
         },
         {
           "name": "an4",
           "pinyin": "àn",
           "chineseText": "暗",
           "englishText": "dark, dim",
-          "explanation": "Component of 忽明忽暗."
+          "explanation": ""
         },
         {
           "name": "hu_ming_hu_an",
           "pinyin": "hū míng hū àn",
           "chineseText": "忽明忽暗",
           "englishText": "suddenly bright, suddenly dark",
-          "explanation": "Lyric line. Pattern: 忽X忽Y."
+          "explanation": "忽 (hū) - suddenly + 明 (míng) - bright + 忽 (hū) - suddenly + 暗 (àn) - dark = suddenly bright, suddenly dark."
         }
       ]
     },
@@ -111,21 +111,21 @@
           "pinyin": "kuài",
           "chineseText": "快",
           "englishText": "fast, quick",
-          "explanation": "Component of 忽快忽慢."
+          "explanation": ""
         },
         {
           "name": "man4",
           "pinyin": "màn",
           "chineseText": "慢",
           "englishText": "slow",
-          "explanation": "Component of 忽快忽慢."
+          "explanation": ""
         },
         {
           "name": "hu_kuai_hu_man",
           "pinyin": "hū kuài hū màn",
           "chineseText": "忽快忽慢",
           "englishText": "suddenly fast, suddenly slow",
-          "explanation": "Lyric line. Pattern: 忽X忽Y."
+          "explanation": "忽 (hū) - suddenly + 快 (kuài) - fast + 忽 (hū) - suddenly + 慢 (màn) - slow = suddenly fast, suddenly slow."
         }
       ]
     },
@@ -138,28 +138,28 @@
           "pinyin": "hū jìn hū yuǎn",
           "chineseText": "忽近忽远",
           "englishText": "suddenly near, suddenly far",
-          "explanation": "Full phrase from Intro/Verse 1 for recognition."
+          "explanation": "忽 (hū) - suddenly + 近 (jìn) - near + 忽 (hū) - suddenly + 远 (yuǎn) - far. The pattern '忽X忽Y' describes rapid alternation between X and Y."
         },
         {
           "name": "hu_yin_hu_xian",
           "pinyin": "hū yǐn hū xiàn",
           "chineseText": "忽隐忽现",
           "englishText": "suddenly hidden, suddenly appearing",
-          "explanation": "Full phrase from Intro/Verse 1 for recognition."
+          "explanation": "忽 (hū) - suddenly + 隐 (yǐn) - hidden + 忽 (hū) - suddenly + 现 (xiàn) - appear. The pattern '忽X忽Y' describes rapid alternation between X and Y."
         },
         {
           "name": "hu_ming_hu_an",
           "pinyin": "hū míng hū àn",
           "chineseText": "忽明忽暗",
           "englishText": "suddenly bright, suddenly dark",
-          "explanation": "Full phrase from Intro/Verse 1 for recognition."
+          "explanation": "忽 (hū) - suddenly + 明 (míng) - bright + 忽 (hū) - suddenly + 暗 (àn) - dark. The pattern '忽X忽Y' describes rapid alternation between X and Y."
         },
         {
           "name": "hu_kuai_hu_man",
           "pinyin": "hū kuài hū màn",
           "chineseText": "忽快忽慢",
           "englishText": "suddenly fast, suddenly slow",
-          "explanation": "Full phrase from Intro/Verse 1 for recognition."
+          "explanation": "忽 (hū) - suddenly + 快 (kuài) - fast + 忽 (hū) - suddenly + 慢 (màn) - slow. The pattern '忽X忽Y' describes rapid alternation between X and Y."
         }
       ]
     }

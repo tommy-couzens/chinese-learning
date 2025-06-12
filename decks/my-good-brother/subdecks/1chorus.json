@@ -1,14 +1,13 @@
 {
   "$schema": "../../../AnkiDeckFromSongs/schemas/lesson-schema.json",
   "deckInfo": {
-    "name": "Chinese Learning - My Good Brother",
+    "name": "Chinese Learning - My Good Brother::01 Chorus",
     "description": "Covers Level 1 (characters & small words) and Level 2 (phrases) for the Chorus of My Good Brother.",
     "level": "Chorus",
     "type": "mixed",
     "cardTemplates": ["listening", "chinese-reading", "english-reading"]
   },
-  "conceptGroups": [
-    {
+  "conceptGroups": [    {
       "groupName": "L1: Word - 情誼 (qíngyì) - friendship",
       "description": "Introducing the word 情誼 (qíngyì).",
       "vocabulary": [
@@ -17,7 +16,7 @@
           "pinyin": "qíngyì",
           "chineseText": "情誼",
           "englishText": "friendship, affection",
-          "explanation": "From '朋友的情誼呀...'. Means 'friendship' or 'affection'."
+          "explanation": "情 (qíng) - feeling/emotion + 誼 (yì) - friendship/relationship = friendship, affection."
         }
       ]
     },
@@ -30,7 +29,7 @@
           "pinyin": "suìyuè",
           "chineseText": "歲月",
           "englishText": "years, time,岁月",
-          "explanation": "From '那些歲月...'. Means 'years' or 'time passing'."
+          "explanation": "歲 (suì) - age/years + 月 (yuè) - moon/month = years, time passing."
         }
       ]
     },
@@ -43,7 +42,7 @@
           "pinyin": "jìde",
           "chineseText": "記得",
           "englishText": "remember",
-          "explanation": "From '...我們一定會記得'. Means 'to remember'."
+          "explanation": "記 (jì) - to record/remember + 得 (de) - to obtain/achieve = to remember."
         }
       ]
     },
@@ -56,7 +55,7 @@
           "pinyin": "jīnshēng",
           "chineseText": "今生",
           "englishText": "this life",
-          "explanation": "From '...我們今生最大的難得'. Means 'this life'."
+          "explanation": "今 (jīn) - now/present + 生 (shēng) - life/birth = this life."
         }
       ]
     },
@@ -69,7 +68,7 @@
           "pinyin": "nándé",
           "chineseText": "難得",
           "englishText": "rare, hard to come by",
-          "explanation": "From '...今生最大的難得'. Means 'rare' or 'hard to come by'."
+          "explanation": "難 (nán) - difficult + 得 (dé) - to obtain = rare, hard to come by."
         }
       ]
     },
@@ -82,7 +81,7 @@
           "pinyin": "yī bēi jiǔ",
           "chineseText": "一杯酒",
           "englishText": "a glass of wine",
-          "explanation": "From '像一杯酒...'. '一 (yī)' - one; '杯 (bēi)' - cup/glass (measure word); '酒 (jiǔ)' - alcohol/wine."
+          "explanation": "一 (yī) - one + 杯 (bēi) - cup/glass + 酒 (jiǔ) - wine/alcohol = a glass of wine."
         }
       ]
     },
@@ -95,11 +94,10 @@
           "pinyin": "lǎogē",
           "chineseText": "老歌",
           "englishText": "old song",
-          "explanation": "From '...像一首老歌'. '老 (lǎo)' - old; '歌 (gē)' - song."
+          "explanation": "老 (lǎo) - old/aged + 歌 (gē) - song = old song."
         }
       ]
-    },
-    {
+    },    {
       "groupName": "L2: Chorus Phrases",
       "description": "Reviewing key phrases from the chorus.",
       "vocabulary": [
@@ -108,56 +106,56 @@
           "pinyin": "péngyou de qíngyì",
           "chineseText": "朋友的情誼",
           "englishText": "friendship of friends",
-          "explanation": "From '朋友的情誼呀...'. '朋友 (péngyou)' - friend; '的 (de)' - possessive particle; '情誼 (qíngyì)' - friendship."
+          "explanation": "朋友 (péngyou) - friend + 的 (de) - possessive particle + 情誼 (qíngyì) - friendship."
         },
         {
           "name": "bi_tian_hai_gao",
           "pinyin": "bǐ tiān hái gāo",
           "chineseText": "比天還高",
           "englishText": "higher than the sky",
-          "explanation": "From '...比天還高...'. '比 (bǐ)' - than; '天 (tiān)' - sky; '還 (hái)' - still/even; '高 (gāo)' - high/tall."
+          "explanation": "比 (bǐ) - compared to + 天 (tiān) - sky + 還 (hái) - still/even + 高 (gāo) - high."
         },
         {
           "name": "bi_di_hai_liaokuo",
           "pinyin": "bǐ dì hái liáokuò",
           "chineseText": "比地還遼闊",
           "englishText": "more vast than the earth",
-          "explanation": "From '...比地還遼闊'. '比 (bǐ)' - than; '地 (dì)' - earth/ground; '還 (hái)' - still/even; '遼闊 (liáokuò)' - vast, extensive."
+          "explanation": "比 (bǐ) - compared to + 地 (dì) - earth + 還 (hái) - still/even + 遼闊 (liáokuò) - vast/expansive."
         },
         {
           "name": "naxie_suiyue",
           "pinyin": "nàxiē suìyuè",
           "chineseText": "那些歲月",
           "englishText": "those years",
-          "explanation": "From '那些歲月...'. '那些 (nàxiē)' - those; '歲月 (suìyuè)' - years/time."
+          "explanation": "那些 (nàxiē) - those + 歲月 (suìyuè) - years/time."
         },
         {
           "name": "women_yiding_hui_jide",
           "pinyin": "wǒmen yīdìng huì jìde",
           "chineseText": "我們一定會記得",
           "englishText": "we will definitely remember",
-          "explanation": "From '...我們一定會記得'. '我們 (wǒmen)' - we; '一定 (yīdìng)' - definitely; '會 (huì)' - will (indicates future); '記得 (jìde)' - remember."
+          "explanation": "我們 (wǒmen) - we + 一定 (yīdìng) - definitely + 會 (huì) - will + 記得 (jìde) - remember."
         },
         {
           "name": "jinsheng_zuida_de_nande",
           "pinyin": "jīnshēng zuìdà de nándé",
           "chineseText": "今生最大的難得",
           "englishText": "the greatest rarity in this life",
-          "explanation": "From '...我們今生最大的難得'. '今生 (jīnshēng)' - this life; '最大 (zuìdà)' - biggest/greatest; '的 (de)' - particle; '難得 (nándé)' - rare."
+          "explanation": "今生 (jīnshēng) - this life + 最大 (zuìdà) - greatest + 的 (de) - possessive particle + 難得 (nándé) - rare."
         },
         {
           "name": "xiang_yi_bei_jiu",
           "pinyin": "xiàng yī bēi jiǔ",
           "chineseText": "像一杯酒",
           "englishText": "like a glass of wine",
-          "explanation": "From '像一杯酒...'. '像 (xiàng)' - like/resemble; '一杯酒 (yī bēi jiǔ)' - a glass of wine."
+          "explanation": "像 (xiàng) - like + 一杯酒 (yī bēi jiǔ) - a glass of wine."
         },
         {
           "name": "xiang_yi_shou_laoge",
           "pinyin": "xiàng yī shǒu lǎogē",
           "chineseText": "像一首老歌",
           "englishText": "like an old song",
-          "explanation": "From '...像一首老歌'. '像 (xiàng)' - like/resemble; '一首 (yī shǒu)' - a (measure word for songs); '老歌 (lǎogē)' - old song."
+          "explanation": "像 (xiàng) - like + 一 (yī) - one + 首 (shǒu) - measure word for songs + 老歌 (lǎogē) - old song."
         }
       ]
     }
