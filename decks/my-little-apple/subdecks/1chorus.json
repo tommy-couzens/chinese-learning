@@ -1,0 +1,630 @@
+{
+  "$schema": "../../../AnkiDeckFromSongs/schemas/lesson-schema.json",
+  "deckInfo": {
+    "name": "Chinese Learning - My Little Apple - Chorus v1",
+    "description": "Covers Level 1 (characters & small words), Level 2 (phrases), and Level 3 (full lines) for the Chorus of My Little Apple.",
+    "level": "Chorus",
+    "type": "mixed",
+    "cardTemplates": ["listening", "chinese-reading", "english-reading"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "L1/L2: Word - 苹果 (píngguǒ) - apple",
+      "description": "Introducing the word 苹果 (apple).",
+      "vocabulary": [
+        {
+          "name": "ping2guo3",
+          "pinyin": "píngguǒ",
+          "chineseText": "苹果",
+          "englishText": "apple",
+          "explanation": "Key vocabulary: 'apple'. From '你是我的小呀小苹果儿'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 怎么 (zěnme) - how?",
+      "description": "Characters 怎 (zěn), 么 (me) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "zen3me",
+          "pinyin": "zěnme",
+          "chineseText": "怎么",
+          "englishText": "how?, what?, why?",
+          "explanation": "Used to ask 'how' or 'why'. From the lyric '怎么爱你都不嫌多'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 嫌多 (xiánduō) - consider too much",
+      "description": "Characters 嫌 (xián), 多 (duō) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "xian2",
+          "pinyin": "xián",
+          "chineseText": "嫌",
+          "englishText": "to dislike, to mind, to complain of",
+          "explanation": "Component of 嫌多."
+        },
+        {
+          "name": "duo1",
+          "pinyin": "duō",
+          "chineseText": "多",
+          "englishText": "many, much, a lot",
+          "explanation": "Component of 嫌多."
+        },
+        {
+          "name": "xian2duo1",
+          "pinyin": "xiánduō",
+          "chineseText": "嫌多",
+          "englishText": "to consider too much, to find excessive",
+          "explanation": "From '怎么爱你都不嫌多'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 小脸儿 (xiǎoliǎnr) - small face",
+      "description": "Characters 小 (xiǎo), 脸 (liǎn), 儿 (r) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "xiao3",
+          "pinyin": "xiǎo",
+          "chineseText": "小",
+          "englishText": "small, little",
+          "explanation": "Component of 小脸儿. From '小呀小苹果儿' and '红红的小脸儿'."
+        },
+        {
+          "name": "lian3",
+          "pinyin": "liǎn",
+          "chineseText": "脸",
+          "englishText": "face",
+          "explanation": "Component of 小脸儿."
+        },
+        {
+          "name": "er2",
+          "pinyin": "r",
+          "chineseText": "儿",
+          "englishText": "(noun suffix, retroflex final)",
+          "explanation": "Component of 小脸儿 and 苹果儿."
+        },
+        {
+          "name": "xiao3lian3r",
+          "pinyin": "xiǎoliǎnr",
+          "chineseText": "小脸儿",
+          "englishText": "small face",
+          "explanation": "From '红红的小脸儿'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 温暖 (wēnnuǎn) - warm",
+      "description": "Characters 温 (wēn), 暖 (nuǎn) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "wen1",
+          "pinyin": "wēn",
+          "chineseText": "温",
+          "englishText": "warm, lukewarm, temperature",
+          "explanation": "Component of 温暖."
+        },
+        {
+          "name": "nuan3",
+          "pinyin": "nuǎn",
+          "chineseText": "暖",
+          "englishText": "warm, to warm up",
+          "explanation": "Component of 温暖."
+        },
+        {
+          "name": "wen1nuan3",
+          "pinyin": "wēnnuǎn",
+          "chineseText": "温暖",
+          "englishText": "warm, to make warm",
+          "explanation": "From '温暖我的心窝'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 心窝 (xīnwō) - heart",
+      "description": "Characters 心 (xīn), 窝 (wō) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "xin1",
+          "pinyin": "xīn",
+          "chineseText": "心",
+          "englishText": "heart, mind, feeling",
+          "explanation": "Component of 心窝."
+        },
+        {
+          "name": "wo1",
+          "pinyin": "wō",
+          "chineseText": "窝",
+          "englishText": "nest, den, pit (of stomach)",
+          "explanation": "Component of 心窝."
+        },
+        {
+          "name": "xin1wo1",
+          "pinyin": "xīnwō",
+          "chineseText": "心窝",
+          "englishText": "pit of the stomach, heart",
+          "explanation": "From '温暖我的心窝'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 点亮 (diǎnliàng) - light up",
+      "description": "Characters 点 (diǎn), 亮 (liàng) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "dian3",
+          "pinyin": "diǎn",
+          "chineseText": "点",
+          "englishText": "point, dot, to light, to kindle",
+          "explanation": "Component of 点亮."
+        },
+        {
+          "name": "liang4",
+          "pinyin": "liàng",
+          "chineseText": "亮",
+          "englishText": "bright, light, to shine",
+          "explanation": "Component of 点亮."
+        },
+        {
+          "name": "dian3liang4",
+          "pinyin": "diǎnliàng",
+          "chineseText": "点亮",
+          "englishText": "to light up, to illuminate",
+          "explanation": "From '点亮我生命的火'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 生命 (shēngmìng) - life",
+      "description": "Characters 生 (shēng), 命 (mìng) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "sheng1",
+          "pinyin": "shēng",
+          "chineseText": "生",
+          "englishText": "to be born, to give birth, life, raw",
+          "explanation": "Component of 生命."
+        },
+        {
+          "name": "ming4",
+          "pinyin": "mìng",
+          "chineseText": "命",
+          "englishText": "life, fate, destiny",
+          "explanation": "Component of 生命."
+        },
+        {
+          "name": "sheng1ming4",
+          "pinyin": "shēngmìng",
+          "chineseText": "生命",
+          "englishText": "life",
+          "explanation": "From '点亮我生命的火'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 就像 (jiùxiàng) - just like",
+      "description": "Characters 就 (jiù), 像 (xiàng) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "jiu4",
+          "pinyin": "jiù",
+          "chineseText": "就",
+          "englishText": "then, precisely, just, right away",
+          "explanation": "Component of 就像. Also in '就会收获'."
+        },
+        {
+          "name": "xiang4",
+          "pinyin": "xiàng",
+          "chineseText": "像",
+          "englishText": "to be like, to resemble, image",
+          "explanation": "Component of 就像."
+        },
+        {
+          "name": "jiu4xiang4",
+          "pinyin": "jiùxiàng",
+          "chineseText": "就像",
+          "englishText": "just like, as if",
+          "explanation": "From '就像天边最美的云朵'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 天边 (tiānbiān) - horizon",
+      "description": "Characters 天 (tiān), 边 (biān) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "tian1",
+          "pinyin": "tiān",
+          "chineseText": "天",
+          "englishText": "sky, heaven, day",
+          "explanation": "Component of 天边. Also in '春天'."
+        },
+        {
+          "name": "bian1",
+          "pinyin": "biān",
+          "chineseText": "边",
+          "englishText": "side, edge, margin, border",
+          "explanation": "Component of 天边."
+        },
+        {
+          "name": "tian1bian1",
+          "pinyin": "tiānbiān",
+          "chineseText": "天边",
+          "englishText": "horizon, sky's edge",
+          "explanation": "From '就像天边最美的云朵'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 云朵 (yúnduǒ) - cloud",
+      "description": "Characters 云 (yún), 朵 (duǒ) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "yun2",
+          "pinyin": "yún",
+          "chineseText": "云",
+          "englishText": "cloud",
+          "explanation": "Component of 云朵."
+        },
+        {
+          "name": "duo3",
+          "pinyin": "duǒ",
+          "chineseText": "朵",
+          "englishText": "flower, earlobe, (mw for flowers, clouds)",
+          "explanation": "Component of 云朵."
+        },
+        {
+          "name": "yun2duo3",
+          "pinyin": "yúnduǒ",
+          "chineseText": "云朵",
+          "englishText": "cloud",
+          "explanation": "From '就像天边最美的云朵'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 春天 (chūntiān) - spring",
+      "description": "Character 春 (chūn) and the combined word with 天 (tiān).",
+      "vocabulary": [
+        {
+          "name": "chun1",
+          "pinyin": "chūn",
+          "chineseText": "春",
+          "englishText": "spring (season)",
+          "explanation": "Component of 春天."
+        },
+        {
+          "name": "chun1tian1",
+          "pinyin": "chūntiān",
+          "chineseText": "春天",
+          "englishText": "spring (season)",
+          "explanation": "From '春天又来到了花开满山坡'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 来到 (láidào) - arrive",
+      "description": "Characters 来 (lái), 到 (dào) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "lai2",
+          "pinyin": "lái",
+          "chineseText": "来",
+          "englishText": "to come, to arrive",
+          "explanation": "Component of 来到."
+        },
+        {
+          "name": "dao4",
+          "pinyin": "dào",
+          "chineseText": "到",
+          "englishText": "to arrive, to reach, to (a place)",
+          "explanation": "Component of 来到."
+        },
+        {
+          "name": "lai2dao4",
+          "pinyin": "láidào",
+          "chineseText": "来到",
+          "englishText": "to arrive, to come to",
+          "explanation": "From '春天又来到了花开满山坡'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 山坡 (shānpō) - hillside",
+      "description": "Characters 山 (shān), 坡 (pō) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "shan1",
+          "pinyin": "shān",
+          "chineseText": "山",
+          "englishText": "mountain, hill",
+          "explanation": "Component of 山坡."
+        },
+        {
+          "name": "po1",
+          "pinyin": "pō",
+          "chineseText": "坡",
+          "englishText": "slope",
+          "explanation": "Component of 山坡."
+        },
+        {
+          "name": "shan1po1",
+          "pinyin": "shānpō",
+          "chineseText": "山坡",
+          "englishText": "hillside, mountain slope",
+          "explanation": "From '花开满山坡'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 种下 (zhǒngxià) - to plant",
+      "description": "Characters 种 (zhǒng), 下 (xià) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "zhong4",
+          "pinyin": "zhòng",
+          "chineseText": "种",
+          "englishText": "to plant, to grow, to cultivate",
+          "explanation": "Component of 种下."
+        },
+        {
+          "name": "xia4",
+          "pinyin": "xià",
+          "chineseText": "下",
+          "englishText": "down, downwards, below, to go down",
+          "explanation": "Component of 种下."
+        },
+        {
+          "name": "zhong4xia4",
+          "pinyin": "zhǒngxià",
+          "chineseText": "种下",
+          "englishText": "to plant, to sow",
+          "explanation": "From '种下希望就会收获'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 希望 (xīwàng) - hope",
+      "description": "Characters 希 (xī), 望 (wàng) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "xi1",
+          "pinyin": "xī",
+          "chineseText": "希",
+          "englishText": "to hope, to wish, rare",
+          "explanation": "Component of 希望."
+        },
+        {
+          "name": "wang4",
+          "pinyin": "wàng",
+          "chineseText": "望",
+          "englishText": "to hope, to expect, to look towards, to gaze into the distance",
+          "explanation": "Component of 希望."
+        },
+        {
+          "name": "xi1wang4",
+          "pinyin": "xīwàng",
+          "chineseText": "希望",
+          "englishText": "hope, to wish, to hope",
+          "explanation": "From '种下希望就会收获'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 收获 (shōuhuò) - harvest",
+      "description": "Characters 收 (shōu), 获 (huò) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "shou1",
+          "pinyin": "shōu",
+          "chineseText": "收",
+          "englishText": "to receive, to accept, to collect",
+          "explanation": "Component of 收获."
+        },
+        {
+          "name": "huo4",
+          "pinyin": "huò",
+          "chineseText": "获",
+          "englishText": "to obtain, to catch, to reap, to harvest",
+          "explanation": "Component of 收获."
+        },
+        {
+          "name": "shou1huo4",
+          "pinyin": "shōuhuò",
+          "chineseText": "收获",
+          "englishText": "to harvest, to reap, gains, results",
+          "explanation": "From '种下希望就会收获'."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Other Core Vocabulary from Chorus",
+      "description": "Introducing other essential single characters from the chorus.",
+      "vocabulary": [
+        {
+          "name": "shi4",
+          "pinyin": "shì",
+          "chineseText": "是",
+          "englishText": "to be, yes",
+          "explanation": "From '你是我的...'"
+        },
+        {
+          "name": "ya5",
+          "pinyin": "ya",
+          "chineseText": "呀",
+          "englishText": "(interjectory particle expressing surprise or emphasis)",
+          "explanation": "From '小呀小苹果儿'."
+        },
+        {
+          "name": "ai4",
+          "pinyin": "ài",
+          "chineseText": "爱",
+          "englishText": "to love, affection, like",
+          "explanation": "From '怎么爱你'."
+        },
+        {
+          "name": "dou1",
+          "pinyin": "dōu",
+          "chineseText": "都",
+          "englishText": "all, both, entirely",
+          "explanation": "From '都不嫌多'."
+        },
+        {
+          "name": "hong2",
+          "pinyin": "hóng",
+          "chineseText": "红",
+          "englishText": "red, popular, revolutionary",
+          "explanation": "From '红红的小脸儿'."
+        },
+        {
+          "name": "huo3",
+          "pinyin": "huǒ",
+          "chineseText": "火",
+          "englishText": "fire",
+          "explanation": "From '生命的火'."
+        },
+        {
+          "name": "zui4",
+          "pinyin": "zuì",
+          "chineseText": "最",
+          "englishText": "most, the most, -est",
+          "explanation": "From '最美的云朵'."
+        },
+        {
+          "name": "mei3",
+          "pinyin": "měi",
+          "chineseText": "美",
+          "englishText": "beautiful, pretty, America",
+          "explanation": "From '最美的云朵'."
+        },
+        {
+          "name": "you4",
+          "pinyin": "yòu",
+          "chineseText": "又",
+          "englishText": "again, also, moreover",
+          "explanation": "From '春天又来到了'."
+        },
+        {
+          "name": "le5",
+          "pinyin": "le",
+          "chineseText": "了",
+          "englishText": "(modal particle intensifying preceding clause), (completed action marker)",
+          "explanation": "From '来到了花开'."
+        },
+        {
+          "name": "hua1",
+          "pinyin": "huā",
+          "chineseText": "花",
+          "englishText": "flower, to spend (money/time)",
+          "explanation": "From '花开满山坡'."
+        },
+        {
+          "name": "kai1",
+          "pinyin": "kāi",
+          "chineseText": "开",
+          "englishText": "to open, to start, to turn on, to boil",
+          "explanation": "From '花开满山坡'."
+        },
+        {
+          "name": "man3",
+          "pinyin": "mǎn",
+          "chineseText": "满",
+          "englishText": "full, filled, satisfied",
+          "explanation": "From '花开满山坡'."
+        },
+        {
+          "name": "hui4",
+          "pinyin": "huì",
+          "chineseText": "会",
+          "englishText": "can, to be able to, will, to meet",
+          "explanation": "From '就会收获'."
+        }
+      ]
+    },
+    {
+      "groupName": "L2: Chorus Phrases Review",
+      "description": "Reviewing key phrases from the chorus.",
+      "vocabulary": [
+        {
+          "name": "xiao3_ya_xiao3_ping2guo3r",
+          "pinyin": "xiǎo ya xiǎo píngguǒr",
+          "chineseText": "小呀小苹果儿",
+          "englishText": "little apple",
+          "explanation": "Phrase from chorus. '呀 (ya)' is an interjectory particle."
+        },
+        {
+          "name": "zen3me_ai4_ni3",
+          "pinyin": "zěnme ài nǐ",
+          "chineseText": "怎么爱你",
+          "englishText": "how to love you",
+          "explanation": "Phrase from chorus. '怎么 (zěnme)' - how; '爱 (ài)' - to love; '你 (nǐ)' - you."
+        },
+        {
+          "name": "dou1_bu4_xian2duo1",
+          "pinyin": "dōu bù xiánduō",
+          "chineseText": "都不嫌多",
+          "englishText": "(I can) never love you too much / (I) don't find it excessive at all",
+          "explanation": "Phrase from chorus. '都 (dōu)' - all/entirely; '不 (bù)' - not; '嫌多 (xiánduō)' - to find excessive."
+        },
+        {
+          "name": "hong2_hong2_de_xiao3lian3r",
+          "pinyin": "hóng hóng de xiǎoliǎnr",
+          "chineseText": "红红的小脸儿",
+          "englishText": "red little face",
+          "explanation": "Phrase from chorus. Adjective reduplication '红红 (hóng hóng)' emphasizes the color red. '的 (de)' is a possessive/descriptive particle."
+        },
+        {
+          "name": "wen1nuan3_wo3_de_xin1wo1",
+          "pinyin": "wēnnuǎn wǒ de xīnwō",
+          "chineseText": "温暖我的心窝",
+          "englishText": "warms my heart",
+          "explanation": "Phrase from chorus. '温暖 (wēnnuǎn)' - to warm; '我 (wǒ)' - my; '的 (de)' - possessive particle; '心窝 (xīnwō)' - heart."
+        },
+        {
+          "name": "dian3liang4_wo3_sheng1ming4_de_huo3",
+          "pinyin": "diǎnliàng wǒ shēngmìng de huǒ",
+          "chineseText": "点亮我生命的火",
+          "englishText": "lights the fire of my life",
+          "explanation": "Phrase from chorus. '点亮 (diǎnliàng)' - to light up; '我生命 (wǒ shēngmìng)' - my life; '的 (de)' - possessive particle; '火 (huǒ)' - fire."
+        },
+        {
+          "name": "tian1bian1_zui4_mei3_de_yun2duo3",
+          "pinyin": "tiānbiān zuì měi de yúnduǒ",
+          "chineseText": "天边最美的云朵",
+          "englishText": "the most beautiful cloud in the sky",
+          "explanation": "Phrase from chorus. '天边 (tiānbiān)' - horizon/sky's edge; '最美 (zuì měi)' - most beautiful; '的 (de)' - descriptive particle; '云朵 (yúnduǒ)' - cloud."
+        },
+        {
+          "name": "chun1tian1_you4_lai2dao4",
+          "pinyin": "chūntiān yòu láidào",
+          "chineseText": "春天又来到",
+          "englishText": "spring comes again",
+          "explanation": "春天 (chūntiān) - spring; 又 (yòu) - again; 来到 (láidào) - to arrive. From the lyric '春天又来到了花开满山坡'."
+        },
+        {
+          "name": "hua1_kai1man3_shan1po1",
+          "pinyin": "huā kāimǎn shānpō",
+          "chineseText": "花开满山坡",
+          "englishText": "flowers bloom all over the hillside",
+          "explanation": "花 (huā) - flower; 开 (kāi) - to bloom; 满 (mǎn) - all over; 山坡 (shānpō) - hillside. From the lyric '春天又来到了花开满山坡'."
+        },
+        {
+          "name": "zhong4xia4_xi1wang4",
+          "pinyin": "zhǒngxià xīwàng",
+          "chineseText": "种下希望",
+          "englishText": "plant hope",
+          "explanation": "种下 (zhǒngxià) - to plant; 希望 (xīwàng) - hope. From the lyric '种下希望就会收获'."
+        },
+        {
+          "name": "jiu4_hui4_shou1huo4",
+          "pinyin": "jiù huì shōuhuò",
+          "chineseText": "就会收获",
+          "englishText": "will then harvest / will then reap rewards",
+          "explanation": "就 (jiù) - then; 会 (huì) - will; 收获 (shōuhuò) - to harvest. From the lyric '种下希望就会收获'."
+        }
+      ]
+    }
+  ]
+}
