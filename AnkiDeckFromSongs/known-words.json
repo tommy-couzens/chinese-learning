@@ -30,5 +30,33 @@
     {
         "chineseText": "小",
         "englishText": "small, little"
+    },
+    {
+        "chineseText": "我",
+        "englishText": "I, me"
+    },
+    {
+        "chineseText": "有",
+        "englishText": "to have, there is/are"
+    },
+    {
+        "chineseText": "喜欢",
+        "englishText": "to like, to enjoy"
+    },
+    {
+        "chineseText": "说",
+        "englishText": "to speak, to say"
+    },
+    {
+        "chineseText": "什么",
+        "englishText": "what"
+    },
+    {
+        "chineseText": "月",
+        "englishText": "moon, month"
+    },
+    {
+        "chineseText": "个",
+        "englishText": "measure word (general)"
     }
 ]

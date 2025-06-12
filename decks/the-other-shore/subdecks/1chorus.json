@@ -1,0 +1,541 @@
+{
+  "$schema": "../../../AnkiDeckFromSongs/schemas/lesson-schema.json",
+  "deckInfo": {
+    "name": "Chinese - The Other Shore - Chorus v1",
+    "description": "Covers Level 1 (characters & small words), Level 2 (phrases) for the Chorus of The Other Shore.",
+    "level": "Chorus",
+    "type": "mixed",
+    "cardTemplates": ["listening", "chinese-reading", "english-reading"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "L1: Building 一阵风 (yīzhènfēng) - a gust of wind",
+      "description": "Characters 一 (yī), 阵 (zhèn), 风 (fēng) and the combined phrase.",
+      "vocabulary": [
+        {
+          "name": "zhen4",
+          "pinyin": "zhèn",
+          "chineseText": "阵",
+          "englishText": "spell, burst, gust",
+          "explanation": ""
+        },
+        {
+          "name": "feng1",
+          "pinyin": "fēng",
+          "chineseText": "风",
+          "englishText": "wind",
+          "explanation": ""
+        },
+        {
+          "name": "yi1zhen4feng1",
+          "pinyin": "yīzhènfēng",
+          "chineseText": "一阵风",
+          "englishText": "a gust of wind",
+          "explanation": "一 (yī) - one + 阵 (zhèn) - spell/burst + 风 (fēng) - wind = a gust of wind."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 抖落 (dǒuluò) - to fall, to shake off",
+      "description": "Characters 抖 (dǒu), 落 (luò) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "dou3",
+          "pinyin": "dǒu",
+          "chineseText": "抖",
+          "englishText": "to shake, to tremble",
+          "explanation": ""
+        },
+        {
+          "name": "luo4",
+          "pinyin": "luò",
+          "chineseText": "落",
+          "englishText": "to fall, to drop",
+          "explanation": ""
+        },
+        {
+          "name": "dou3luo4",
+          "pinyin": "dǒuluò",
+          "chineseText": "抖落",
+          "englishText": "to fall, to shake off",
+          "explanation": "抖 (dǒu) - to shake + 落 (luò) - to fall = to fall, to shake off."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 水月 (shuǐyuè) - water moon (reflection)",
+      "description": "Characters 水 (shuǐ), 月 (yuè) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "shui3",
+          "pinyin": "shuǐ",
+          "chineseText": "水",
+          "englishText": "water",
+          "explanation": ""
+        },
+        {
+          "name": "shui3yue4",
+          "pinyin": "shuǐyuè",
+          "chineseText": "水月",
+          "englishText": "water moon, moon reflection in water",
+          "explanation": "水 (shuǐ) - water + 月 (yuè) - moon = water moon, moon reflection in water."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 躲藏 (duǒcáng) - to hide",
+      "description": "Characters 躲 (duǒ), 藏 (cáng) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "duo3",
+          "pinyin": "duǒ",
+          "chineseText": "躲",
+          "englishText": "to hide, to avoid",
+          "explanation": ""
+        },
+        {
+          "name": "cang2",
+          "pinyin": "cáng",
+          "chineseText": "藏",
+          "englishText": "to hide, to store",
+          "explanation": ""
+        },
+        {
+          "name": "duo3cang2",
+          "pinyin": "duǒcáng",
+          "chineseText": "躲藏",
+          "englishText": "to hide",
+          "explanation": "躲 (duǒ) - to hide/avoid + 藏 (cáng) - to hide/store = to hide."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 回忆 (huíyì) - memory",
+      "description": "Characters 回 (huí), 忆 (yì) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "hui2",
+          "pinyin": "huí",
+          "chineseText": "回",
+          "englishText": "to return, to go back",
+          "explanation": ""
+        },
+        {
+          "name": "yi4",
+          "pinyin": "yì",
+          "chineseText": "忆",
+          "englishText": "to remember, memory",
+          "explanation": ""
+        },
+        {
+          "name": "hui2yi4",
+          "pinyin": "huíyì",
+          "chineseText": "回忆",
+          "englishText": "memory, to recall",
+          "explanation": "回 (huí) - to return/go back + 忆 (yì) - to remember = memory, to recall."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 不愿 (bùyuàn) - unwilling",
+      "description": "Characters 不 (bù), 愿 (yuàn) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "yuan4",
+          "pinyin": "yuàn",
+          "chineseText": "愿",
+          "englishText": "to wish, to be willing",
+          "explanation": ""
+        },
+        {
+          "name": "bu4yuan4",
+          "pinyin": "bùyuàn",
+          "chineseText": "不愿",
+          "englishText": "unwilling, not willing",
+          "explanation": "不 (bù) - not + 愿 (yuàn) - to wish/be willing = unwilling, not willing."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 先走 (xiānzǒu) - to leave first",
+      "description": "Characters 先 (xiān), 走 (zǒu) and the combined phrase.",
+      "vocabulary": [
+        {
+          "name": "xian1",
+          "pinyin": "xiān",
+          "chineseText": "先",
+          "englishText": "first, before, earlier",
+          "explanation": ""
+        },
+        {
+          "name": "zou3",
+          "pinyin": "zǒu",
+          "chineseText": "走",
+          "englishText": "to walk, to go, to leave",
+          "explanation": ""
+        },
+        {
+          "name": "xian1zou3",
+          "pinyin": "xiānzǒu",
+          "chineseText": "先走",
+          "englishText": "to leave first, to go first",
+          "explanation": "先 (xiān) - first/before + 走 (zǒu) - to walk/go/leave = to leave first, to go first."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 一个梦 (yīgèmèng) - a dream",
+      "description": "Characters 一 (yī), 个 (gè), 梦 (mèng) and the combined phrase.",
+      "vocabulary": [
+        {
+          "name": "meng4",
+          "pinyin": "mèng",
+          "chineseText": "梦",
+          "englishText": "dream",
+          "explanation": ""
+        },
+        {
+          "name": "yi1ge4meng4",
+          "pinyin": "yīgèmèng",
+          "chineseText": "一个梦",
+          "englishText": "a dream",
+          "explanation": "一 (yī) - one + 个 (gè) - measure word + 梦 (mèng) - dream = a dream."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 夜色 (yèsè) - night scene",
+      "description": "Characters 夜 (yè), 色 (sè) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "ye4",
+          "pinyin": "yè",
+          "chineseText": "夜",
+          "englishText": "night",
+          "explanation": ""
+        },
+        {
+          "name": "se4",
+          "pinyin": "sè",
+          "chineseText": "色",
+          "englishText": "color, scene",
+          "explanation": ""
+        },
+        {
+          "name": "ye4se4",
+          "pinyin": "yèsè",
+          "chineseText": "夜色",
+          "englishText": "night scene, nightfall",
+          "explanation": "夜 (yè) - night + 色 (sè) - color/scene = night scene, nightfall."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 朦胧 (ménglóng) - dim, hazy",
+      "description": "Characters 朦 (méng), 胧 (lóng) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "meng2",
+          "pinyin": "méng",
+          "chineseText": "朦",
+          "englishText": "dim, hazy",
+          "explanation": ""
+        },
+        {
+          "name": "long2",
+          "pinyin": "lóng",
+          "chineseText": "胧",
+          "englishText": "hazy, misty",
+          "explanation": ""
+        },
+        {
+          "name": "meng2long2",
+          "pinyin": "ménglóng",
+          "chineseText": "朦胧",
+          "englishText": "dim, hazy, misty",
+          "explanation": "朦 (méng) - dim/hazy + 胧 (lóng) - hazy/misty = dim, hazy, misty."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 苏醒 (sūxǐng) - to wake up",
+      "description": "Characters 苏 (sū), 醒 (xǐng) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "su1",
+          "pinyin": "sū",
+          "chineseText": "苏",
+          "englishText": "to revive, to come to",
+          "explanation": ""
+        },
+        {
+          "name": "xing3",
+          "pinyin": "xǐng",
+          "chineseText": "醒",
+          "englishText": "to wake up, to be awake",
+          "explanation": ""
+        },
+        {
+          "name": "su1xing3",
+          "pinyin": "sūxǐng",
+          "chineseText": "苏醒",
+          "englishText": "to wake up, to regain consciousness",
+          "explanation": "苏 (sū) - to revive/come to + 醒 (xǐng) - to wake up = to wake up, to regain consciousness."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 有始有终 (yǒushǐyǒuzhōng) - from beginning to end",
+      "description": "Characters and the combined phrase meaning 'from beginning to end'.",
+      "vocabulary": [
+        {
+          "name": "shi3",
+          "pinyin": "shǐ",
+          "chineseText": "始",
+          "englishText": "to begin, start",
+          "explanation": ""
+        },
+        {
+          "name": "zhong1",
+          "pinyin": "zhōng",
+          "chineseText": "终",
+          "englishText": "end, final",
+          "explanation": ""
+        },
+        {
+          "name": "you3shi3you3zhong1",
+          "pinyin": "yǒushǐyǒuzhōng",
+          "chineseText": "有始有终",
+          "englishText": "from beginning to end, to see something through",
+          "explanation": "有 (yǒu) - to have + 始 (shǐ) - beginning + 有 (yǒu) - to have + 终 (zhōng) - end = from beginning to end, to see something through."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 多少次 (duōshǎocì) - how many times",
+      "description": "Characters 多少 (duōshǎo), 次 (cì) and the combined phrase.",
+      "vocabulary": [
+        {
+          "name": "duo1shao3",
+          "pinyin": "duōshǎo",
+          "chineseText": "多少",
+          "englishText": "how much, how many",
+          "explanation": "多 (duō) - many/much + 少 (shǎo) - few/little = how much, how many."
+        },
+        {
+          "name": "ci4",
+          "pinyin": "cì",
+          "chineseText": "次",
+          "englishText": "time, occurrence",
+          "explanation": ""
+        },
+        {
+          "name": "duo1shao3ci4",
+          "pinyin": "duōshǎocì",
+          "chineseText": "多少次",
+          "englishText": "how many times",
+          "explanation": "多少 (duōshǎo) - how many + 次 (cì) - times = how many times."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 擦肩 (cājiān) - to brush shoulders",
+      "description": "Characters 擦 (cā), 肩 (jiān) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "ca1",
+          "pinyin": "cā",
+          "chineseText": "擦",
+          "englishText": "to rub, to brush against",
+          "explanation": ""
+        },
+        {
+          "name": "jian1",
+          "pinyin": "jiān",
+          "chineseText": "肩",
+          "englishText": "shoulder",
+          "explanation": ""
+        },
+        {
+          "name": "ca1jian1",
+          "pinyin": "cājiān",
+          "chineseText": "擦肩",
+          "englishText": "to brush shoulders, to pass by",
+          "explanation": "擦 (cā) - to rub/brush + 肩 (jiān) - shoulder = to brush shoulders, to pass by."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 回眸 (huímóu) - to look back",
+      "description": "Characters 回 (huí), 眸 (móu) and the combined word.",
+      "vocabulary": [
+        {
+          "name": "mou2",
+          "pinyin": "móu",
+          "chineseText": "眸",
+          "englishText": "pupil of the eye, gaze",
+          "explanation": ""
+        },
+        {
+          "name": "hui2mou2",
+          "pinyin": "huímóu",
+          "chineseText": "回眸",
+          "englishText": "to look back, to glance back",
+          "explanation": "回 (huí) - to return/go back + 眸 (móu) - pupil/gaze = to look back, to glance back."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Other Core Vocabulary from Chorus",
+      "description": "Introducing other essential characters from the chorus.",
+      "vocabulary": [
+        {
+          "name": "jian3",
+          "pinyin": "jiǎn",
+          "chineseText": "剪",
+          "englishText": "to cut, to trim",
+          "explanation": ""
+        },
+        {
+          "name": "shei2",
+          "pinyin": "shéi",
+          "chineseText": "谁",
+          "englishText": "who",
+          "explanation": ""
+        },
+        {
+          "name": "jian3",
+          "pinyin": "jiǎn",
+          "chineseText": "捡",
+          "englishText": "to pick up, to collect",
+          "explanation": ""
+        },
+        {
+          "name": "chen4",
+          "pinyin": "chèn",
+          "chineseText": "趁",
+          "englishText": "to take advantage of, while",
+          "explanation": ""
+        },
+        {
+          "name": "zheng4",
+          "pinyin": "zhèng",
+          "chineseText": "正",
+          "englishText": "just, right, exactly",
+          "explanation": ""
+        },
+        {
+          "name": "ta1",
+          "pinyin": "tā",
+          "chineseText": "他",
+          "englishText": "he, him",
+          "explanation": ""
+        },
+        {
+          "name": "zhi1qian2",
+          "pinyin": "zhīqián",
+          "chineseText": "之前",
+          "englishText": "before, prior to",
+          "explanation": "之 (zhī) - (possessive particle) + 前 (qián) - front/before = before, prior to."
+        },
+        {
+          "name": "cai2",
+          "pinyin": "cái",
+          "chineseText": "才",
+          "englishText": "only then, just",
+          "explanation": ""
+        },
+        {
+          "name": "neng2",
+          "pinyin": "néng",
+          "chineseText": "能",
+          "englishText": "can, to be able to",
+          "explanation": ""
+        },
+        {
+          "name": "huan4",
+          "pinyin": "huàn",
+          "chineseText": "换",
+          "englishText": "to exchange, to change",
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "groupName": "L2: Chorus Phrases Review",
+      "description": "Reviewing key phrases from the chorus.",
+      "vocabulary": [
+        {
+          "name": "jian3_yi1zhen4feng1",
+          "pinyin": "jiǎn yīzhènfēng",
+          "chineseText": "剪一阵风",
+          "englishText": "slice a gust of wind",
+          "explanation": "'剪 (jiǎn)' - to cut/slice; '一阵风 (yīzhènfēng)' - a gust of wind."
+        },
+        {
+          "name": "dou3luo4_zai4_shui3yue4zhong1",
+          "pinyin": "dǒuluò zài shuǐyuèzhōng",
+          "chineseText": "抖落在水月中",
+          "englishText": "falls into the water reflected moon",
+          "explanation": "'抖落 (dǒuluò)' - to fall/shake off; '在 (zài)' - in; '水月中 (shuǐyuèzhōng)' - in the water moon."
+        },
+        {
+          "name": "shei2_duo3cang2zai4",
+          "pinyin": "shéi duǒcángzài",
+          "chineseText": "谁躲藏在",
+          "englishText": "who hides within",
+          "explanation": "'谁 (shéi)' - who; '躲藏 (duǒcáng)' - to hide; '在 (zài)' - in/within."
+        },
+        {
+          "name": "hui2yi4zhong1_bu4yuan4_xian1zou3",
+          "pinyin": "huíyìzhōng bùyuàn xiānzǒu",
+          "chineseText": "回忆中不愿先走",
+          "englishText": "within memories, unwilling to leave first",
+          "explanation": "'回忆中 (huíyìzhōng)' - within memories; '不愿 (bùyuàn)' - unwilling; '先走 (xiānzǒu)' - to leave first."
+        },
+        {
+          "name": "jian3_yi1ge4meng4",
+          "pinyin": "jiǎn yīgèmèng",
+          "chineseText": "捡一个梦",
+          "englishText": "pocket a dream",
+          "explanation": "'捡 (jiǎn)' - to pick up/pocket; '一个梦 (yīgèmèng)' - a dream."
+        },
+        {
+          "name": "chen4_ye4se4_zheng4_meng2long2",
+          "pinyin": "chèn yèsè zhèng ménglóng",
+          "chineseText": "趁夜色正朦胧",
+          "englishText": "while the night is still dimmed",
+          "explanation": "'趁 (chèn)' - while/taking advantage of; '夜色 (yèsè)' - night scene; '正 (zhèng)' - just/exactly; '朦胧 (ménglóng)' - dim/hazy."
+        },
+        {
+          "name": "zai4_ta1_su1xing3_zhi1qian2",
+          "pinyin": "zài tā sūxǐng zhīqián",
+          "chineseText": "在他苏醒之前",
+          "englishText": "before he awakens",
+          "explanation": "'在 (zài)' - at/before; '他 (tā)' - he; '苏醒 (sūxǐng)' - to wake up; '之前 (zhīqián)' - before."
+        },
+        {
+          "name": "you3shi3_you3zhong1",
+          "pinyin": "yǒushǐ yǒuzhōng",
+          "chineseText": "有始有终",
+          "englishText": "it begins and ends",
+          "explanation": "'有始有终 (yǒushǐyǒuzhōng)' - from beginning to end, to see something through."
+        },
+        {
+          "name": "duo1shao3ci4_ca1jian1",
+          "pinyin": "duōshǎocì cājiān",
+          "chineseText": "多少次擦肩",
+          "englishText": "how many times does one rub shoulders",
+          "explanation": "'多少次 (duōshǎocì)' - how many times; '擦肩 (cājiān)' - to brush shoulders/pass by."
+        },
+        {
+          "name": "cai2neng2_huan4_yi1ci4_hui2mou2",
+          "pinyin": "cáinéng huàn yīcì huímóu",
+          "chineseText": "才能换一次回眸",
+          "englishText": "for a glance backwards",
+          "explanation": "'才能 (cáinéng)' - only then can; '换 (huàn)' - to exchange; '一次 (yīcì)' - one time; '回眸 (huímóu)' - to look back."
+        }
+      ]
+    }
+  ]
+}
