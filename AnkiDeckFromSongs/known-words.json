@@ -18,5 +18,17 @@
     {
         "chineseText": "朋友",
         "englishText": "friend"
+    },
+    {
+        "chineseText": "是",
+        "englishText": "to be, yes"
+    },
+    {
+        "chineseText": "爱",
+        "englishText": "to love, affection, like"
+    },
+    {
+        "chineseText": "小",
+        "englishText": "small, little"
     }
 ]

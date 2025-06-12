@@ -116,7 +116,7 @@ function Add-CardsToAnki {
 .PARAMETER DeckName
     Name of the deck to ensure exists
 .EXAMPLE
-    Confirm-DeckExists -DeckName "Chinese Learning - Electronic Girl"
+    Confirm-DeckExists -DeckName "Chinese -  Electronic Girl"
 #>
 function Confirm-DeckExists {
     [CmdletBinding()]

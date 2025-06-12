@@ -1,4 +1,3 @@
-
 # Chinese Learning with Anki (Original)
 
 A PowerShell module for creating Anki decks from Chinese songs using anki-connect API.
@@ -62,7 +61,7 @@ The process generates a JSON object. The primary components are `deckInfo` and `
 
 ### 1. `deckInfo` Object
 
-*   `name`: A descriptive name for the Anki subdeck (e.g., "Chinese Learning - My Little Apple - Chorus v1").
+*   `name`: A descriptive name for the Anki subdeck (e.g., "Chinese -  My Little Apple - Chorus v1").
 *   `description`: A brief description of the deck's content.
 *   `level`: The song section (e.g., "Chorus", "IntroVerse1").
 *   `type`: Typically "mixed".
@@ -72,7 +71,7 @@ Example `deckInfo`:
 ```json
 {
   "deckInfo": {
-    "name": "Chinese Learning - My Little Apple - Chorus v1",
+    "name": "Chinese -  My Little Apple - Chorus v1",
     "description": "Covers Level 1 (characters & small words), Level 2 (phrases) for the Chorus of My Little Apple.",
     "level": "Chorus",
     "type": "mixed",
@@ -143,15 +142,38 @@ Organize vocabulary into levels within `conceptGroups`.
 
 ### 3. `explanation` Field Guidelines
 The `explanation` field is crucial for context.
-*   **Character Breakdown**: If a word comprises multiple characters, explain the meaning of individual characters if it aids understanding (e.g., for "怎么爱你": "'怎么 (zěnme)' - how; '爱 (ài)' - to love; '你 (nǐ)' - you.").
+*   **Single Character**: Leave the explanation blank ""
+*   **Character Breakdown**: If a word comprises multiple characters, explain the meaning of individual characters if it aids understanding (e.g., for "怎么爱你": "'怎么 (zěnme)' - how; '爱 (ài)' - to love; '你 (nǐ)' - you."; for "歲月 (suìyuè)": "歲 (suì) - age/years + 月 (yuè) - moon/month = years, time passing.").
 *   **Grammar Notes**: Briefly explain relevant grammar points (e.g., "Adjective reduplication '红红 (hóng hóng)' emphasizes the color red.").
-*   **Source Lyric**: Always state which lyric line the word/phrase originates from (e.g., "From the lyric '怎么爱你都不嫌多'.").
-*   **Clarity and Conciseness**:
-    *   If a helpful and concise explanation incorporating the above points cannot be formulated, leave the `explanation` field empty.
-    *   AVOID generic or unhelpful explanations like "Phrase from chorus."
 
 ## Card Types (Contextual Information)
 
 The system supports different card types (listening, reading), which is defined in `deckInfo.cardTemplates`. The vocabulary JSON itself does not need to specify the card type directly.
 *   **Listening Cards**: Audio on the front, Chinese characters and English translation on the back.
 *   **Reading Cards**: Chinese characters on the front, English translation and audio on the back.
+
+
+## New deck creation process
+1. Find the lyrics from the website in both Chinese and English
+2. Split the lyrics into chorus, versus, bridge, outro, etc
+3. - a. Pick the part of the song to generate a subdeck for
+   - b. Create the cards with no explanations
+   - c. Update the explanations following the rules 
+4. Test out the subdeck
+5. Repeat part 3. with the next part of the song
+
+
+## TODO
+
+* Test decks again that the cards are in the right order - DONE
+
+
+* test out my little apple again
+* see any improvements for my little apple, make it the gold standard for explanations
+* make electronic girl have good explanations like the other decks
+* update my-good-brother as well, make the explanations follow my little apple
+
+* Better audio - try mdbg.net or some better TTS like OpenAI whisper or chatterbox
+* Generate Alice's decks
+
+* EXTRA - Add audio clips on the back of the explanation lyric that a phrase is part of. Make this optional
