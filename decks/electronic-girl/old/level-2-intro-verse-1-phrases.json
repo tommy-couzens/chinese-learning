@@ -1,0 +1,45 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v3::L2 - Intro/Verse 1 Phrases",
+    "description": "Reinforces the 忽X忽Y phrases from the intro/first verse as complete units.",
+    "level": 2,
+    "type": "mixed",
+    "cardTemplates": ["listening", "chinese-reading", "english-reading"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "忽X忽Y Phrases Review",
+      "description": "Practicing the full 忽X忽Y phrases from the intro/first verse.",
+      "vocabulary": [
+        {
+          "name": "hu_jin_hu_yuan_L2",
+          "pinyin": "hū jìn hū yuǎn",
+          "chineseText": "忽近忽远",
+          "englishText": "suddenly near, suddenly far",
+          "explanation": "Lyric line from Electronic Girl. Emphasizes the complete phrase for recognition."
+        },
+        {
+          "name": "hu_yin_hu_xian_L2",
+          "pinyin": "hū yǐn hū xiàn",
+          "chineseText": "忽隐忽现",
+          "englishText": "suddenly hidden, suddenly appearing; flickering",
+          "explanation": "Lyric line from Electronic Girl. Emphasizes the complete phrase for recognition."
+        },
+        {
+          "name": "hu_ming_hu_an_L2",
+          "pinyin": "hū míng hū àn",
+          "chineseText": "忽明忽暗",
+          "englishText": "suddenly bright, suddenly dark; flickering",
+          "explanation": "Lyric line from Electronic Girl. Emphasizes the complete phrase for recognition."
+        },
+        {
+          "name": "hu_kuai_hu_man_L2",
+          "pinyin": "hū kuài hū màn",
+          "chineseText": "忽快忽慢",
+          "englishText": "suddenly fast, suddenly slow",
+          "explanation": "Lyric line from Electronic Girl. Emphasizes the complete phrase for recognition."
+        }
+      ]
+    }
+  ]
+}

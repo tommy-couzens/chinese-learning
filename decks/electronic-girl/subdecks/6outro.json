@@ -1,0 +1,84 @@
+{
+  "$schema": "../../../AnkiDeckFromSongs/schemas/lesson-schema.json",
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v4::06 Outro",
+    "description": "Outro section of Electronic Girl by Future Orients",
+    "level": "Outro",
+    "type": "mixed",
+    "cardTemplates": ["chinese-reading", "english-reading", "listening"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Outro - Part 1",
+      "description": "First part of the outro.",
+      "vocabulary": [
+        {
+          "name": "ta1xiang3shuo1",
+          "pinyin": "tā xiǎng shuō",
+          "chineseText": "她想说",
+          "englishText": "She wants to say"
+        },
+        {
+          "name": "ta1xiang3wen4",
+          "pinyin": "tā xiǎng wèn",
+          "chineseText": "她想问",
+          "englishText": "She wants to ask"
+        },
+        {
+          "name": "ta1shi4shei2",
+          "pinyin": "tā shì shéi",
+          "chineseText": "她是谁",
+          "englishText": "Who she is"
+        },
+        {
+          "name": "yi1zhi2zhuan3yi1zhi2zhuan3",
+          "pinyin": "yī zhí zhuǎn yī zhí zhuǎn",
+          "chineseText": "一直转一直转",
+          "englishText": "Spinning and spinning"
+        },
+        {
+          "name": "shi4wei4le5shei2",
+          "pinyin": "shì wèi le shéi",
+          "chineseText": "是为了谁",
+          "englishText": "Who is it for?"
+        }
+      ]
+    },
+    {
+      "groupName": "Outro - Part 2",
+      "description": "Second part of the outro.",
+      "vocabulary": [
+        {
+          "name": "ta1xiang3shuo1_2",
+          "pinyin": "tā xiǎng shuō",
+          "chineseText": "她想说",
+          "englishText": "She wants to say"
+        },
+        {
+          "name": "ta1xiang3wen4_2",
+          "pinyin": "tā xiǎng wèn",
+          "chineseText": "她想问",
+          "englishText": "She wants to ask"
+        },
+        {
+          "name": "ta1shi4shei2_2",
+          "pinyin": "tā shì shéi",
+          "chineseText": "她是谁",
+          "englishText": "Who she is"
+        },
+        {
+          "name": "di4qiu2shuo1ni3bu4yong4guan3",
+          "pinyin": "dì qiú shuō nǐ bù yòng guǎn",
+          "chineseText": "地球说你不用管",
+          "englishText": "The Earth says don’t bother"
+        },
+        {
+          "name": "jiu4gen1wo3zhuan3",
+          "pinyin": "jiù gēn wǒ zhuǎn",
+          "chineseText": "就跟我转",
+          "englishText": "Just spin with me"
+        }
+      ]
+    }
+  ]
+}

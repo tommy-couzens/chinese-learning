@@ -1,0 +1,218 @@
+{
+  "$schema": "../../../AnkiDeckFromSongs/schemas/lesson-schema.json",
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v4::02 Chorus",
+    "description": "Covers Level 1 (characters & small words) and Level 2 (phrases/lines) for Chorus 1 of Electronic Girl.",
+    "level": "Chorus1",
+    "type": "mixed",
+    "cardTemplates": ["listening", "chinese-reading", "english-reading"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "L1: Building '她不停的旋转' (tā bù tíng de xuánzhuǎn)",
+      "description": "Characters and words for 'She keeps on spinning'.",
+      "vocabulary": [
+        {
+          "name": "ting2",
+          "pinyin": "tíng",
+          "chineseText": "停",
+          "englishText": "stop, halt",
+          "explanation": "Component of '不停' (bù tíng - non-stop). From Chorus 1: '她不停的旋转'."
+        },
+        {
+          "name": "bu4_ting2",
+          "pinyin": "bù tíng",
+          "chineseText": "不停",
+          "englishText": "non-stop, continuously",
+          "explanation": "From Chorus 1: '她不停的旋转'."
+        },
+        {
+          "name": "xuan2",
+          "pinyin": "xuán",
+          "chineseText": "旋",
+          "englishText": "spin, revolve",
+          "explanation": "Component of '旋转' (xuánzhuǎn - spin). From Chorus 1: '她不停的旋转'."
+        },
+        {
+          "name": "zhuan3",
+          "pinyin": "zhuǎn",
+          "chineseText": "转",
+          "englishText": "turn, rotate, revolve",
+          "explanation": "Component of '旋转' (xuánzhuǎn - spin). From Chorus 1: '她不停的旋转'."
+        },
+        {
+          "name": "xuan2_zhuan3",
+          "pinyin": "xuánzhuǎn",
+          "chineseText": "旋转",
+          "englishText": "spin, rotate, revolve",
+          "explanation": "From Chorus 1: '她不停的旋转'."
+        },
+        {
+          "name": "ta1_bu4_ting2_de5_xuan2_zhuan3",
+          "pinyin": "tā bù tíng de xuánzhuǎn",
+          "chineseText": "她不停的旋转",
+          "englishText": "She keeps on spinning",
+          "explanation": "Full line from Chorus 1."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building '无休止的节拍' (wú xiū zhǐ de jié pāi)",
+      "description": "Characters and words for 'A neverending beat'.",
+      "vocabulary": [
+        {
+          "name": "wu2",
+          "pinyin": "wú",
+          "chineseText": "无",
+          "englishText": "without, no, not have",
+          "explanation": "Component of '无休止' (wúxiūzhǐ - endless). From Chorus 1: '无休止的节拍'."
+        },
+        {
+          "name": "xiu1",
+          "pinyin": "xiū",
+          "chineseText": "休",
+          "englishText": "rest, stop",
+          "explanation": "Component of '休止' (xiūzhǐ - cease). From Chorus 1: '无休止的节拍'."
+        },
+        {
+          "name": "zhi3",
+          "pinyin": "zhǐ",
+          "chineseText": "止",
+          "englishText": "stop, to halt",
+          "explanation": "Component of '休止' (xiūzhǐ - cease) and '无休止' (wúxiūzhǐ - endless). From Chorus 1: '无休止的节拍'."
+        },
+        {
+          "name": "xiu1_zhi3",
+          "pinyin": "xiūzhǐ",
+          "chineseText": "休止",
+          "englishText": "cease, stop, suspend",
+          "explanation": "Component of '无休止' (wúxiūzhǐ - endless). From Chorus 1: '无休止的节拍'."
+        },
+        {
+          "name": "wu2_xiu1_zhi3",
+          "pinyin": "wúxiūzhǐ",
+          "chineseText": "无休止",
+          "englishText": "endless, unceasing, incessant",
+          "explanation": "From Chorus 1: '无休止的节拍'."
+        },
+        {
+          "name": "jie2",
+          "pinyin": "jié",
+          "chineseText": "节",
+          "englishText": "section, length, festival, rhythm",
+          "explanation": "Component of '节拍' (jiépāi - beat). From Chorus 1: '无休止的节拍'."
+        },
+        {
+          "name": "pai1",
+          "pinyin": "pāi",
+          "chineseText": "拍",
+          "englishText": "beat, clap, pat",
+          "explanation": "Component of '节拍' (jiépāi - beat). From Chorus 1: '无休止的节拍'."
+        },
+        {
+          "name": "jie2_pai1",
+          "pinyin": "jiépāi",
+          "chineseText": "节拍",
+          "englishText": "beat (music), rhythm",
+          "explanation": "From Chorus 1: '无休止的节拍'."
+        },
+        {
+          "name": "wu2_xiu1_zhi3_de5_jie2_pai1",
+          "pinyin": "wú xiū zhǐ de jié pāi",
+          "chineseText": "无休止的节拍",
+          "englishText": "A neverending beat",
+          "explanation": "Full line from Chorus 1."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building '在空荡的舞台' (zài kōng dàng de wǔ tái)",
+      "description": "Characters and words for 'On an empty stage'.",
+      "vocabulary": [
+        {
+          "name": "kong1",
+          "pinyin": "kōng",
+          "chineseText": "空",
+          "englishText": "empty, hollow, air, sky",
+          "explanation": "Component of '空荡' (kōngdàng - empty). From Chorus 1: '在空荡的舞台'."
+        },
+        {
+          "name": "dang4",
+          "pinyin": "dàng",
+          "chineseText": "荡",
+          "englishText": "swing, sway, vast, extensive",
+          "explanation": "Component of '空荡' (kōngdàng - empty). From Chorus 1: '在空荡的舞台'."
+        },
+        {
+          "name": "kong1_dang4",
+          "pinyin": "kōngdàng",
+          "chineseText": "空荡",
+          "englishText": "empty, deserted",
+          "explanation": "From Chorus 1: '在空荡的舞台'."
+        },
+        {
+          "name": "wu3",
+          "pinyin": "wǔ",
+          "chineseText": "舞",
+          "englishText": "dance",
+          "explanation": "Component of '舞台' (wǔtái - stage). From Chorus 1: '在空荡的舞台'."
+        },
+        {
+          "name": "tai2",
+          "pinyin": "tái",
+          "chineseText": "台",
+          "englishText": "platform, stage, terrace",
+          "explanation": "Component of '舞台' (wǔtái - stage). From Chorus 1: '在空荡的舞台'."
+        },
+        {
+          "name": "wu3_tai2",
+          "pinyin": "wǔtái",
+          "chineseText": "舞台",
+          "englishText": "stage, arena",
+          "explanation": "From Chorus 1: '在空荡的舞台'."
+        },
+        {
+          "name": "zai4_kong1_dang4_de5_wu3_tai2",
+          "pinyin": "zài kōng dàng de wǔ tái",
+          "chineseText": "在空荡的舞台",
+          "englishText": "On an empty stage",
+          "explanation": "Full line from Chorus 1."
+        }
+      ]
+    },
+    {
+      "groupName": "L2: Chorus 1 Lines Review",
+      "description": "Reviewing the full lines from Chorus 1.",
+      "vocabulary": [
+        {
+          "name": "ta1_bu4_ting2_de5_xuan2_zhuan3",
+          "pinyin": "tā bù tíng de xuánzhuǎn",
+          "chineseText": "她不停的旋转",
+          "englishText": "She keeps on spinning",
+          "explanation": "Full line from Chorus 1 for review."
+        },
+        {
+          "name": "wu2_xiu1_zhi3_de5_jie2_pai1",
+          "pinyin": "wú xiū zhǐ de jié pāi",
+          "chineseText": "无休止的节拍",
+          "englishText": "A neverending beat",
+          "explanation": "Full line from Chorus 1 for review."
+        },
+        {
+          "name": "ta1_bu4_ting2_de5_xuan2_zhuan3_repeat",
+          "pinyin": "tā bù tíng de xuánzhuǎn",
+          "chineseText": "她不停的旋转",
+          "englishText": "She keeps on spinning (repeated line)",
+          "explanation": "Repeated full line from Chorus 1 for review."
+        },
+        {
+          "name": "zai4_kong1_dang4_de5_wu3_tai2",
+          "pinyin": "zài kōng dàng de wǔ tái",
+          "chineseText": "在空荡的舞台",
+          "englishText": "On an empty stage",
+          "explanation": "Full line from Chorus 1 for review."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Anki Lesson File Schema",
+  "description": "Schema for defining content for Anki decks, organized into concept groups and vocabulary items.",
+  "type": "object",
+  "properties": {
+    "deckInfo": {
+      "type": "object",
+      "description": "Information about the Anki sub-deck to be generated from this file.",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "The full name of the Anki sub-deck (e.g., 'Parent Deck::Sub Deck Name')."
+        },
+        "description": {
+          "type": "string",
+          "description": "A brief description of what this lesson file covers."
+        },
+        "level": {
+          "type": "string",
+          "description": "A short identifier for the lesson's content or level (e.g., 'IntroVerse1', 'Chorus1')."
+        },
+        "type": {
+          "type": "string",
+          "description": "The type of cards this lesson primarily focuses on or if it's mixed.",
+          "enum": ["mixed", "listening", "chinese-reading", "english-reading"]
+        },
+        "cardTemplates": {
+          "type": "array",
+          "description": "An array of card template names (without .json extension) to be used for generating cards from this lesson.",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        }
+      },
+      "required": ["name", "description", "level", "type", "cardTemplates"]
+    },
+    "conceptGroups": {
+      "type": "array",
+      "description": "An array of concept groups, each containing related vocabulary items or concepts.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "groupName": {
+            "type": "string",
+            "description": "The name of the concept group, often used for organizational purposes or as a tag."
+          },
+          "description": {
+            "type": "string",
+            "description": "A description of the concept group's focus."
+          }
+        },
+        "oneOf": [
+          {
+            "properties": {
+              "vocabulary": {
+                "type": "array",
+                "description": "An array of vocabulary items within this concept group.",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string",
+                      "description": "A unique identifier for the vocabulary item, often pinyin with numbers (e.g., 'hu1', 'hu_jin_hu_yuan'). Used for audio file naming.",
+                      "pattern": "^[a-zA-Z0-9_]+$"
+                    },
+                    "pinyin": {
+                      "type": "string",
+                      "description": "The pinyin representation of the Chinese text, with tone marks or numbers.",
+                      "pattern": "^[a-zA-Z0-9üÜāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛ\\s]+$"
+                    },
+                    "chineseText": {
+                      "type": "string",
+                      "description": "The Chinese characters for the vocabulary item.",
+                      "pattern": "^[\\u4E00-\\u9FFF\\uFF0C\\u3002\\uFF1F\\uFF01]+$"
+                    },
+                    "englishText": {
+                      "type": "string",
+                      "description": "The English translation or equivalent of the Chinese text."
+                    },
+                    "explanation": {
+                      "type": "string",
+                      "description": "An optional explanation, grammatical note, or context for the vocabulary item."
+                    },
+                    "audioFile": {
+                      "type": "string",
+                      "description": "Optional: The filename of the audio associated with this item (e.g., 'hu1.mp3'). Often generated."
+                    }
+                  },
+                  "required": ["name", "pinyin", "chineseText", "englishText"]
+                },
+                "minItems": 1
+              }
+            },
+            "required": ["groupName", "description", "vocabulary"]
+          },
+          {
+            "properties": {
+              "concepts": {
+                "type": "array",
+                "description": "An array of concepts within this concept group.",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "name": {
+                      "type": "string",
+                      "description": "A unique identifier for the concept, often pinyin with numbers (e.g., 'hu1', 'hu_jin_hu_yuan'). Used for audio file naming.",
+                      "pattern": "^[a-zA-Z0-9_]+$"
+                    },
+                    "pinyin": {
+                      "type": "string",
+                      "description": "The pinyin representation of the Chinese text, with tone marks or numbers.",
+                      "pattern": "^[a-zA-Z0-9üÜāáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜĀÁǍÀĒÉĚÈĪÍǏÌŌÓǑÒŪÚǓÙǕǗǙǛ\\s]+$"
+                    },
+                    "chineseText": {
+                      "type": "string",
+                      "description": "The Chinese characters for the concept.",
+                      "pattern": "^[\\u4E00-\\u9FFF\\uFF0C\\u3002\\uFF1F\\uFF01]+$"
+                    },
+                    "englishText": {
+                      "type": "string",
+                      "description": "The English translation or equivalent of the Chinese text."
+                    },
+                    "explanation": {
+                      "type": "string",
+                      "description": "An optional explanation, grammatical note, or context for the concept."
+                    },
+                    "audioFile": {
+                      "type": "string",
+                      "description": "Optional: The filename of the audio associated with this item (e.g., 'hu1.mp3'). Often generated."
+                    }
+                  },
+                  "required": ["name", "pinyin", "chineseText", "englishText"]
+                },
+                "minItems": 1
+              }
+            },
+            "required": ["groupName", "description", "concepts"]
+          }
+        ]
+      },
+      "minItems": 1
+    }
+  },
+  "required": ["deckInfo", "conceptGroups"]
+}

@@ -1,0 +1,13 @@
+{
+  "templateName": "chinese-reading",
+  "description": "Template for Chinese reading cards - Chinese character first, then show audio, Pinyin and English",
+  "cardStructure": {
+    "front": "{{chineseText}}",
+    "back": "[sound:{{audioFileName}}]<br><br>({{pinyin}})<br><br>{{englishText}}<br><br>{{explanation}}",
+    "audioFile": "{{audioFileName}}",
+    "chineseText": "{{chineseText}}",
+    "translation": "{{englishText}}"
+  },
+  "requiredFields": ["name", "chineseText", "pinyin", "englishText"],
+  "optionalFields": ["explanation"]
+}

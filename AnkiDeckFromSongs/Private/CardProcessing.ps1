@@ -33,121 +33,19 @@ function ConvertFrom-LessonFile {
         [switch]$SkipExisting = $true
     )
     
-    try {
-        $lessonData = Get-Content $LessonFilePath -Raw | ConvertFrom-Json
-        Write-Host "📖 Processing: $($lessonData.deckInfo.name)" -ForegroundColor Cyan
-        Write-Host "   $($lessonData.deckInfo.description)" -ForegroundColor Gray
-        
-        # Ensure deck exists
-        if (-not (Confirm-DeckExists -DeckName $lessonData.deckInfo.name)) {
-            return @()
-        }
-        
-        $allCards = @()
-        
-        # Process concept groups (Level 1) or lyric lines (Level 2)
-        if ($lessonData.conceptGroups) {
-            # Level 1 structure
-            foreach ($group in $lessonData.conceptGroups) {
-                Write-Host "  📝 Processing group: $($group.groupName)" -ForegroundColor Yellow
-                
-                foreach ($card in $group.cards) {
-                    # Ensure audio file exists (generate if missing)
-                    $audioSuccess = Confirm-AudioExists -AudioFile $card.audioFile -ChineseText $card.chineseText -AudioDir $AudioDir
-                    if (-not $audioSuccess -and $card.audioFile) {
-                        Write-Warning "  ⚠ Failed to generate audio for: $($card.chineseText)"
-                    }
-                    
-                    # Determine audio target fields based on deck type
-                    $audioTargetFields = if ($lessonData.deckInfo.type -eq "listening") { @("Front") } else { @("Back") }
-                    
-                    # Prepare audio data for AnkiConnect if audioFile exists
-                    $noteAudio = @()
-                    if ($card.audioFile -and (Test-Path (Join-Path $AudioDir $card.audioFile))) {
-                        $absoluteAudioPath = (Resolve-Path (Join-Path $AudioDir $card.audioFile)).Path
-                        $noteAudio = @(
-                            @{
-                                path = $absoluteAudioPath
-                                filename = $card.audioFile
-                                fields = $audioTargetFields
-                                skipHash = (Get-FileHash $absoluteAudioPath -Algorithm MD5).Hash # AnkiConnect uses MD5 for skipHash
-                            }
-                        )
-                    }
-                    
-                    # Create Anki card object
-                    $ankiCard = @{
-                        deckName = $lessonData.deckInfo.name
-                        modelName = "Basic" # Assuming 'Basic' model, adjust if different
-                        fields = @{
-                            Front = $card.front
-                            Back = $card.back
-                        }
-                        tags = @($SongName, "level-$($lessonData.deckInfo.level)", $lessonData.deckInfo.type) + $card.tags
-                    }
-                    
-                    if ($noteAudio.Count -gt 0) {
-                        $ankiCard.Add("audio", $noteAudio)
-                    }
-                    
-                    $allCards += $ankiCard
-                }
-            }
-        } elseif ($lessonData.lyricLines) {
-            # Level 2 structure
-            foreach ($lineGroup in $lessonData.lyricLines) {
-                Write-Host "  📝 Processing group: $($lineGroup.groupName)" -ForegroundColor Yellow
-                
-                foreach ($card in $lineGroup.cards) {
-                    # Ensure audio file exists (generate if missing)
-                    $audioSuccess = Confirm-AudioExists -AudioFile $card.audioFile -ChineseText $card.chineseText -AudioDir $AudioDir
-                    if (-not $audioSuccess -and $card.audioFile) {
-                        Write-Warning "  ⚠ Failed to generate audio for: $($card.chineseText)"
-                    }
-                    
-                    # Determine audio target fields based on deck type
-                    $audioTargetFields = if ($lessonData.deckInfo.type -eq "listening") { @("Front") } else { @("Back") }
-                    
-                    # Prepare audio data for AnkiConnect if audioFile exists
-                    $noteAudio = @()
-                    if ($card.audioFile -and (Test-Path (Join-Path $AudioDir $card.audioFile))) {
-                        $absoluteAudioPath = (Resolve-Path (Join-Path $AudioDir $card.audioFile)).Path
-                        $noteAudio = @(
-                            @{
-                                path = $absoluteAudioPath
-                                filename = $card.audioFile
-                                fields = $audioTargetFields
-                                skipHash = (Get-FileHash $absoluteAudioPath -Algorithm MD5).Hash # AnkiConnect uses MD5 for skipHash
-                            }
-                        )
-                    }
-                    
-                    # Create Anki card object
-                    $ankiCard = @{
-                        deckName = $lessonData.deckInfo.name
-                        modelName = "Basic" # Assuming 'Basic' model, adjust if different
-                        fields = @{
-                            Front = $card.front
-                            Back = $card.back
-                        }
-                        tags = @($SongName, "level-$($lessonData.deckInfo.level)", $lessonData.deckInfo.type) + $card.tags
-                    }
-                    
-                    if ($noteAudio.Count -gt 0) {
-                        $ankiCard.Add("audio", $noteAudio)
-                    }
-                    
-                    $allCards += $ankiCard
-                }
-            }
-        }
-        
-        Write-Host "  ✓ Prepared $($allCards.Count) cards from this lesson" -ForegroundColor Green
-        return $allCards
-        
-    } catch {
-        Write-Error "Failed to process lesson file $LessonFilePath`: $_"
-        return @()
+    $lessonData = Get-Content $LessonFilePath -Raw | ConvertFrom-Json
+    Write-Host "📖 Processing: $($lessonData.deckInfo.name)" -ForegroundColor Cyan
+    Write-Host "   $($lessonData.deckInfo.description)" -ForegroundColor Gray
+    
+    # Check if this is a new format (has conceptGroups)
+    if ($lessonData.conceptGroups) {
+        Write-Host "   🔄 Using template-based format (conceptGroups found)" -ForegroundColor Magenta
+        return ConvertFrom-VocabularyFile -VocabularyFilePath $LessonFilePath -AudioDir $AudioDir -SongName $SongName -SkipExisting:$SkipExisting
+    } elseif ($lessonData.deckInfo.cardTemplates -and $lessonData.conceptGroups -and $lessonData.conceptGroups[0].vocabulary) { # Original check, keeping for safety but conceptGroups check above should catch it
+        Write-Host "   🔄 Using template-based format (vocabulary array found)" -ForegroundColor Magenta
+        return ConvertFrom-VocabularyFile -VocabularyFilePath $LessonFilePath -AudioDir $AudioDir -SongName $SongName -SkipExisting:$SkipExisting
+    } else {
+        throw "This file format is no longer supported or is missing expected structures like 'conceptGroups' or 'deckInfo'. Please use the new vocabulary-based format for file: $LessonFilePath"
     }
 }
 
@@ -186,9 +84,9 @@ function Add-CardsToAnki {
         if ($response.error) {
             if ($response.error -match "duplicate") {
                 $duplicateCount++
-                if (-not $SkipExisting) {
-                    Write-Host "  ⚠ Duplicate: $($card.fields.Front)" -ForegroundColor Yellow
-                }
+                # if ($Verbose) { # Changed condition to use Verbose switch
+                #     Write-Host "  ⚠ Duplicate: $($card.fields.Front)" -ForegroundColor Yellow
+                # }
             } else {
                 $failureCount++
                 Write-Warning "  ✗ Failed: $($card.fields.Front) - $($response.error)"

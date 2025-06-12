@@ -1,0 +1,13 @@
+{
+  "templateName": "listening",
+  "description": "Template for listening cards - audio first, then show Chinese with Pinyin and English",
+  "cardStructure": {
+    "front": "[sound:{{audioFileName}}]",
+    "back": "{{chineseText}} ({{pinyin}})<br><br>{{englishText}}<br><br>{{explanation}}",
+    "audioFile": "{{audioFileName}}",
+    "chineseText": "{{chineseText}}",
+    "translation": "{{englishText}}"
+  },
+  "requiredFields": ["name", "chineseText", "pinyin", "englishText"],
+  "optionalFields": ["explanation"]
+}

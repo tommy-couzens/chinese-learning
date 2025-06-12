@@ -1,0 +1,99 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v3::Level 1 - Building Blocks",
+    "description": "Character-first cards building from characters to compounds to key phrases with both reading and listening practice",
+    "level": 1,
+    "type": "mixed",
+    "cardTemplates": ["listening", "chinese-reading", "english-reading"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "The 'suddenly' pattern (忽X忽Y)",
+      "description": "Core pattern word and building the most important phrase",
+      "vocabulary": [
+        {
+          "name": "hu1",
+          "pinyin": "hū",
+          "chineseText": "忽",
+          "englishText": "suddenly, abruptly",
+          "explanation": "Key pattern word in: 忽近忽远, 忽隐忽现..."
+        },
+        {
+          "name": "jin4",
+          "pinyin": "jìn",
+          "chineseText": "近",
+          "englishText": "near, close",
+          "explanation": "Opposite of 远. Used in: 忽近忽远"
+        },
+        {
+          "name": "yuan3",
+          "pinyin": "yuǎn",
+          "chineseText": "远",
+          "englishText": "far, distant",
+          "explanation": "Opposite of 近. Used in: 忽近忽远"
+        },
+        {
+          "name": "hu_jin_hu_yuan",
+          "pinyin": "hū jìn hū yuǎn",
+          "chineseText": "忽近忽远",
+          "englishText": "suddenly near, suddenly far",
+          "explanation": "Pattern: 忽X忽Y = suddenly X, suddenly Y"
+        }
+      ]
+    },
+    {
+      "groupName": "More 忽X忽Y patterns",
+      "description": "Reinforcing the pattern with additional examples",
+      "vocabulary": [
+        {
+          "name": "hu_yin_hu_xian",
+          "pinyin": "hū yǐn hū xiàn",
+          "chineseText": "忽隐忽现",
+          "englishText": "suddenly gone, suddenly there",
+          "explanation": "Same pattern as 忽近忽远"
+        },
+        {
+          "name": "hu_ming_hu_an",
+          "pinyin": "hū míng hū àn",
+          "chineseText": "忽明忽暗",
+          "englishText": "suddenly bright, suddenly dark",
+          "explanation": "Same pattern as 忽近忽远"
+        },
+        {
+          "name": "hu_kuai_hu_man",
+          "pinyin": "hū kuài hū màn",
+          "chineseText": "忽快忽慢",
+          "englishText": "suddenly fast, suddenly slow",
+          "explanation": "Same pattern as 忽近忽远"
+        }
+      ]
+    },
+    {
+      "groupName": "Continuous action - building 不停",
+      "description": "Understanding negation + action = continuous action",
+      "vocabulary": [
+        {
+          "name": "bu4",
+          "pinyin": "bù",
+          "chineseText": "不",
+          "englishText": "not, no",
+          "explanation": "Negation word - used in 不停 (non-stop)"
+        },
+        {
+          "name": "ting2",
+          "pinyin": "tíng",
+          "chineseText": "停",
+          "englishText": "stop, halt",
+          "explanation": "Used in 不停 (non-stop)"
+        },
+        {
+          "name": "bu_ting",
+          "pinyin": "bù tíng",
+          "chineseText": "不停",
+          "englishText": "non-stop, continuously",
+          "explanation": "不 + 停 = not + stop = non-stop"
+        }
+      ]
+    }
+  ]
+}

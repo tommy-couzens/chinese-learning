@@ -1,0 +1,24 @@
+{
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v3::L3 - Intro/Verse 1 Complete",
+    "description": "The complete intro/first verse as a single unit for comprehension and recall.",
+    "level": 3,
+    "type": "mixed",
+    "cardTemplates": ["listening", "chinese-reading", "english-reading"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "Intro / Verse 1 - Full Text",
+      "description": "The entire first section of the song.",
+      "vocabulary": [
+        {
+          "name": "intro_verse_1_full",
+          "pinyin": "hū jìn hū yuǎn, hū yǐn hū xiàn, hū míng hū àn, hū kuài hū màn",
+          "chineseText": "忽近忽远，忽隐忽现，忽明忽暗，忽快忽慢",
+          "englishText": "Suddenly near, suddenly far. Suddenly hidden, suddenly appearing. Suddenly bright, suddenly dark. Suddenly fast, suddenly slow.",
+          "explanation": "The complete intro/first verse from Electronic Girl. This helps in understanding the flow and context of the individual phrases learned in previous levels."
+        }
+      ]
+    }
+  ]
+}

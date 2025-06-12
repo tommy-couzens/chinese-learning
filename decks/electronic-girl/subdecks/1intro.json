@@ -1,0 +1,167 @@
+{
+  "$schema": "../../../AnkiDeckFromSongs/schemas/lesson-schema.json",
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v4::01 Intro",
+    "description": "Covers Level 1 (characters & small words), Level 2 (phrases), and Level 3 (full lines) for the Intro/Verse 1 of Electronic Girl.",
+    "level": "IntroVerse1",
+    "type": "mixed",
+    "cardTemplates": ["listening", "chinese-reading", "english-reading"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "L1: Core Character - 忽 (hū)",
+      "description": "Introducing the foundational character 忽.",
+      "vocabulary": [
+        {
+          "name": "hu1",
+          "pinyin": "hū",
+          "chineseText": "忽",
+          "englishText": "suddenly, abruptly",
+          "explanation": "From '忽近忽远'. Key character in 忽X忽Y patterns."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 忽近忽远 (hū jìn hū yuǎn)",
+      "description": "Characters 近 (jìn), 远 (yuǎn) and the combined phrase.",
+      "vocabulary": [
+        {
+          "name": "jin4",
+          "pinyin": "jìn",
+          "chineseText": "近",
+          "englishText": "near, close",
+          "explanation": "Component of 忽近忽远."
+        },
+        {
+          "name": "yuan3",
+          "pinyin": "yuǎn",
+          "chineseText": "远",
+          "englishText": "far, distant",
+          "explanation": "Component of 忽近忽远."
+        },
+        {
+          "name": "hu_jin_hu_yuan",
+          "pinyin": "hū jìn hū yuǎn",
+          "chineseText": "忽近忽远",
+          "englishText": "suddenly near, suddenly far",
+          "explanation": "Lyric line. Pattern: 忽X忽Y."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 忽隐忽现 (hū yǐn hū xiàn)",
+      "description": "Characters 隐 (yǐn), 现 (xiàn) and the combined phrase.",
+      "vocabulary": [
+        {
+          "name": "yin3",
+          "pinyin": "yǐn",
+          "chineseText": "隐",
+          "englishText": "hidden, concealed",
+          "explanation": "Component of 忽隐忽现."
+        },
+        {
+          "name": "xian4",
+          "pinyin": "xiàn",
+          "chineseText": "现",
+          "englishText": "appear, present",
+          "explanation": "Component of 忽隐忽现."
+        },
+        {
+          "name": "hu_yin_hu_xian",
+          "pinyin": "hū yǐn hū xiàn",
+          "chineseText": "忽隐忽现",
+          "englishText": "suddenly hidden, suddenly appearing",
+          "explanation": "Lyric line. Pattern: 忽X忽Y."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 忽明忽暗 (hū míng hū àn)",
+      "description": "Characters 明 (míng), 暗 (àn) and the combined phrase.",
+      "vocabulary": [
+        {
+          "name": "ming2",
+          "pinyin": "míng",
+          "chineseText": "明",
+          "englishText": "bright, clear",
+          "explanation": "Component of 忽明忽暗."
+        },
+        {
+          "name": "an4",
+          "pinyin": "àn",
+          "chineseText": "暗",
+          "englishText": "dark, dim",
+          "explanation": "Component of 忽明忽暗."
+        },
+        {
+          "name": "hu_ming_hu_an",
+          "pinyin": "hū míng hū àn",
+          "chineseText": "忽明忽暗",
+          "englishText": "suddenly bright, suddenly dark",
+          "explanation": "Lyric line. Pattern: 忽X忽Y."
+        }
+      ]
+    },
+    {
+      "groupName": "L1: Building 忽快忽慢 (hū kuài hū màn)",
+      "description": "Characters 快 (kuài), 慢 (màn) and the combined phrase.",
+      "vocabulary": [
+        {
+          "name": "kuai4",
+          "pinyin": "kuài",
+          "chineseText": "快",
+          "englishText": "fast, quick",
+          "explanation": "Component of 忽快忽慢."
+        },
+        {
+          "name": "man4",
+          "pinyin": "màn",
+          "chineseText": "慢",
+          "englishText": "slow",
+          "explanation": "Component of 忽快忽慢."
+        },
+        {
+          "name": "hu_kuai_hu_man",
+          "pinyin": "hū kuài hū màn",
+          "chineseText": "忽快忽慢",
+          "englishText": "suddenly fast, suddenly slow",
+          "explanation": "Lyric line. Pattern: 忽X忽Y."
+        }
+      ]
+    },
+    {
+      "groupName": "L2: Intro/Verse 1 Phrases Review",
+      "description": "Reviewing the 忽X忽Y phrases as complete units.",
+      "vocabulary": [
+        {
+          "name": "hu_jin_hu_yuan",
+          "pinyin": "hū jìn hū yuǎn",
+          "chineseText": "忽近忽远",
+          "englishText": "suddenly near, suddenly far",
+          "explanation": "Full phrase from Intro/Verse 1 for recognition."
+        },
+        {
+          "name": "hu_yin_hu_xian",
+          "pinyin": "hū yǐn hū xiàn",
+          "chineseText": "忽隐忽现",
+          "englishText": "suddenly hidden, suddenly appearing",
+          "explanation": "Full phrase from Intro/Verse 1 for recognition."
+        },
+        {
+          "name": "hu_ming_hu_an",
+          "pinyin": "hū míng hū àn",
+          "chineseText": "忽明忽暗",
+          "englishText": "suddenly bright, suddenly dark",
+          "explanation": "Full phrase from Intro/Verse 1 for recognition."
+        },
+        {
+          "name": "hu_kuai_hu_man",
+          "pinyin": "hū kuài hū màn",
+          "chineseText": "忽快忽慢",
+          "englishText": "suddenly fast, suddenly slow",
+          "explanation": "Full phrase from Intro/Verse 1 for recognition."
+        }
+      ]
+    }
+  ]
+}

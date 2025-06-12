@@ -36,7 +36,7 @@ function New-AnkiDeck {
         Requires Anki to be running with the AnkiConnect add-on installed.
         Song folders should be organized under decks/ directory.
     #>
-    [CmdletBinding()]
+    [CmdletBinding()] # Add SupportsShouldProcess if you want to use -WhatIf and -Confirm
     param(
         [Parameter(Position = 0, Mandatory = $true)]
         [string]$SongName,
@@ -64,12 +64,18 @@ function New-AnkiDeck {
         }
         return
     }
+
+    $subdecksPath = Join-Path $songPath "subdecks" # Define subdecks path
     
-    # If no lesson files specified, find all JSON files in the song directory
+    # If no lesson files specified, find all JSON files in the song's subdecks directory
     if ($LessonFiles.Count -eq 0) {
-        $jsonFiles = Get-ChildItem -Path $songPath -Filter "*.json" | Select-Object -ExpandProperty Name
+        if (-not (Test-Path $subdecksPath)) {
+            Write-Error "Subdecks directory not found: $subdecksPath"
+            return
+        }
+        $jsonFiles = Get-ChildItem -Path $subdecksPath -Filter "*.json" | Select-Object -ExpandProperty Name
         if ($jsonFiles.Count -eq 0) {
-            Write-Error "No JSON lesson files found in: $songPath"
+            Write-Error "No JSON lesson files found in: $subdecksPath"
             return
         }
         $LessonFiles = $jsonFiles
@@ -102,7 +108,8 @@ function New-AnkiDeck {
     # Process all lesson files
     $allCards = @()
     foreach ($lessonFile in $LessonFiles) {
-        $lessonPath = Join-Path $songPath $lessonFile
+        # Construct path to lesson file within the subdecks directory
+        $lessonPath = Join-Path $subdecksPath $lessonFile 
         if (Test-Path $lessonPath) {
             $cards = ConvertFrom-LessonFile -LessonFilePath $lessonPath -AudioDir $localAudioDir -SongName $SongName -SkipExisting:$SkipExisting
             $allCards += $cards

@@ -1,0 +1,40 @@
+{
+  "$schema": "../../../AnkiDeckFromSongs/schemas/lesson-schema.json",
+  "title": "Electronic Girl - Verse 2",
+  "description": "Vocabulary from Verse 2 of Electronic Girl by The Hormones",
+  "deckInfo": {
+    "name": "Chinese Learning - Electronic Girl v4::03 Verse",
+    "description": "Covers Level 1 (characters & small words) and Level 2 (phrases/lines) for Verse 2 of Electronic Girl.",
+    "level": "Verse2",
+    "type": "mixed",
+    "cardTemplates": ["listening", "chinese-reading", "english-reading"]
+  },
+  "conceptGroups": [
+    {
+      "groupName": "L1 - Verse 2 - Characters/Words",
+      "description": "Characters and words from Verse 2.",
+      "concepts": [
+        {"name": "tai4", "chineseText": "太", "englishText": "too, excessively", "pinyin": "tài"},
+        {"name": "jin4", "chineseText": "近", "englishText": "near, close", "pinyin": "jìn"},
+        {"name": "yuan3", "chineseText": "远", "englishText": "far, distant", "pinyin": "yuǎn"},
+        {"name": "shen1", "chineseText": "深", "englishText": "deep", "pinyin": "shēn"},
+        {"name": "qian3", "chineseText": "浅", "englishText": "shallow", "pinyin": "qiǎn"},
+        {"name": "wu2_V2", "chineseText": "无", "englishText": "no, without, -less", "pinyin": "wú"},
+        {"name": "sheng1", "chineseText": "声", "englishText": "sound, voice", "pinyin": "shēng"},
+        {"name": "ying3", "chineseText": "影", "englishText": "shadow, image", "pinyin": "yǐng"},
+        {"name": "bian1_V2", "chineseText": "边", "englishText": "side, edge, border", "pinyin": "biān"},
+        {"name": "jin4_V2_end", "chineseText": "尽", "englishText": "end, to exhaust", "pinyin": "jìn"}
+      ]
+    },
+    {
+      "groupName": "L2 - Verse 2 - Phrases/Lines",
+      "description": "Phrases and lines from Verse 2.",
+      "concepts": [
+        {"name": "tai4_jin4_tai4_yuan3", "chineseText": "太近太远", "englishText": "Too close, too far", "pinyin": "tài jìn tài yuǎn"},
+        {"name": "tai4_shen1_tai4_qian3", "chineseText": "太深太浅", "englishText": "Too deep, too shallow", "pinyin": "tài shēn tài qiǎn"},
+        {"name": "wu2_sheng1_wu2_ying3", "chineseText": "无声无影", "englishText": "No sounds, no shadows", "pinyin": "wú shēng wú yǐng"},
+        {"name": "wu2_bian1_wu2_jin4", "chineseText": "无边无尽", "englishText": "No borders, no ends", "pinyin": "wú biān wú jìn"}
+      ]
+    }
+  ]
+}
