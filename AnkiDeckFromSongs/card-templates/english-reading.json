@@ -3,7 +3,7 @@
   "description": "Template for English reading cards - English first, then show Chinese with audio and Pinyin",
   "cardStructure": {
     "front": "{{englishText}}",
-    "back": "[sound:{{audioFileName}}]<br><br>{{chineseText}} ({{pinyin}})<br><br>{{explanation}}",
+    "back": "[sound:{{audioFileName}}]<br><br><span style=\"font-size: 1.8em; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', SimSun, sans-serif;\">{{chineseText}}</span> ({{pinyin}})<br><br>{{explanation}}",
     "audioFile": "{{audioFileName}}",
     "chineseText": "{{chineseText}}",
     "translation": "{{englishText}}"
